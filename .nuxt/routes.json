@@ -3,48 +3,56 @@
     "name": "about",
     "path": "/about",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_46d823c4"
   },
   {
     "name": "blog-details",
     "path": "/blog-details",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/blog-details.vue",
-    "chunkName": "pages/blog-details"
+    "chunkName": "pages/blog-details",
+    "_name": "_69c2b5a0"
   },
   {
     "name": "blog-left-sidebar",
     "path": "/blog-left-sidebar",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/blog-left-sidebar.vue",
-    "chunkName": "pages/blog-left-sidebar"
+    "chunkName": "pages/blog-left-sidebar",
+    "_name": "_2801f8d0"
   },
   {
     "name": "blog-right-sidebar",
     "path": "/blog-right-sidebar",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/blog-right-sidebar.vue",
-    "chunkName": "pages/blog-right-sidebar"
+    "chunkName": "pages/blog-right-sidebar",
+    "_name": "_229c5299"
   },
   {
     "name": "case-details",
     "path": "/case-details",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/case-details.vue",
-    "chunkName": "pages/case-details"
+    "chunkName": "pages/case-details",
+    "_name": "_7ab40bbe"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/contact.vue",
-    "chunkName": "pages/contact"
+    "chunkName": "pages/contact",
+    "_name": "_1849d1d2"
   },
   {
     "name": "service-details",
     "path": "/service-details",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/service-details.vue",
-    "chunkName": "pages/service-details"
+    "chunkName": "pages/service-details",
+    "_name": "_2202a621"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_668ffe89"
   }
 ]

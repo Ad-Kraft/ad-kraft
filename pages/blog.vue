@@ -5,9 +5,9 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Blog left sidebar" active-title="Blog left sidebar" />
+        <Breadcrumb title="Blog" active-title="Blog" />
 
-        <BlogWrapper orderClass="order-lg-first" />
+        <BlogWrapper />
 
         <Footer />
 
@@ -29,7 +29,7 @@
 
         head() {
             return {
-                title: 'Blog left sidebar'
+                title: 'Blog'
             }
         },
     };

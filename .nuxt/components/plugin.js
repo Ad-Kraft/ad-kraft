@@ -3,7 +3,6 @@ import { wrapFunctional } from './utils'
 
 const components = {
   AboutBanner: () => import('../../components/AboutBanner.vue' /* webpackChunkName: "components/about-banner" */).then(c => wrapFunctional(c.default || c)),
-  AboutOne: () => import('../../components/AboutOne.vue' /* webpackChunkName: "components/about-one" */).then(c => wrapFunctional(c.default || c)),
   AboutTwo: () => import('../../components/AboutTwo.vue' /* webpackChunkName: "components/about-two" */).then(c => wrapFunctional(c.default || c)),
   Accordion: () => import('../../components/Accordion.vue' /* webpackChunkName: "components/accordion" */).then(c => wrapFunctional(c.default || c)),
   BlogDetailsWrapper: () => import('../../components/BlogDetailsWrapper.vue' /* webpackChunkName: "components/blog-details-wrapper" */).then(c => wrapFunctional(c.default || c)),

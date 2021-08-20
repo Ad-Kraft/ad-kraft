@@ -9,7 +9,7 @@
                     <nav aria-label="breadcrumb">
                         <ul class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item">
-                                <n-link to="/">Home</n-link>
+                                <n-link to="/">Početna</n-link>
                             </li>
                             <li class="breadcrumb-item active" aria-current="page"><span>{{ activeTitle }}</span></li>
                         </ul>

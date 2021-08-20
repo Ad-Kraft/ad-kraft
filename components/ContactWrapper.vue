@@ -14,8 +14,8 @@
                                 <span class="icofont-ui-call"></span>
                             </div>
                             <div class="content">
-                                <span class="text">Phone:</span>
-                                <a href="tel:0123456789" class="number">(+00) 123 456 789</a>
+                                <span class="text">Telefon:</span>
+                                <a href="tel:+38765393205" class="number">+387 (0) 65 393 205</a>
                             </div>
                         </div>
                         <!-- contact media end -->
@@ -26,7 +26,7 @@
                             </div>
                             <div class="content">
                                 <span class="text">Email:</span>
-                                <a href="mailto:demo@gmail.com" class="number">demo@gmail.com</a>
+                                <a href="mailto:info@ad-kraft.com" class="number">info@ad-kraft.com</a>
                             </div>
                         </div>
                         <!-- contact media end -->
@@ -36,35 +36,38 @@
                                 <span class="icofont-map-pins"></span>
                             </div>
                             <div class="content">
-                                <span class="text">Address:</span>
-                                <h3 class="number">Chilton, Texas(TX, 766)</h3>
+                                <span class="text">Adresa:</span>
+                                <h3 class="number">Sime Šolaje 1a, 78000 Banja Luka, Bosna i Hercegovina</h3>
                             </div>
                         </div>
                         <!-- contact media end -->
                     </div>
                     <div class="col-lg-6 mt-35">
                         <div class="section-title">
-                            <h3 class="title">Send Us A Message</h3>
+                            <h3 class="title">Pošaljite poruku</h3>
                             <span class="comment-hr mb-0"></span>
                         </div>
 
                         <div class="comment-form pt-xl-8">
                             <form class="row gx-4">
                                 <div class="col-12 col-sm-6">
-                                    <input class="form-control" placeholder="Enter Your Name" type="text" name="name" />
+                                    <input class="form-control" placeholder="Ime i prezime *" type="text" name="name" />
                                 </div>
                                 <div class="col-12 col-sm-6">
-                                    <input class="form-control" placeholder="Enter Your Email" type="text" name="email" />
+                                    <input class="form-control" placeholder="Email adresa *" type="text" name="email" />
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <input class="form-control" placeholder="Firma" type="text" name="subject" />
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <input class="form-control" placeholder="Broj telefona" type="text" name="subject" />
                                 </div>
                                 <div class="col-12">
-                                    <input class="form-control" placeholder="Enter Your Subject" type="text" name="subject" />
-                                </div>
-                                <div class="col-12">
-                                    <textarea placeholder="Type your question" class="form-control textarea-control" name="message" cols="30" rows="10"></textarea>
+                                    <textarea placeholder="Poruka" class="form-control textarea-control" name="message" cols="30" rows="10"></textarea>
                                 </div>
                                 <div class="col-12">
                                     <button type="submit" class="btn btn-warning">
-                                        Submit Comment
+                                        Pošalji
                                         <i class="icofont-rounded-double-right"></i>
                                     </button>
                                 </div>

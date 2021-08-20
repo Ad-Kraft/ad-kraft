@@ -4,7 +4,8 @@
             <div class="row">
                 <div class="col-12" data-aos="fade-up" data-aos-delay="100">
                     <div class="section-title primary text-center pb-100">
-                        <h3 class="title">From Happy Customer</h3>
+                        <h3 class="title">Klijenti o nama</h3>
+                        <h6>Vrlo smo ponosni na usluge koje pružamo našim klijentima. Zapravo, odnos s klijentom vidimo puno ličnijim nego većina digitalnih agencija. Naši odnosi s klijentima ne počinju u 9:00h i završavaju u 17:00h – s njima smo neprekidno kako bismo im pružili kvalitetnu uslugu kakvu zaslužuju.</h6>
                         <span class="hr-secondary"></span>
                     </div>
                 </div>
@@ -29,9 +30,9 @@
                                         <img class="testimonial-profile" src="/images/testimonial/lg-1.png" alt="images-not_found" />
                                         <span class="quote">“</span>
                                     </div>
-                                    <p>Lorem Ipsum is simply dummy text the printing and typesetting as been the industry's standard dummy text ever since the 1500s when unknown printer took a galley of type and scrambled it to make specimen book has survived not only five centuries</p>
-                                    <h5 class="sub-title">Georgia Jones</h5>
-                                    <span class="designation">Ui/Ux designer</span>
+                                    <p>„Imaju sjajan tim koji savršeno upravlja našim kampanjama. Pomogli su nam da razvijemo svoj biznis i sad nam je najveći problem što imamo previše posla. Ad Kraft je zaslužan što smo danas ispred naše konkurencije. Hvala vam!”</p>
+                                    <h5 class="sub-title">Mladen Kostić – SHB Kostić</h5>
+                                    <span class="designation">spec. internista</span>
                                 </div>
                                 <!-- swiper-slide end -->
                                 <!-- swiper-slide start -->
@@ -40,9 +41,9 @@
                                         <img class="testimonial-profile" src="/images/testimonial/lg-2.png" alt="images-not_found" />
                                         <span class="quote">“</span>
                                     </div>
-                                    <p>Lorem Ipsum is simply dummy text the printing and typesetting as been the industry's standard dummy text ever since the 1500s when unknown printer took a galley of type and scrambled it to make specimen book has survived not only five centuries</p>
-                                    <h5 class="sub-title">Kenneth M. Aguiar</h5>
-                                    <span class="designation">Ui/Ux designer</span>
+                                    <p>„Riješili su sve probleme koje smo imali s Google Ads-om. Conversion rate nam se povećao za 3% i započeli smo niz novih kampanja. Sviđa mi se njihova agilnost, stručnost i njihov proaktivni nastup.“</p>
+                                    <h5 class="sub-title">Goran Gojić – Bravo Systems</h5>
+                                    <span class="designation">Direktor</span>
                                 </div>
                                 <!-- swiper-slide end -->
                                 <!-- swiper-slide start -->
@@ -62,9 +63,9 @@
                                         <img class="testimonial-profile" src="/images/testimonial/lg-4.png" alt="images-not_found" />
                                         <span class="quote">“</span>
                                     </div>
-                                    <p>Lorem Ipsum is simply dummy text the printing and typesetting as been the industry's standard dummy text ever since the 1500s when unknown printer took a galley of type and scrambled it to make specimen book has survived not only five centuries</p>
-                                    <h5 class="sub-title">Barbara K. Griffin</h5>
-                                    <span class="designation">Ui/Ux designer</span>
+                                    <p>„Ako tražite prave saradnike, izaberite Ad Kraft. Ad Kraft nam je sa dobrom strategijom društvenih medija, novom web stranicom i razvojem SEO strategije pomogao da se probijemo. Imaju odličan tim i sada ne mogu zamisliti da s nekim drugim sarađujemo.”</p>
+                                    <h5 class="sub-title">Dr. Boris Ćulum – Elite Dent</h5>
+                                    <span class="designation">Doktor</span>
                                 </div>
                                 <!-- swiper-slide end -->
                                 <!-- swiper-slide start -->
@@ -73,9 +74,9 @@
                                         <img class="testimonial-profile" src="/images/testimonial/lg-5.png" alt="images-not_found" />
                                         <span class="quote">“</span>
                                     </div>
-                                    <p>Lorem Ipsum is simply dummy text the printing and typesetting as been the industry's standard dummy text ever since the 1500s when unknown printer took a galley of type and scrambled it to make specimen book has survived not only five centuries</p>
-                                    <h5 class="sub-title">Judith M. Burnett</h5>
-                                    <span class="designation">Ui/Ux designer</span>
+                                    <p>„Ad Kraft je vrhunska kompanija. Znaju svoj posao i potpuno su fokusirani na ostvarivanje rezultata. Preporučujem ih svima.”</p>
+                                    <h5 class="sub-title">Dean Žuna – Ad Lab</h5>
+                                    <span class="designation">Direktor</span>
                                 </div>
                                 <!-- swiper-slide end -->
                                 <!-- swiper-slide start -->

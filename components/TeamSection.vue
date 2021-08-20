@@ -115,6 +115,82 @@
                                 url: "#"
                             }
                         ]
+                    },
+                    {
+                        imgSrc: "/images/team/1.png",
+                        name: "Willie Mckenzie",
+                        designation: "Digital Strategist",
+                        socialLink: [
+                            {
+                                icon: "icofont-facebook",
+                                url: "#"
+                            },
+                            {
+                                icon: "icofont-skype",
+                                url: "#"
+                            },
+                            {
+                                icon: "icofont-twitter",
+                                url: "#"
+                            }
+                        ]
+                    },
+                    {
+                        imgSrc: "/images/team/2.png",
+                        name: "Rosie Greene",
+                        designation: "Project Manager",
+                        socialLink: [
+                            {
+                                icon: "icofont-facebook",
+                                url: "#"
+                            },
+                            {
+                                icon: "icofont-skype",
+                                url: "#"
+                            },
+                            {
+                                icon: "icofont-twitter",
+                                url: "#"
+                            }
+                        ]
+                    },
+                    {
+                        imgSrc: "/images/team/3.png",
+                        name: "Stacey Evans",
+                        designation: "UI/UX designer",
+                        socialLink: [
+                            {
+                                icon: "icofont-facebook",
+                                url: "#"
+                            },
+                            {
+                                icon: "icofont-skype",
+                                url: "#"
+                            },
+                            {
+                                icon: "icofont-twitter",
+                                url: "#"
+                            }
+                        ]
+                    },
+                    {
+                        imgSrc: "/images/team/4.png",
+                        name: "Marian Adams",
+                        designation: "seo specialist",
+                        socialLink: [
+                            {
+                                icon: "icofont-facebook",
+                                url: "#"
+                            },
+                            {
+                                icon: "icofont-skype",
+                                url: "#"
+                            },
+                            {
+                                icon: "icofont-twitter",
+                                url: "#"
+                            }
+                        ]
                     }
                 ]
             }

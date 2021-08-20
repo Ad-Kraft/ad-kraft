@@ -5,15 +5,9 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="About Us" active-title="About Us" />
+        <Breadcrumb title="Kontaktirajte nas" active-title="Kontaktirajte nas" />
 
-        <AboutTwo />
-
-        <AboutOne />
-
-        <TeamSection />
-
-        <TestimonialOne />
+        <ContactWrapper />
 
         <Footer />
 
@@ -28,17 +22,14 @@
             Header: () => import('@/components/Header'),
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
             Breadcrumb: () => import('@/components/Breadcrumb'),
-            AboutTwo: () => import('@/components/AboutTwo'),
-            AboutOne: () => import('@/components/AboutOne'),
-            TeamSection: () => import('@/components/TeamSection'),
-            TestimonialOne: () => import('@/components/TestimonialOne'),
+            ContactWrapper: () => import('@/components/ContactWrapper'),
             Footer: () => import('@/components/Footer'),
             ScrollTop: () => import('@/components/ScrollTop'),
         },
 
         head() {
             return {
-                title: 'About'
+                title: 'Kontaktirajte nas'
             }
         },
     };

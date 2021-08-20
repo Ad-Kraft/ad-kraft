@@ -93,14 +93,14 @@
                                                 <span class="icon">
                                                     <i class="icofont-google-map"></i>
                                                 </span>
-                                                Chilton, Texas(TX), 12345
+                                                Sime Šolaje 1a, 78000 Banja Luka, Bosna i Hercegovina
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="footer-col">
                                     <div class="footer-widget">
-                                        <h4 class="title">All Services</h4>
+                                        <h4 class="title">Usluge</h4>
                                         <ul class="footer-menu">
                                             <li>
                                                 <a class="footer-link" href="#">
@@ -137,7 +137,7 @@
                                 </div>
                                 <div class="footer-col">
                                     <div class="footer-widget">
-                                        <h4 class="title">Information</h4>
+                                        <h4 class="title">Korisni linkovi</h4>
                                         <ul class="footer-menu">
                                             <li>
                                                 <a class="footer-link" href="#">
@@ -174,7 +174,7 @@
                                 </div>
                                 <div class="footer-col">
                                     <div class="footer-widget">
-                                        <h4 class="title">Follow Us</h4>
+                                        <h4 class="title">Pratite nas</h4>
                                         <p>Lorem ipsum is simply dummy text the printing and typesetting.</p>
                                         <ul class="footer-social">
                                             <li class="footer-social-item">

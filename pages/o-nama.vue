@@ -5,13 +5,9 @@
 
         <OffCanvasMobileMenu />
 
-        <Hero />
+        <Breadcrumb title="About Us" active-title="About Us" />
 
-        <BrandLogoCarousel />
-
-        <ServiceOne />
-
-        <WorkingProcess />
+        <AboutTwo />
 
         <section class="about-section">
             <img src="/images/about/bg.png" alt="images-not_found" class="about-bg" />
@@ -25,9 +21,9 @@
                     <div class="col-lg-6">
                         <div class="offset-about">
                             <div class="about-content section-title primary">
-                                <h5 class="sub-title">// Digitalna agencija koja će vas ojačati</h5>
-                                <h3 class="title">Google partner</h3>
-                                <p>Već 3 godine smo sertifikovani i priznati kao Google Partner, gdje smo pokazali našu stručnost i kvalitet. Svake godine obnavljamo našu sertifikaciju i redovno polažemo sve Google testove.</p>
+                                <h5 class="sub-title">// Why Choose Us?</h5>
+                                <h3 class="title">We Are Trusted Digital Marketing Company.</h3>
+                                <p>Lorem Ipsum is dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type scrambled.</p>
                                 <span class="hr-primary mt-4"></span>
                             </div>
                             <div class="about-object">
@@ -68,13 +64,9 @@
             </div>
         </section>
 
-        <CaseStudies />
-
-        <FaqSection />
+        <TeamSection />
 
         <TestimonialOne />
-
-        <BlogOne />
 
         <Footer />
 
@@ -88,24 +80,17 @@
         components: {
             Header: () => import('@/components/Header'),
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
-            Hero: () => import('@/components/Hero'),
-            BrandLogoCarousel: () => import('@/components/BrandLogoCarousel'),
-            ServiceOne: () => import('@/components/ServiceOne'),
-            WorkingProcess: () => import('@/components/WorkingProcess'),
-            CaseStudies: () => import('@/components/CaseStudies'),
-            FaqSection: () => import('@/components/FaqSection'),
+            Breadcrumb: () => import('@/components/Breadcrumb'),
+            AboutTwo: () => import('@/components/AboutTwo'),
+            TeamSection: () => import('@/components/TeamSection'),
             TestimonialOne: () => import('@/components/TestimonialOne'),
-            BlogOne: () => import('@/components/BlogOne'),
             Footer: () => import('@/components/Footer'),
             ScrollTop: () => import('@/components/ScrollTop'),
         },
 
         head() {
             return {
-                title: 'Ad Kraft | Internet Marketing i Web Dizajn Agencija',
-                meta: [{ 
-                    hid: 'description', name: 'description', content: 'Digitalni Marketing Agencija | Banja Luka. Nudimo Vam usluge internet marketinga, web dizajna, SEO, grafičkog dizajna, hostinga i registracije domena.' 
-                }]
+                title: 'About'
             }
         },
     };

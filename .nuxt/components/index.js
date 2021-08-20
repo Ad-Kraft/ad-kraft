@@ -1,7 +1,6 @@
 import { wrapFunctional } from './utils'
 
 export { default as AboutBanner } from '../../components/AboutBanner.vue'
-export { default as AboutOne } from '../../components/AboutOne.vue'
 export { default as AboutTwo } from '../../components/AboutTwo.vue'
 export { default as Accordion } from '../../components/Accordion.vue'
 export { default as BlogDetailsWrapper } from '../../components/BlogDetailsWrapper.vue'
@@ -36,7 +35,6 @@ export { default as WidgetTagCard } from '../../components/WidgetTagCard.vue'
 export { default as WorkingProcess } from '../../components/WorkingProcess.vue'
 
 export const LazyAboutBanner = import('../../components/AboutBanner.vue' /* webpackChunkName: "components/about-banner" */).then(c => wrapFunctional(c.default || c))
-export const LazyAboutOne = import('../../components/AboutOne.vue' /* webpackChunkName: "components/about-one" */).then(c => wrapFunctional(c.default || c))
 export const LazyAboutTwo = import('../../components/AboutTwo.vue' /* webpackChunkName: "components/about-two" */).then(c => wrapFunctional(c.default || c))
 export const LazyAccordion = import('../../components/Accordion.vue' /* webpackChunkName: "components/accordion" */).then(c => wrapFunctional(c.default || c))
 export const LazyBlogDetailsWrapper = import('../../components/BlogDetailsWrapper.vue' /* webpackChunkName: "components/blog-details-wrapper" */).then(c => wrapFunctional(c.default || c))

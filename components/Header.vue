@@ -5,10 +5,10 @@
                 <div class="row align-items-center">
                     <div class="col col-lg-4 d-none d-lg-block">
                         <ul class="header-social-links d-flex flex-wrap align-items-center">
-                            <li class="social-link-item"><a href="#" class="social-link"><i class="icofont-facebook"></i></a></li>
-                            <li class="social-link-item"><a href="#" class="social-link"><i class="icofont-twitter"></i></a></li>
-                            <li class="social-link-item"><a href="#" class="social-link"><i class="icofont-skype"></i></a></li>
-                            <li class="social-link-item"><a href="#" class="social-link"><i class="icofont-linkedin"></i></a></li>
+                            <li class="social-link-item"><a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fad-kraft%2Fabout%2F" class="social-link"><i class="icofont-linkedin"></i></a></li>
+                            <li class="social-link-item"><a href="https://www.facebook.com/Ad.Kraft.Agency/" class="social-link"><i class="icofont-facebook"></i></a></li>
+                            <li class="social-link-item"><a href="https://twitter.com/ad_kraft" class="social-link"><i class="icofont-twitter"></i></a></li>
+                            <li class="social-link-item"><a href="https://www.instagram.com/ad_kraft/" class="social-link"><i class="icofont-instagram"></i></a></li>
                         </ul>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 d-none d-md-block">
@@ -17,12 +17,12 @@
                     <div class="col-12 col-md-6 col-lg-4">
                         <ul class="select-box d-flex flex-wrap align-items-center justify-content-center justify-content-md-end">
                             <li class="select-item">
-                                Cell: <a href="tel:0123456789">0123456789</a>
+                                <a href="tel:+38765393205"><i class="icofont-phone"></i> +387 (0) 65 393 205</a>
                             </li>
                             <li class="select-item">
                                 <select class="form-select">
-                                    <option value="1">English</option>
-                                    <option value="3">Français</option>
+                                    <option value="1">Srpski</option>
+                                    <option value="2">English</option>
                                 </select>
                             </li>
                         </ul>

@@ -10,23 +10,7 @@
                     <div class="social-share-card">
                         <ul>
                             <li class="social-share-item">
-                                <i class="icofont-calendar"></i>
                                 <span>18 January, 2021</span>
-                            </li>
-
-                            <li class="social-share-item">
-                                <i class="icofont-user-alt-7"></i>
-                                <span>Roberto Parker</span>
-                            </li>
-
-                            <li class="social-share-item">
-                                <i class="icofont-heart"></i>
-                                <span>8,568</span>
-                            </li>
-
-                            <li class="social-share-item">
-                                <i class="icofont-speech-comments"></i>
-                                <span>2,356</span>
                             </li>
                         </ul>
                         <div class="social-share-wrap">
@@ -111,51 +95,10 @@
                             </div>
                         </div>
                     </div>
-
-                    <!-- blog comment -->
-                    <div class="blog-comment">
-                        <h3 class="title">Comments (04)</h3>
-                        <!-- blog-comment-list start -->
-                        <div class="blog-comment-list">
-                            <img src="/images/blog-details/3.png" alt="images_not_found" />
-                            <div class="content flex-one">
-                                <h4 class="sub-title">Hassan Boisvert</h4>
-                                <p class="meta-date">12 January 2020</p>
-                                <p>Contrary to popular belief lorem ipsum is not simply random and text. It has roots literature from 459, making it over 2000 yeaars old professor at Virginia looked upper one of the more obscure Latin words.</p>
-
-                                <button class="btn btn-custom-outline">
-                                    <span>Reply <i class="icofont-arrow-right"></i></span>
-                                </button>
-                            </div>
-                        </div>
-                        
-                        <div class="blog-comment-list">
-                            <img src="/images/blog-details/4.png" alt="images_not_found" />
-                            <div class="content flex-one">
-                                <h4 class="sub-title">Romona Prosser</h4>
-                                <p class="meta-date">12 January 2020</p>
-                                <p>Contrary to popular belief lorem ipsum is not simply random and text. It has roots literature from 459, making it over 2000 yeaars old professor at Virginia looked upper one of the more obscure Latin words.</p>
-
-                                <button class="btn btn-custom-outline">
-                                    <span>Reply <i class="icofont-arrow-right"></i></span>
-                                </button>
-                            </div>
-                        </div>
-                        <!-- blog-comment-list end -->
-                    </div>
-
-                    <!-- comment-card -->
-                    <div class="comment-card">
-                        <h3 class="title">Leave A Comment</h3>
-                        <span class="comment-hr"></span>
-                        <CommentForm />
-                    </div>
                 </div>
                 <div class="col-lg-4 order-lg-first">
                     <aside class="sidebar">
                         <WidgetProfileCard />
-                        
-                        <WidgetSearchCard />
 
                         <WidgetPostCategoryCard />
 

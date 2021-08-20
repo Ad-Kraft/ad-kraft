@@ -221,7 +221,7 @@ button {
         display: inline-block;
         margin-left: 28px;
         position: relative;
-        background-image: linear-gradient(0deg, rgb(252, 115, 24) 0%, rgb(254, 180, 35) 100%);
+        background-color: #F08AF8;
         &::before,
         &::after {
             width: 15px;
@@ -277,7 +277,7 @@ button {
     text-align: center;
     background: linear-gradient(to right, #F08AF8 0%, #63B6F3 100%);
     &:hover {
-        background: linear-gradient(to left, #fc7318 0%, #feb423 100%);
+        background: linear-gradient(to left, #F08AF8 0%, #63B6F3 100%);
     }
 }
 
@@ -296,7 +296,7 @@ button {
     top: 50%;
     transform: translateY(-50%);
     border: solid 2px transparent;
-    background :linear-gradient(101deg, #fc7318 0%, #feb423 100%);
+    background :linear-gradient(101deg, #F08AF8 0%, #63B6F3 100%);
     background-origin: border-box;
     box-shadow: 2px 1000px 1px #f7faff inset;
     z-index: 1;

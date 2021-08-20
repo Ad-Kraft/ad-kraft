@@ -4,7 +4,8 @@
             <div class="row">
                 <div class="col-12" data-aos="fade-up" data-aos-delay="200">
                     <div class="section-title primary text-center pb-100">
-                        <h3 class="title">What We Offer</h3>
+                        <h3 class="title">Osvojite digitalni prostor na pravi način</h3>
+                        <h6>Stvorite više klijenata, napravite više prodaje na web stranici i zadržite korisnike na svojoj stranici koristeći naše provjerene tehnike u izradi web stranice.</h6>
                         <span class="hr-secondary"></span>
                     </div>
                 </div>
@@ -21,8 +22,8 @@
                             <img src="/images/icon/marketing.png" alt="" />
                         </div>
                         <div class="service-content">
-                            <h4 class="title">Marketing Automation</h4>
-                            <p>Lorem Ipsum is simply dummy text of the ipsum has been the industry standard ever printer specimen book.</p>
+                            <h4 class="title">Google Marketing</h4>
+                            <p>Sve naše kampanje uvijek se završavaju na isti način - USPJEŠNO, to postižemo kroz individualnost i fokusiranost na kupca. Garantujemo postizanje postavljenih ciljeva, poput povećane prodaje ili većeg nivoa informisanosti.</p>
                             <n-link to="/service-details" class="btn btn-outline-danger">Details +</n-link>
                         </div>
                     </div>
@@ -39,8 +40,8 @@
                             <img src="/images/icon/analytics.png" alt="" />
                         </div>
                         <div class="service-content">
-                            <h4 class="title">SEO Consultancy</h4>
-                            <p>Lorem Ipsum is simply dummy text of the ipsum has been the industry standard ever printer specimen book.</p>
+                            <h4 class="title">Izrada web stranica</h4>
+                            <p>Kreativan i upečatljiv dizajn te kvalitetno korisničko iskustvo je ono što najbolje radimo. Pored atraktivnog i funkcionalnog dizajna, mi brinemo da Vaša web stranica ispuni i osnovni cilj – konverziju.</p>
                             <n-link to="/service-details" class="btn btn-outline-warning">Details +</n-link>
                         </div>
                     </div>
@@ -57,8 +58,8 @@
                             <img src="/images/icon/connect.png" alt="" />
                         </div>
                         <div class="service-content">
-                            <h4 class="title">Pay Per Click Advertising</h4>
-                            <p>Lorem Ipsum is simply dummy text of the ipsum has been the industry standard ever printer specimen book.</p>
+                            <h4 class="title">Društvene mreže</h4>
+                            <p>Nikad ne znate koju društvenu mrežu Vaš klijent želi koristiti za interakciju s Vama. Naš tim stručnjaka iz oblasti društvenih medija brinuće za Vaše postojeće korisnike, istovremeno privlačeći nove.</p>
                             <n-link to="/service-details" class="btn btn-outline-primary">Details +</n-link>
                         </div>
                     </div>
@@ -75,8 +76,8 @@
                             <img src="/images/icon/document.png" alt="" />
                         </div>
                         <div class="service-content">
-                            <h4 class="title">Marketing Automation</h4>
-                            <p>Lorem Ipsum is simply dummy text of the ipsum has been the industry standard ever printer specimen book.</p>
+                            <h4 class="title">SEO optimizacija</h4>
+                            <p>SEO nudi vidljivu i efikasnu prisutnost na internet pretraživačima što dovodi do značajnog povećanja prodaje, profitabilnosti i ekonomičnosti naših klijenata.</p>
                             <n-link to="/service-details" class="btn btn-outline-secondary">Details +</n-link>
                         </div>
                     </div>
@@ -84,7 +85,7 @@
                 <!-- service-card end -->
                 <div class="col-12 mt-60" data-aos="fade-up" data-aos-delay="1500">
                     <div class="call-to-action text-center">
-                        <n-link to="/service" class="btn btn-warning">All Services <i class="icofont-rounded-double-right"></i></n-link>
+                        <n-link to="/service" class="btn btn-warning">Sve usluge <i class="icofont-rounded-double-right"></i></n-link>
                     </div>
                 </div>
             </div>

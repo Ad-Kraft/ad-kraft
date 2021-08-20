@@ -59,8 +59,6 @@
                 <div class="col-lg-4 mt-35" :class="orderClass">
                     <aside class="sidebar">
                         <WidgetProfileCard />
-                        
-                        <WidgetSearchCard />
 
                         <WidgetPostCategoryCard />
 

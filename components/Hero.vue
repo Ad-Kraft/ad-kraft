@@ -10,10 +10,9 @@
                     <div class="hero-content">
                         <h2 class="title">Agencija za digitalni marketing</h2>
                         <p><span class="hr d-none d-xl-block"></span> Mi Vam možemo pomoći u izradi web stranica, vođenju digitalnog marketinga i određivanju strategije za Vaš uspjeh na digitalnom prostoru. Sve sa ciljem povećanja Vaše zarade!</p>
-                        <form class="hero-form position-relative">
-                            <input class="form-control" type="text" placeholder="https://yourwebsite.com" />
-                            <button class="btn btn-warning">Free Audit Now</button>
-                        </form>
+       
+                        <a class="btn btn-warning">Zatraži ponudu</a>
+    
                         <img class="particle3" src="/images/hero/particle3.png" alt="particle2" />
                     </div>
                 </div>

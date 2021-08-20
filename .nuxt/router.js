@@ -4,13 +4,13 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _46d823c4 = () => interopDefault(import('../pages/about.vue' /* webpackChunkName: "pages/about" */))
+const _2ff1e53b = () => interopDefault(import('../pages/blog.vue' /* webpackChunkName: "pages/blog" */))
 const _69c2b5a0 = () => interopDefault(import('../pages/blog-details.vue' /* webpackChunkName: "pages/blog-details" */))
-const _2801f8d0 = () => interopDefault(import('../pages/blog-left-sidebar.vue' /* webpackChunkName: "pages/blog-left-sidebar" */))
-const _229c5299 = () => interopDefault(import('../pages/blog-right-sidebar.vue' /* webpackChunkName: "pages/blog-right-sidebar" */))
 const _7ab40bbe = () => interopDefault(import('../pages/case-details.vue' /* webpackChunkName: "pages/case-details" */))
-const _1849d1d2 = () => interopDefault(import('../pages/contact.vue' /* webpackChunkName: "pages/contact" */))
+const _aeb11bd2 = () => interopDefault(import('../pages/kontakt.vue' /* webpackChunkName: "pages/kontakt" */))
+const _aa386e04 = () => interopDefault(import('../pages/o-nama.vue' /* webpackChunkName: "pages/o-nama" */))
 const _2202a621 = () => interopDefault(import('../pages/service-details.vue' /* webpackChunkName: "pages/service-details" */))
+const _37885b9e = () => interopDefault(import('../pages/usluge.vue' /* webpackChunkName: "pages/usluge" */))
 const _668ffe89 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -25,33 +25,33 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
-    path: "/about",
-    component: _46d823c4,
-    name: "about"
+    path: "/blog",
+    component: _2ff1e53b,
+    name: "blog"
   }, {
     path: "/blog-details",
     component: _69c2b5a0,
     name: "blog-details"
   }, {
-    path: "/blog-left-sidebar",
-    component: _2801f8d0,
-    name: "blog-left-sidebar"
-  }, {
-    path: "/blog-right-sidebar",
-    component: _229c5299,
-    name: "blog-right-sidebar"
-  }, {
     path: "/case-details",
     component: _7ab40bbe,
     name: "case-details"
   }, {
-    path: "/contact",
-    component: _1849d1d2,
-    name: "contact"
+    path: "/kontakt",
+    component: _aeb11bd2,
+    name: "kontakt"
+  }, {
+    path: "/o-nama",
+    component: _aa386e04,
+    name: "o-nama"
   }, {
     path: "/service-details",
     component: _2202a621,
     name: "service-details"
+  }, {
+    path: "/usluge",
+    component: _37885b9e,
+    name: "usluge"
   }, {
     path: "/",
     component: _668ffe89,

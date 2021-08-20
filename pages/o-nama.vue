@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="About Us" active-title="About Us" />
+        <Breadcrumb title="O nama" active-title="O nama" />
 
         <AboutTwo />
 
@@ -90,7 +90,12 @@
 
         head() {
             return {
-                title: 'About'
+                title: 'O nama - Ad Kraft | Internet Marketing i Web Dizajn Agencija',
+                meta: [{ 
+                    hid: 'description', 
+                    name: 'description', 
+                    content: 'Njegujemo odnose zasnovane na transparentnosti, upornosti, međusobnom povjerenju i poštovanju sa zaposlenima, klijentima i ostalim poslovnim partnerima.' 
+                }]
             }
         },
     };

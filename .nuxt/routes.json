@@ -46,6 +46,57 @@
     "path": "/usluge",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge.vue",
     "chunkName": "pages/usluge",
+    "children": [
+      {
+        "name": "usluge-service-details copy",
+        "path": "service-details%20copy",
+        "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy.vue",
+        "chunkName": "pages/usluge/service-details copy",
+        "_name": "_1bbf51ac"
+      },
+      {
+        "name": "usluge-service-details copy 2",
+        "path": "service-details%20copy%202",
+        "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy 2.vue",
+        "chunkName": "pages/usluge/service-details copy 2",
+        "_name": "_0d6f87be"
+      },
+      {
+        "name": "usluge-service-details copy 3",
+        "path": "service-details%20copy%203",
+        "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy 3.vue",
+        "chunkName": "pages/usluge/service-details copy 3",
+        "_name": "_0d7d9f3f"
+      },
+      {
+        "name": "usluge-service-details copy 4",
+        "path": "service-details%20copy%204",
+        "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy 4.vue",
+        "chunkName": "pages/usluge/service-details copy 4",
+        "_name": "_0d8bb6c0"
+      },
+      {
+        "name": "usluge-service-details copy 5",
+        "path": "service-details%20copy%205",
+        "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy 5.vue",
+        "chunkName": "pages/usluge/service-details copy 5",
+        "_name": "_0d99ce41"
+      },
+      {
+        "name": "usluge-service-details copy 6",
+        "path": "service-details%20copy%206",
+        "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy 6.vue",
+        "chunkName": "pages/usluge/service-details copy 6",
+        "_name": "_0da7e5c2"
+      },
+      {
+        "name": "usluge-service-details copy 7",
+        "path": "service-details%20copy%207",
+        "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy 7.vue",
+        "chunkName": "pages/usluge/service-details copy 7",
+        "_name": "_0db5fd43"
+      }
+    ],
     "_name": "_37885b9e"
   },
   {

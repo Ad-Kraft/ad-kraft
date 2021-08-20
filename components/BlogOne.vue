@@ -4,7 +4,7 @@
             <div class="row mtn-30">
                 <div class="col-lg-6 mt-30">
                     <div class="section-title text-center text-lg-start primary" data-aos="fade-up" data-aos-delay="100">
-                        <h3 class="title">Latest News From Our Blog.</h3>
+                        <h3 class="title">Poslednje objave na našem blogu.</h3>
                         <span class="hr-primary mt-4"></span>
                     </div>
                     <div class="blog-card" data-aos="fade-up" data-aos-delay="600">

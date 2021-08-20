@@ -9,7 +9,7 @@
                 <div class="col-lg-5 col-xl-6">
                     <div class="hero-content">
                         <h2 class="title">Agencija za digitalni marketing</h2>
-                        <p><span class="hr d-none d-xl-block"></span> Mi Vam možemo pomoći u izradi web stranica, vođenju digitalnog marketinga i određivanju strategije za Vaš uspjeh na digitalnom prostoru. Sve sa ciljem povećanja Vaše zarade!</p>
+                        <p>Mi Vam možemo pomoći u izradi web stranica, vođenju digitalnog marketinga i određivanju strategije za Vaš uspjeh na digitalnom prostoru. Sve sa ciljem povećanja Vaše zarade!</p>
        
                         <a class="btn btn-warning">Zatraži ponudu</a>
     

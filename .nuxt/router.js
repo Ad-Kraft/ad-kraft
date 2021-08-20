@@ -11,6 +11,13 @@ const _aeb11bd2 = () => interopDefault(import('../pages/kontakt.vue' /* webpackC
 const _aa386e04 = () => interopDefault(import('../pages/o-nama.vue' /* webpackChunkName: "pages/o-nama" */))
 const _2202a621 = () => interopDefault(import('../pages/service-details.vue' /* webpackChunkName: "pages/service-details" */))
 const _37885b9e = () => interopDefault(import('../pages/usluge.vue' /* webpackChunkName: "pages/usluge" */))
+const _1bbf51ac = () => interopDefault(import('../pages/usluge/service-details copy.vue' /* webpackChunkName: "pages/usluge/service-details copy" */))
+const _0d6f87be = () => interopDefault(import('../pages/usluge/service-details copy 2.vue' /* webpackChunkName: "pages/usluge/service-details copy 2" */))
+const _0d7d9f3f = () => interopDefault(import('../pages/usluge/service-details copy 3.vue' /* webpackChunkName: "pages/usluge/service-details copy 3" */))
+const _0d8bb6c0 = () => interopDefault(import('../pages/usluge/service-details copy 4.vue' /* webpackChunkName: "pages/usluge/service-details copy 4" */))
+const _0d99ce41 = () => interopDefault(import('../pages/usluge/service-details copy 5.vue' /* webpackChunkName: "pages/usluge/service-details copy 5" */))
+const _0da7e5c2 = () => interopDefault(import('../pages/usluge/service-details copy 6.vue' /* webpackChunkName: "pages/usluge/service-details copy 6" */))
+const _0db5fd43 = () => interopDefault(import('../pages/usluge/service-details copy 7.vue' /* webpackChunkName: "pages/usluge/service-details copy 7" */))
 const _668ffe89 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -51,7 +58,36 @@ export const routerOptions = {
   }, {
     path: "/usluge",
     component: _37885b9e,
-    name: "usluge"
+    name: "usluge",
+    children: [{
+      path: "service-details%20copy",
+      component: _1bbf51ac,
+      name: "usluge-service-details copy"
+    }, {
+      path: "service-details%20copy%202",
+      component: _0d6f87be,
+      name: "usluge-service-details copy 2"
+    }, {
+      path: "service-details%20copy%203",
+      component: _0d7d9f3f,
+      name: "usluge-service-details copy 3"
+    }, {
+      path: "service-details%20copy%204",
+      component: _0d8bb6c0,
+      name: "usluge-service-details copy 4"
+    }, {
+      path: "service-details%20copy%205",
+      component: _0d99ce41,
+      name: "usluge-service-details copy 5"
+    }, {
+      path: "service-details%20copy%206",
+      component: _0da7e5c2,
+      name: "usluge-service-details copy 6"
+    }, {
+      path: "service-details%20copy%207",
+      component: _0db5fd43,
+      name: "usluge-service-details copy 7"
+    }]
   }, {
     path: "/",
     component: _668ffe89,

@@ -5,9 +5,11 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Kontaktirajte nas" active-title="Kontaktirajte nas" />
+        <Breadcrumb title="Service Details" active-title="Service Details" />
 
-        <ContactWrapper />
+        <ServiceCarousel />
+
+        <ServiceDetailsContent />
 
         <Footer />
 
@@ -22,19 +24,15 @@
             Header: () => import('@/components/Header'),
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
             Breadcrumb: () => import('@/components/Breadcrumb'),
-            ContactWrapper: () => import('@/components/ContactWrapper'),
+            ServiceCarousel: () => import('@/components/ServiceCarousel'),
+            ServiceDetailsContent: () => import('@/components/ServiceDetailsContent'),
             Footer: () => import('@/components/Footer'),
             ScrollTop: () => import('@/components/ScrollTop'),
         },
 
         head() {
             return {
-                title: 'Kontakt - Ad Kraft | Internet Marketing i Web Dizajn Agencija',
-                meta: [{ 
-                    hid: 'description', 
-                    name: 'description', 
-                    content: 'Kontakt broj: +387 (0) 65 393 205 | Sime Šolaje 1a, 78000 Banja Luka, Bosna i Hercegovina | Ponedjeljak – Petak 09:00h – 17:00h | info@ad-kraft.com' 
-                }]
+                title: 'Service Details'
             }
         },
     };

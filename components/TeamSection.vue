@@ -42,8 +42,8 @@
                 teamMembers: [
                     {
                         imgSrc: "/images/team/1.png",
-                        name: "Willie Mckenzie",
-                        designation: "Digital Strategist",
+                        name: "Aleksandar Ćulum",
+                        designation: "Google Ads Account Manager",
                         socialLink: [
                             {
                                 icon: "icofont-facebook",
@@ -61,8 +61,8 @@
                     },
                     {
                         imgSrc: "/images/team/2.png",
-                        name: "Rosie Greene",
-                        designation: "Project Manager",
+                        name: "Stefan Dragičević",
+                        designation: "Lead Developer",
                         socialLink: [
                             {
                                 icon: "icofont-facebook",
@@ -80,8 +80,8 @@
                     },
                     {
                         imgSrc: "/images/team/3.png",
-                        name: "Stacey Evans",
-                        designation: "UI/UX designer",
+                        name: "Edina Ćulum",
+                        designation: "Chef Socialmedia Manager",
                         socialLink: [
                             {
                                 icon: "icofont-facebook",
@@ -99,8 +99,8 @@
                     },
                     {
                         imgSrc: "/images/team/4.png",
-                        name: "Marian Adams",
-                        designation: "seo specialist",
+                        name: "Ivana Todorović Žuna",
+                        designation: "Marketing Manager",
                         socialLink: [
                             {
                                 icon: "icofont-facebook",
@@ -118,27 +118,8 @@
                     },
                     {
                         imgSrc: "/images/team/1.png",
-                        name: "Willie Mckenzie",
-                        designation: "Digital Strategist",
-                        socialLink: [
-                            {
-                                icon: "icofont-facebook",
-                                url: "#"
-                            },
-                            {
-                                icon: "icofont-skype",
-                                url: "#"
-                            },
-                            {
-                                icon: "icofont-twitter",
-                                url: "#"
-                            }
-                        ]
-                    },
-                    {
-                        imgSrc: "/images/team/2.png",
-                        name: "Rosie Greene",
-                        designation: "Project Manager",
+                        name: "Ilijana Jović",
+                        designation: "SEO Specialist",
                         socialLink: [
                             {
                                 icon: "icofont-facebook",
@@ -156,8 +137,27 @@
                     },
                     {
                         imgSrc: "/images/team/3.png",
-                        name: "Stacey Evans",
-                        designation: "UI/UX designer",
+                        name: "Bojan Bogdanić",
+                        designation: "Marketing Manager",
+                        socialLink: [
+                            {
+                                icon: "icofont-facebook",
+                                url: "#"
+                            },
+                            {
+                                icon: "icofont-skype",
+                                url: "#"
+                            },
+                            {
+                                icon: "icofont-twitter",
+                                url: "#"
+                            }
+                        ]
+                    },
+                    {
+                        imgSrc: "/images/team/2.png",
+                        name: "Marko Jankovic",
+                        designation: "Web Developer",
                         socialLink: [
                             {
                                 icon: "icofont-facebook",
@@ -175,8 +175,8 @@
                     },
                     {
                         imgSrc: "/images/team/4.png",
-                        name: "Marian Adams",
-                        designation: "seo specialist",
+                        name: "Dragan Kasagić",
+                        designation: "DevOps",
                         socialLink: [
                             {
                                 icon: "icofont-facebook",

@@ -67,7 +67,6 @@
                     <!-- service-card satrt -->
                     <div class="col-md-4 mt-30" data-aos="fade-up" data-aos-delay="2000">
                         <div class="service-card">
-                            <img class="line" src="/images/service/line-foure.png" alt="images_not_found" />
                             <div class="service-content">
                                 <h4 class="title">SEO optimizacija</h4>
                                 <p>SEO nudi vidljivu i efikasnu prisutnost na internet pretraživačima što dovodi do značajnog povećanja prodaje, profitabilnosti i ekonomičnosti naših klijenata.</p>
@@ -104,7 +103,6 @@
                     <!-- service-card satrt -->
                     <div class="col-md-4 mt-30" data-aos="fade-up" data-aos-delay="2000">
                         <div class="service-card">
-                            <img class="line" src="/images/service/line-foure.png" alt="images_not_found" />
                             <div class="service-content">
                                 <h4 class="title">SEO optimizacija</h4>
                                 <p>SEO nudi vidljivu i efikasnu prisutnost na internet pretraživačima što dovodi do značajnog povećanja prodaje, profitabilnosti i ekonomičnosti naših klijenata.</p>

@@ -149,6 +149,10 @@
 }
 .footer-top {
     padding: 100px 0px;
+    background-image: url('/images/footer/ad-kraft-logo-footer.png');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+
     @include max-screen(1199) {
         background: #202020;
     }
@@ -158,8 +162,9 @@
     }
 }
 .footer-card {
-    background: #202020;
+    background: rgb(32 32 32 / 80%);
     border-radius: 15px;
+    box-shadow: 0 0 20px 7px #1c1c1c;
 }
 
 .footer-widget {
@@ -261,8 +266,8 @@
     }
 }
 .footer-social-link {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -327,11 +332,11 @@
     fill: #f0f4fc;
 }
 .cls-7 {
-    fill: #6e8fe4;
+    fill: #F08AF8;
 }
 
 .cls-8 {
-    stroke: #2647c8;
+    stroke: #F08AF8;
     fill: none;
     stroke-width: 2;
     stroke-dasharray: 800;
@@ -348,6 +353,6 @@
     }
     100% {
         stroke-dashoffset: 0;
-        fill: #2647c8;
+        fill: #F08AF8;
     }
 }

@@ -15,10 +15,6 @@
                                             <i class="icofont-ui-calendar"></i>
                                             {{ blog.date }}
                                         </li>
-                                        <li>
-                                            <button class="comments">{{ blog.comment }} Comments</button>
-                                            <button class="link-share">Share</button>
-                                        </li>
                                     </ul>
                                     <h5 class="title mb-3">
                                         <n-link to="/blog-details">{{ blog.title }}</n-link>

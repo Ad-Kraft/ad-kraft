@@ -16,6 +16,8 @@
                             <div class="content">
                                 <span class="text">Telefon:</span>
                                 <a href="tel:+38765393205" class="number">+387 (0) 65 393 205</a>
+                                    <br>
+                                <span>Ponedjeljak – Petak 09:00h – 17:00h</span>
                             </div>
                         </div>
                         <!-- contact media end -->

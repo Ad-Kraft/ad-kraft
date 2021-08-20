@@ -104,7 +104,9 @@
             return {
                 title: 'Ad Kraft | Internet Marketing i Web Dizajn Agencija',
                 meta: [{ 
-                    hid: 'description', name: 'description', content: 'Digitalni Marketing Agencija | Banja Luka. Nudimo Vam usluge internet marketinga, web dizajna, SEO, grafičkog dizajna, hostinga i registracije domena.' 
+                    hid: 'description', 
+                    name: 'description', 
+                    content: 'Digitalni Marketing Agencija | Banja Luka. Nudimo Vam usluge internet marketinga, web dizajna, SEO, grafičkog dizajna, hostinga i registracije domena.' 
                 }]
             }
         },

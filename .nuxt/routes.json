@@ -3,43 +3,31 @@
     "name": "blog",
     "path": "/blog",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/blog.vue",
-    "chunkName": "pages/blog",
-    "_name": "_2ff1e53b"
+    "chunkName": "pages/blog"
   },
   {
     "name": "blog-details",
     "path": "/blog-details",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/blog-details.vue",
-    "chunkName": "pages/blog-details",
-    "_name": "_69c2b5a0"
+    "chunkName": "pages/blog-details"
   },
   {
     "name": "case-details",
     "path": "/case-details",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/case-details.vue",
-    "chunkName": "pages/case-details",
-    "_name": "_7ab40bbe"
+    "chunkName": "pages/case-details"
   },
   {
     "name": "kontakt",
     "path": "/kontakt",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/kontakt.vue",
-    "chunkName": "pages/kontakt",
-    "_name": "_aeb11bd2"
+    "chunkName": "pages/kontakt"
   },
   {
     "name": "o-nama",
     "path": "/o-nama",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/o-nama.vue",
-    "chunkName": "pages/o-nama",
-    "_name": "_aa386e04"
-  },
-  {
-    "name": "service-details",
-    "path": "/service-details",
-    "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/service-details.vue",
-    "chunkName": "pages/service-details",
-    "_name": "_2202a621"
+    "chunkName": "pages/o-nama"
   },
   {
     "name": "usluge",
@@ -48,62 +36,59 @@
     "chunkName": "pages/usluge",
     "children": [
       {
+        "name": "usluge-service-details",
+        "path": "service-details",
+        "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details.vue",
+        "chunkName": "pages/usluge/service-details"
+      },
+      {
         "name": "usluge-service-details copy",
         "path": "service-details%20copy",
         "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy.vue",
-        "chunkName": "pages/usluge/service-details copy",
-        "_name": "_1bbf51ac"
+        "chunkName": "pages/usluge/service-details copy"
       },
       {
         "name": "usluge-service-details copy 2",
         "path": "service-details%20copy%202",
         "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy 2.vue",
-        "chunkName": "pages/usluge/service-details copy 2",
-        "_name": "_0d6f87be"
+        "chunkName": "pages/usluge/service-details copy 2"
       },
       {
         "name": "usluge-service-details copy 3",
         "path": "service-details%20copy%203",
         "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy 3.vue",
-        "chunkName": "pages/usluge/service-details copy 3",
-        "_name": "_0d7d9f3f"
+        "chunkName": "pages/usluge/service-details copy 3"
       },
       {
         "name": "usluge-service-details copy 4",
         "path": "service-details%20copy%204",
         "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy 4.vue",
-        "chunkName": "pages/usluge/service-details copy 4",
-        "_name": "_0d8bb6c0"
+        "chunkName": "pages/usluge/service-details copy 4"
       },
       {
         "name": "usluge-service-details copy 5",
         "path": "service-details%20copy%205",
         "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy 5.vue",
-        "chunkName": "pages/usluge/service-details copy 5",
-        "_name": "_0d99ce41"
+        "chunkName": "pages/usluge/service-details copy 5"
       },
       {
         "name": "usluge-service-details copy 6",
         "path": "service-details%20copy%206",
         "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy 6.vue",
-        "chunkName": "pages/usluge/service-details copy 6",
-        "_name": "_0da7e5c2"
+        "chunkName": "pages/usluge/service-details copy 6"
       },
       {
         "name": "usluge-service-details copy 7",
         "path": "service-details%20copy%207",
         "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/usluge/service-details copy 7.vue",
-        "chunkName": "pages/usluge/service-details copy 7",
-        "_name": "_0db5fd43"
+        "chunkName": "pages/usluge/service-details copy 7"
       }
-    ],
-    "_name": "_37885b9e"
+    ]
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/stefandragicevic/Documents/Git/ad-kraft/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_668ffe89"
+    "chunkName": "pages/index"
   }
 ]

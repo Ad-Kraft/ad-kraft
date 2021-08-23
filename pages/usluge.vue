@@ -136,7 +136,7 @@ export default {
 
     head() {
         return {
-            title: 'Usluge'
+            title: 'Usluge - Ad Kraft | Internet Marketing i Web Dizajn Agencija'
         }
     },
 }

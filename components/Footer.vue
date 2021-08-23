@@ -85,9 +85,9 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/seo">
+                                                <a class="footer-link" href="/search-engine-optimizacija">
                                                     <i class="icofont-rounded-double-right"></i>
-                                                    SEO (Internet reputacija)
+                                                    SEO optimizacija
                                                 </a>
                                             </li>
                                             <li>
@@ -180,6 +180,8 @@
                                                 </a>
                                             </li>
                                         </ul>
+
+                                        <a href="https://www.google.com/partners/agency?id=7643035355" target="_blank"><img src="/images/ad-kraft-google-partner-badge.png" alt="Google Partner bedž." width="160px"></a>
                                     </div>
                                 </div>
                             </div>

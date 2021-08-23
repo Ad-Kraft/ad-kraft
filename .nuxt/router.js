@@ -15,7 +15,7 @@ const _e179f4ae = () => interopDefault(import('../pages/izrada-web-stranica.vue'
 const _aeb11bd2 = () => interopDefault(import('../pages/kontakt.vue' /* webpackChunkName: "pages/kontakt" */))
 const _aa386e04 = () => interopDefault(import('../pages/o-nama.vue' /* webpackChunkName: "pages/o-nama" */))
 const _4502b4a6 = () => interopDefault(import('../pages/optimizacija-konverzija.vue' /* webpackChunkName: "pages/optimizacija-konverzija" */))
-const _15b25054 = () => interopDefault(import('../pages/seo.vue' /* webpackChunkName: "pages/seo" */))
+const _0eb98356 = () => interopDefault(import('../pages/search-engine-optimizacija.vue' /* webpackChunkName: "pages/search-engine-optimizacija" */))
 const _37885b9e = () => interopDefault(import('../pages/usluge.vue' /* webpackChunkName: "pages/usluge" */))
 const _668ffe89 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
@@ -75,9 +75,9 @@ export const routerOptions = {
     component: _4502b4a6,
     name: "optimizacija-konverzija"
   }, {
-    path: "/seo",
-    component: _15b25054,
-    name: "seo"
+    path: "/search-engine-optimizacija",
+    component: _0eb98356,
+    name: "search-engine-optimizacija"
   }, {
     path: "/usluge",
     component: _37885b9e,

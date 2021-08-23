@@ -78,7 +78,7 @@
                         <div class="service-content">
                             <h4 class="title">SEO optimizacija</h4>
                             <p>SEO nudi vidljivu i efikasnu prisutnost na internet pretraživačima što dovodi do značajnog povećanja prodaje, profitabilnosti i ekonomičnosti naših klijenata.</p>
-                            <n-link to="/seo" class="btn btn-outline-secondary">Saznajte više</n-link>
+                            <n-link to="/search-engine-optimizacija" class="btn btn-outline-secondary">Saznajte više</n-link>
                         </div>
                     </div>
                 </div>

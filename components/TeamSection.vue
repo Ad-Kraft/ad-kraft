@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-12" data-aos="fade-up" data-aos-delay="100">
                     <div class="section-title process text-center pb-90">
-                        <h3 class="title">Amazing Team Members</h3>
+                        <h3 class="title">Naš tim</h3>
                         <span class="hr-secondary"></span>
                     </div>
                 </div>
@@ -117,7 +117,7 @@
                         ]
                     },
                     {
-                        imgSrc: "/images/team/1.png",
+                        imgSrc: "/images/team/5.png",
                         name: "Ilijana Jović",
                         designation: "SEO Specialist",
                         socialLink: [
@@ -136,7 +136,7 @@
                         ]
                     },
                     {
-                        imgSrc: "/images/team/3.png",
+                        imgSrc: "/images/team/6.png",
                         name: "Bojan Bogdanić",
                         designation: "Marketing Manager",
                         socialLink: [
@@ -155,8 +155,8 @@
                         ]
                     },
                     {
-                        imgSrc: "/images/team/2.png",
-                        name: "Marko Jankovic",
+                        imgSrc: "/images/team/7.png",
+                        name: "Marko Janković",
                         designation: "Web Developer",
                         socialLink: [
                             {
@@ -174,9 +174,9 @@
                         ]
                     },
                     {
-                        imgSrc: "/images/team/4.png",
-                        name: "Dragan Kasagić",
-                        designation: "DevOps",
+                        imgSrc: "/images/team/8.png",
+                        name: "Marijan Vrhovac",
+                        designation: "Marketing Manager",
                         socialLink: [
                             {
                                 icon: "icofont-facebook",

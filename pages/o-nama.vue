@@ -7,8 +7,6 @@
 
         <Breadcrumb title="O nama" active-title="O nama" />
 
-        <AboutTwo />
-
         <section class="about-section">
             <img src="/images/about/bg.png" alt="images-not_found" class="about-bg" />
             <div class="container">
@@ -21,48 +19,28 @@
                     <div class="col-lg-6">
                         <div class="offset-about">
                             <div class="about-content section-title primary">
-                                <h5 class="sub-title">// Why Choose Us?</h5>
-                                <h3 class="title">We Are Trusted Digital Marketing Company.</h3>
-                                <p>Lorem Ipsum is dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type scrambled.</p>
+                                <h5 class="sub-title">// Zašto Ad Kraft?</h5>
+                                <h3 class="title">AGENCIJA ZA DIGITALNI MARKETING</h3>
+                                <p>Fokusirani smo na dvije stvari: rezultate i odnose s klijentima. Dio smo Vaše kompanije i kroz povjerenje i saradnju možemo sve postići!</p>
                                 <span class="hr-primary mt-4"></span>
                             </div>
                             <div class="about-object">
                                 <div class="about-object-list">
-                                    <div class="icon">
-                                        <img src="/images/icon/1.png" alt="images-not_found" />
-                                    </div>
                                     <div class="about-object-content">
-                                        <h4 class="title">High Customer Retention Rate</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy. </p>
+                                        <h4 class="title">Njegujemo odnose zasnovane na transparentnosti, upornosti, međusobnom povjerenju i poštovanju sa zaposlenima, klijentima i ostalim poslovnim partnerima.</h4>
+                                        <p>Strast, kreativnost i želja da internet učinimo boljim mjestom su vrijednosti kojima se vraćamo iz dana u dan. Inovativnim idejama želimo napraviti razliku u digitalnom svijetu. Međusobna saradnja pojedinaca kao i timova je snaga koja stvara ideje koje nas pokreću.</p>
+
+                                        <p>Kao društveno odgovorna kompanija nastojimo podstaknuti razvoj naše društvene zajednice i pozitivno uticati na naše okruženje.</p>
                                     </div>
                                 </div>
-                                <!-- about-object-list end -->
-                                <div class="about-object-list">
-                                    <div class="icon">
-                                        <img src="/images/icon/2.png" alt="images-not_found" />
-                                    </div>
-                                    <div class="about-object-content">
-                                        <h4 class="title">Dedicated Customer Support</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy. </p>
-                                    </div>
-                                </div>
-                                <!-- about-object-list end -->
-                                <div class="about-object-list">
-                                    <div class="icon">
-                                        <img src="/images/icon/3.png" alt="images-not_found" />
-                                    </div>
-                                    <div class="about-object-content">
-                                        <h4 class="title">Professional Team Member</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy. </p>
-                                    </div>
-                                </div>
-                                <!-- about-object-list end -->
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
+        <AboutTwo />
 
         <TeamSection />
 

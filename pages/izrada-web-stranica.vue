@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Service Details" active-title="Service Details" />
+        <Breadcrumb title="Izrada web stranica" active-title="Izrada web stranica" />
 
         <ServiceCarousel />
 
@@ -32,7 +32,12 @@
 
         head() {
             return {
-                title: 'Service Details'
+                title: 'Izrada web stranica - Ad Kraft | Internet Marketing i Web Dizajn Agencija',
+                meta: [{ 
+                    hid: 'description', 
+                    name: 'description', 
+                    content: 'Izrada web stranica, graficki dizajn, SEO optimizacija, samo su dio ponude koju imamo za Vas. Tu smo da Vam pomognemo da Vaša web stranica zablista.' 
+                }]
             }
         },
     };

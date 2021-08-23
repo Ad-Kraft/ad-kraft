@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Service Details" active-title="Service Details" />
+        <Breadcrumb title="Optimizacija konverzija" active-title="Optimizacija konverzija" />
 
         <ServiceCarousel />
 
@@ -32,7 +32,12 @@
 
         head() {
             return {
-                title: 'Service Details'
+                title: 'Optimizacija konverzija - Ad Kraft | Internet Marketing i Web Dizajn Agencija',
+                meta: [{ 
+                    hid: 'description', 
+                    name: 'description', 
+                    content: 'Optimizacija konverzija (CRO) je sistemski proces koji ima za cilj da posjetioce Vaše web stranice pretvori u lojalne klijente.' 
+                }]
             }
         },
     };

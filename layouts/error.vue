@@ -6,11 +6,11 @@
                     <div class="error-image">
                         <img class="img-fluid" src="/images/page-404-image.png" alt="Not Found Image">
                     </div>
-                    <h1 class="error-404-title text-white" v-if="error.statusCode === 404">Oops! Page not found!</h1>
-                    <h1 class="error-404-title text-white" v-else>An error occurred</h1>
+                    <h1 class="error-404-title text-white" v-if="error.statusCode === 404">Oops! Stranica ne postoji!</h1>
+                    <h1 class="error-404-title text-white" v-else>Nastala je greška</h1>
                     <div class="error-buttons">
                         <n-link to="/" class="btn btn-warning">
-                            <span class="button-text">Go back to homepage</span>
+                            <span class="button-text">Povratak na početnu stranu</span>
                         </n-link>
                     </div>
                 </div>

@@ -61,51 +61,45 @@
                                         <h4 class="title">Usluge</h4>
                                         <ul class="footer-menu">
                                             <li>
-                                                <a class="footer-link" href="#">
+                                                <a class="footer-link" href="/digitalni-marketing">
                                                     <i class="icofont-rounded-double-right"></i>
-                                                    Google Marketing
+                                                    Digitalni marketing
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="#">
+                                                <a class="footer-link" href="/izrada-web-stranica">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Izrada web stranica
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="#">
+                                                <a class="footer-link" href="/graficki-dizajn">
+                                                    <i class="icofont-rounded-double-right"></i>
+                                                    Grafički dizajn
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a class="footer-link" href="/drustvene-mreze">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Društvene mreže
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="#">
+                                                <a class="footer-link" href="/seo">
                                                     <i class="icofont-rounded-double-right"></i>
-                                                    SEO optimizacija
+                                                    SEO (Internet reputacija)
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="#">
+                                                <a class="footer-link" href="/optimizacija-konverzija">
                                                     <i class="icofont-rounded-double-right"></i>
-                                                    Google Marketing
+                                                    Optimizacija konverzija
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="#">
+                                                <a class="footer-link" href="/hosting">
                                                     <i class="icofont-rounded-double-right"></i>
-                                                    Izrada web stranica
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a class="footer-link" href="#">
-                                                    <i class="icofont-rounded-double-right"></i>
-                                                    SEO optimizacija
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a class="footer-link" href="#">
-                                                    <i class="icofont-rounded-double-right"></i>
-                                                    Društvene mreže
+                                                    Hosting
                                                 </a>
                                             </li>
                                         </ul>
@@ -116,33 +110,45 @@
                                         <h4 class="title">Navigacija</h4>
                                         <ul class="footer-menu">
                                             <li>
-                                                <a class="footer-link" href="#">
+                                                <a class="footer-link" href="/o-name">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     O nama
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="#">
+                                                <a class="footer-link" href="/blog">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Blog
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="#">
+                                                <a class="footer-link" href="/kontakt">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Kontakt
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="#">
+                                                <a class="footer-link" href="/usluge">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Usluge
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="#">
+                                                <a class="footer-link" href="/karijera">
                                                     <i class="icofont-rounded-double-right"></i>
-                                                    Careers
+                                                    Karijera
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a class="footer-link" href="/politika-privatnosti">
+                                                    <i class="icofont-rounded-double-right"></i>
+                                                    Politika privatnosti
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a class="footer-link" href="/uslovi-i-odredbe">
+                                                    <i class="icofont-rounded-double-right"></i>
+                                                    Uslovi i odredbe
                                                 </a>
                                             </li>
                                         </ul>

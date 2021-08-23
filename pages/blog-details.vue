@@ -29,7 +29,7 @@
 
         head() {
             return {
-                title: 'Blog Details'
+                title: 'Blog Details - Ad Kraft | Internet Marketing i Web Dizajn Agencija'
             }
         },
     };

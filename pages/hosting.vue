@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Service Details" active-title="Service Details" />
+        <Breadcrumb title="Hosting" active-title="Hosting" />
 
         <ServiceCarousel />
 
@@ -32,7 +32,7 @@
 
         head() {
             return {
-                title: 'Service Details'
+                title: 'Hosting - Ad Kraft | Internet Marketing i Web Dizajn Agencija'
             }
         },
     };

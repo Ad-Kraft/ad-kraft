@@ -117,10 +117,10 @@
     .title {
         color: $primary;
         font-weight: 700;
-        line-height: 1.227;
+        line-height: 1.4;
         text-transform: capitalize;
         margin-bottom: 15px;
-        font-size: 22px;
+        font-size: 20px;
         @include max-screen(991) {
             font-size: 20px;
         }
@@ -206,7 +206,7 @@
         width: 100%;
         height: 100%;
         border-radius: inherit;
-        background-image: linear-gradient(90deg, rgb(2, 18, 106) 0%, rgb(38, 71, 200) 100%);
+        background-image: linear-gradient(90deg, #2b2b2b 0%, #020202 100%);
         opacity: 0.9;
         z-index: -1;
     }

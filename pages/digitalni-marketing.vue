@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Service Details" active-title="Service Details" />
+        <Breadcrumb title="Digitalni marketing" active-title="Digitalni marketing" />
 
         <ServiceCarousel />
 
@@ -32,7 +32,12 @@
 
         head() {
             return {
-                title: 'Service Details'
+                title: 'Digitalni marketing - Ad Kraft | Internet Marketing i Web Dizajn Agencija',
+                meta: [{ 
+                    hid: 'description', 
+                    name: 'description', 
+                    content: 'Internet marketing skrojen za Vas Sve naše kampanje uvijek se završavaju na isti način – USPJEŠNO, to postižemo kroz individualnost i fokusiranost na klijenta. Garantujemo postizanje postavljenih ciljeva, poput povećanja prodaje ili povećanja informisanosti Vaših klijenata o Vašem proizvodu, uslugama ili brendu. Saznajte zašto nas svi preporučuju!' 
+                }]
             }
         },
     };

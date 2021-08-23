@@ -7,32 +7,29 @@
                 </li>
                 <li class="has-children">
                     <n-link to="/usluge">Usluge</n-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <n-link to="/usluge/service-details">Google Marketing</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/usluge/service-details">Izrada web stranica</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/usluge/service-details">Društvene mreže</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/usluge/service-details">SEO optimizacija</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/usluge/service-details">Google Marketing</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/usluge/service-details">Izrada web stranica</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/usluge/service-details">Društvene mreže</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/usluge/service-details">SEO optimizacija</n-link>
-                        </li>
-                    </ul>
+                        <ul class="sub-menu">
+                            <li>
+                                <n-link to="/digitalni-marketing">Digitalni marketing</n-link>
+                            </li>
+                            <li>
+                                <n-link to="/izrada-web-stranica">Izrada web stranica</n-link>
+                            </li>
+                            <li>
+                                <n-link to="/graficki-dizajn">Grafički dizajn</n-link>
+                            </li>
+                            <li>
+                                <n-link to="/drustvene-mreze">Društvene mreže</n-link>
+                            </li>
+                            <li>
+                                <n-link to="/seo">SEO</n-link>
+                            </li>
+                            <li>
+                                <n-link to="/optimizacija-konverzija">Optimizacija konverzija</n-link>
+                            </li>
+                            <li>
+                                <n-link to="/hosting">Hosting</n-link>
+                            </li>
+                        </ul>
                 </li>
                 <li>
                     <n-link to="/blog">Blog</n-link>

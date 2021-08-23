@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Service Details" active-title="Service Details" />
+        <Breadcrumb title="Grafički dizajn" active-title="Grafički dizajn" />
 
         <ServiceCarousel />
 
@@ -32,7 +32,12 @@
 
         head() {
             return {
-                title: 'Service Details'
+                title: 'Grafički dizajn - Ad Kraft | Internet Marketing i Web Dizajn Agencija',
+                meta: [{ 
+                    hid: 'description', 
+                    name: 'description', 
+                    content: 'Grafički dizajn je ključan za postizanje Vaših ciljeva i uspostavljanje odnosa s potencijalnim klijentima. Naš dizajnerski tim osigurava da Vaša kompanija bude ispred konkurencije.' 
+                }]
             }
         },
     };

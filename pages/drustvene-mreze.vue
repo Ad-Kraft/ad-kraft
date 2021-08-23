@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Service Details" active-title="Service Details" />
+        <Breadcrumb title="Društvene mreže" active-title="Društvene mreže" />
 
         <ServiceCarousel />
 
@@ -32,7 +32,12 @@
 
         head() {
             return {
-                title: 'Service Details'
+                title: 'Društvene mreže - Ad Kraft | Internet Marketing i Web Dizajn Agencija',
+                meta: [{ 
+                    hid: 'description', 
+                    name: 'description', 
+                    content: 'Naš tim pomoći će Vam da uspostavite prisustvo na društvenim mrežama uz grafička rješenja koja će ostaviti trajan utisak na sve koji posjećuju Vašu stranicu i profil. Uvođenjem društvenih mreža u Vaše poslovanje podižete Vaš marketing na veći nivo i otvarate novo tržište.' 
+                }]
             }
         },
     };

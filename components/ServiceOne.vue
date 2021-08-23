@@ -22,9 +22,9 @@
                             <img src="/images/icon/marketing.png" alt="" />
                         </div>
                         <div class="service-content">
-                            <h4 class="title">Google Marketing</h4>
+                            <h4 class="title">Internet marketing</h4>
                             <p>Sve naše kampanje uvijek se završavaju na isti način - USPJEŠNO, to postižemo kroz individualnost i fokusiranost na kupca. Garantujemo postizanje postavljenih ciljeva, poput povećane prodaje ili većeg nivoa informisanosti.</p>
-                            <n-link to="/service-details" class="btn btn-outline-danger">Details +</n-link>
+                            <n-link to="/digitalni-marketing" class="btn btn-outline-danger">Saznajte više</n-link>
                         </div>
                     </div>
                 </div>
@@ -42,7 +42,7 @@
                         <div class="service-content">
                             <h4 class="title">Izrada web stranica</h4>
                             <p>Kreativan i upečatljiv dizajn te kvalitetno korisničko iskustvo je ono što najbolje radimo. Pored atraktivnog i funkcionalnog dizajna, mi brinemo da Vaša web stranica ispuni i osnovni cilj – konverziju.</p>
-                            <n-link to="/service-details" class="btn btn-outline-warning">Details +</n-link>
+                            <n-link to="/izrada-web-stranica" class="btn btn-outline-warning">Saznajte više</n-link>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
                         <div class="service-content">
                             <h4 class="title">Društvene mreže</h4>
                             <p>Nikad ne znate koju društvenu mrežu Vaš klijent želi koristiti za interakciju s Vama. Naš tim stručnjaka iz oblasti društvenih medija brinuće za Vaše postojeće korisnike, istovremeno privlačeći nove.</p>
-                            <n-link to="/service-details" class="btn btn-outline-primary">Details +</n-link>
+                            <n-link to="/drustvene-mreze" class="btn btn-outline-primary">Saznajte više</n-link>
                         </div>
                     </div>
                 </div>
@@ -78,14 +78,14 @@
                         <div class="service-content">
                             <h4 class="title">SEO optimizacija</h4>
                             <p>SEO nudi vidljivu i efikasnu prisutnost na internet pretraživačima što dovodi do značajnog povećanja prodaje, profitabilnosti i ekonomičnosti naših klijenata.</p>
-                            <n-link to="/service-details" class="btn btn-outline-secondary">Details +</n-link>
+                            <n-link to="/seo" class="btn btn-outline-secondary">Saznajte više</n-link>
                         </div>
                     </div>
                 </div>
                 <!-- service-card end -->
                 <div class="col-12 mt-60" data-aos="fade-up" data-aos-delay="1500">
                     <div class="call-to-action text-center">
-                        <n-link to="/service" class="btn btn-warning">Sve usluge <i class="icofont-rounded-double-right"></i></n-link>
+                        <n-link to="/usluge" class="btn btn-warning">Sve usluge <i class="icofont-rounded-double-right"></i></n-link>
                     </div>
                 </div>
             </div>

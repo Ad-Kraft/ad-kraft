@@ -28,7 +28,6 @@
                                 <div class="swiper-slide" data-aos="fade-up" data-aos-delay="300">
                                     <div class="profile-wrap">
                                         <img class="testimonial-profile" src="/images/testimonial/lg-1.png" alt="images-not_found" />
-                                        <span class="quote">“</span>
                                     </div>
                                     <p>„Imaju sjajan tim koji savršeno upravlja našim kampanjama. Pomogli su nam da razvijemo svoj biznis i sad nam je najveći problem što imamo previše posla. Ad Kraft je zaslužan što smo danas ispred naše konkurencije. Hvala vam!”</p>
                                     <h5 class="sub-title">Mladen Kostić – SHB Kostić</h5>
@@ -39,7 +38,6 @@
                                 <div class="swiper-slide" data-aos="fade-up" data-aos-delay="300">
                                     <div class="profile-wrap">
                                         <img class="testimonial-profile" src="/images/testimonial/lg-2.png" alt="images-not_found" />
-                                        <span class="quote">“</span>
                                     </div>
                                     <p>„Riješili su sve probleme koje smo imali s Google Ads-om. Conversion rate nam se povećao za 3% i započeli smo niz novih kampanja. Sviđa mi se njihova agilnost, stručnost i njihov proaktivni nastup.“</p>
                                     <h5 class="sub-title">Goran Gojić – Bravo Systems</h5>
@@ -50,7 +48,6 @@
                                 <div class="swiper-slide" data-aos="fade-up" data-aos-delay="300">
                                     <div class="profile-wrap">
                                         <img class="testimonial-profile" src="/images/testimonial/lg-3.png" alt="images-not_found" />
-                                        <span class="quote">“</span>
                                     </div>
                                     <p>Lorem Ipsum is simply dummy text the printing and typesetting as been the industry's standard dummy text ever since the 1500s when unknown printer took a galley of type and scrambled it to make specimen book has survived not only five centuries</p>
                                     <h5 class="sub-title">Wendy W Jones</h5>
@@ -61,7 +58,6 @@
                                 <div class="swiper-slide" data-aos="fade-up" data-aos-delay="300">
                                     <div class="profile-wrap">
                                         <img class="testimonial-profile" src="/images/testimonial/lg-4.png" alt="images-not_found" />
-                                        <span class="quote">“</span>
                                     </div>
                                     <p>„Ako tražite prave saradnike, izaberite Ad Kraft. Ad Kraft nam je sa dobrom strategijom društvenih medija, novom web stranicom i razvojem SEO strategije pomogao da se probijemo. Imaju odličan tim i sada ne mogu zamisliti da s nekim drugim sarađujemo.”</p>
                                     <h5 class="sub-title">Dr. Boris Ćulum – Elite Dent</h5>
@@ -72,7 +68,6 @@
                                 <div class="swiper-slide" data-aos="fade-up" data-aos-delay="300">
                                     <div class="profile-wrap">
                                         <img class="testimonial-profile" src="/images/testimonial/lg-5.png" alt="images-not_found" />
-                                        <span class="quote">“</span>
                                     </div>
                                     <p>„Ad Kraft je vrhunska kompanija. Znaju svoj posao i potpuno su fokusirani na ostvarivanje rezultata. Preporučujem ih svima.”</p>
                                     <h5 class="sub-title">Dean Žuna – Ad Lab</h5>
@@ -83,7 +78,6 @@
                                 <div class="swiper-slide" data-aos="fade-up" data-aos-delay="300">
                                     <div class="profile-wrap">
                                         <img class="testimonial-profile" src="/images/testimonial/lg-6.png" alt="images-not_found" />
-                                        <span class="quote">“</span>
                                     </div>
                                     <p>Lorem Ipsum is simply dummy text the printing and typesetting as been the industry's standard dummy text ever since the 1500s when unknown printer took a galley of type and scrambled it to make specimen book has survived not only five centuries</p>
                                     <h5 class="sub-title">Doreen E. Prince</h5>

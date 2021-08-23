@@ -10,19 +10,12 @@
                 <div class="col-md-6 col-xl-5 mt-30">
                     <div class="about-cards">
                         <div class="about-card-list">
-                            <span class="sub-title text-gradient">Since: 1987</span>
                             <h4 class="title">Welcome To Seolly</h4>
                             <p>
-                                Lorem Ipsum simply dummy text of the printing typesetting sum has been the industry's standard dummy... 
-                                <a class="read-more" href="#">Read More</a> 
+                                Strast, kreativnost i želja da internet učinimo boljim mjestom su vrijednosti kojima se vraćamo iz dana u dan. Inovativnim idejama želimo napraviti razliku u digitalnom svijetu. Međusobna saradnja pojedinaca kao i timova je snaga koja stvara ideje koje nas pokreću.
                             </p>
-                        </div>
-                        <div class="about-card-list">
-                            <span class="sub-title text-gradient">Company History</span>
-                            <h4 class="title">Mission And Vission</h4>
                             <p>
-                                Lorem Ipsum simply dummy text of the printing typesetting sum has been the industry's standard dummy... 
-                                <a class="read-more" href="#">Read More</a> 
+                                Kao društveno odgovorna kompanija nastojimo podstaknuti razvoj naše društvene zajednice i pozitivno uticati na naše okruženje.
                             </p>
                         </div>
                     </div>

@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Service Details" active-title="Service Details" />
+        <Breadcrumb title="SEO optimizacija" active-title="SEO optimizacija" />
 
         <ServiceCarousel />
 
@@ -32,10 +32,13 @@
 
         head() {
             return {
-                title: 'Service Details'
+                title: 'SEO optimizacija - Ad Kraft | Internet Marketing i Web Dizajn Agencija',
+                meta: [{ 
+                    hid: 'description', 
+                    name: 'description', 
+                    content: 'Search Engine optimizacija | SEO poboljšava vidljivosti i prisutnost web stranice na internet pretraživačima što dovodi do značajnog povećanja prodaje, profitabilnosti i ekonomičnosti naših klijenata.' 
+                }]
             }
         },
     };
 </script>
-
-

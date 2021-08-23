@@ -7,28 +7,25 @@
              <n-link to="/usluge">Usluge</n-link>
             <ul class="sub-menu">
                 <li>
-                    <n-link to="usluge/service-details">Google Marketing</n-link>
+                    <n-link to="/digitalni-marketing">Digitalni marketing</n-link>
                 </li>
                 <li>
-                    <n-link to="usluge/service-details">Izrada web stranica</n-link>
+                    <n-link to="/izrada-web-stranica">Izrada web stranica</n-link>
                 </li>
                 <li>
-                    <n-link to="usluge/service-details">Društvene mreže</n-link>
+                    <n-link to="/graficki-dizajn">Grafički dizajn</n-link>
                 </li>
                 <li>
-                    <n-link to="usluge/service-details">SEO optimizacija</n-link>
+                    <n-link to="/drustvene-mreze">Društvene mreže</n-link>
                 </li>
                 <li>
-                    <n-link to="usluge/service-details">Google Marketing</n-link>
+                    <n-link to="/seo">SEO</n-link>
                 </li>
                 <li>
-                    <n-link to="usluge/service-details">Izrada web stranica</n-link>
+                    <n-link to="/optimizacija-konverzija">Optimizacija konverzija</n-link>
                 </li>
                 <li>
-                    <n-link to="usluge/service-details">Društvene mreže</n-link>
-                </li>
-                <li>
-                    <n-link to="usluge/service-details">SEO optimizacija</n-link>
+                    <n-link to="/hosting">Hosting</n-link>
                 </li>
             </ul>
         </li>

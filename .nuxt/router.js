@@ -9,8 +9,8 @@ const _69c2b5a0 = () => interopDefault(import('../pages/blog-details.vue' /* web
 const _7ab40bbe = () => interopDefault(import('../pages/case-details.vue' /* webpackChunkName: "pages/case-details" */))
 const _aeb11bd2 = () => interopDefault(import('../pages/kontakt.vue' /* webpackChunkName: "pages/kontakt" */))
 const _aa386e04 = () => interopDefault(import('../pages/o-nama.vue' /* webpackChunkName: "pages/o-nama" */))
-const _2202a621 = () => interopDefault(import('../pages/service-details.vue' /* webpackChunkName: "pages/service-details" */))
 const _37885b9e = () => interopDefault(import('../pages/usluge.vue' /* webpackChunkName: "pages/usluge" */))
+const _6fbb458e = () => interopDefault(import('../pages/usluge/service-details.vue' /* webpackChunkName: "pages/usluge/service-details" */))
 const _1bbf51ac = () => interopDefault(import('../pages/usluge/service-details copy.vue' /* webpackChunkName: "pages/usluge/service-details copy" */))
 const _0d6f87be = () => interopDefault(import('../pages/usluge/service-details copy 2.vue' /* webpackChunkName: "pages/usluge/service-details copy 2" */))
 const _0d7d9f3f = () => interopDefault(import('../pages/usluge/service-details copy 3.vue' /* webpackChunkName: "pages/usluge/service-details copy 3" */))
@@ -52,14 +52,14 @@ export const routerOptions = {
     component: _aa386e04,
     name: "o-nama"
   }, {
-    path: "/service-details",
-    component: _2202a621,
-    name: "service-details"
-  }, {
     path: "/usluge",
     component: _37885b9e,
     name: "usluge",
     children: [{
+      path: "service-details",
+      component: _6fbb458e,
+      name: "usluge-service-details"
+    }, {
       path: "service-details%20copy",
       component: _1bbf51ac,
       name: "usluge-service-details copy"

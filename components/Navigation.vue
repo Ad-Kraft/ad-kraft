@@ -19,7 +19,7 @@
                     <n-link to="/drustvene-mreze">Društvene mreže</n-link>
                 </li>
                 <li>
-                    <n-link to="/seo">SEO</n-link>
+                    <n-link to="/search-engine-optimizacija">SEO</n-link>
                 </li>
                 <li>
                     <n-link to="/optimizacija-konverzija">Optimizacija konverzija</n-link>

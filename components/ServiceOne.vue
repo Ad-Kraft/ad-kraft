@@ -14,7 +14,6 @@
                 <!-- service-card satrt -->
                 <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
                     <div class="service-card">
-                        <img class="line" src="/images/service/line-one.png" alt="images_not_found" />
                         <div class="service-icon">
                             <div class="roted-around danger">
                                 <span></span>
@@ -32,7 +31,6 @@
                 <!-- service-card satrt -->
                 <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="1000">
                     <div class="service-card">
-                        <img class="line" src="/images/service/line-two.png" alt="images_not_found" />
                         <div class="service-icon">
                             <div class="roted-around warning">
                                 <span></span>
@@ -50,7 +48,6 @@
                 <!-- service-card satrt -->
                 <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="1500">
                     <div class="service-card">
-                        <img class="line" src="/images/service/line-three.png" alt="images_not_found" />
                         <div class="service-icon">
                             <div class="roted-around primary">
                                 <span></span>
@@ -68,7 +65,6 @@
                 <!-- service-card satrt -->
                 <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="2000">
                     <div class="service-card">
-                        <img class="line" src="/images/service/line-foure.png" alt="images_not_found" />
                         <div class="service-icon">
                             <div class="roted-around secondary">
                                 <span></span>

@@ -5,7 +5,7 @@
                 <div class="col-12" data-aos="fade-up" data-aos-delay="100">
                     <div class="section-title primary text-center pb-100">
                         <h3 class="title">Klijenti o nama</h3>
-                        <h6>Vrlo smo ponosni na usluge koje pružamo našim klijentima. Zapravo, odnos s klijentom vidimo puno ličnijim nego većina digitalnih agencija. Naši odnosi s klijentima ne počinju u 9:00h i završavaju u 17:00h – s njima smo neprekidno kako bismo im pružili kvalitetnu uslugu kakvu zaslužuju.</h6>
+                        <h5 class="subtitle">Vrlo smo ponosni na usluge koje pružamo našim klijentima. Zapravo, odnos s klijentom vidimo puno ličnijim nego većina digitalnih agencija. Naši odnosi s klijentima ne počinju u 9:00h i završavaju u 17:00h – s njima smo neprekidno kako bismo im pružili kvalitetnu uslugu kakvu zaslužuju.</h5>
                         <span class="hr-secondary"></span>
                     </div>
                 </div>

@@ -195,7 +195,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <p>&copy;Copyright. All Rights Reserved. Ad Kraft</p>
+                        <p>&copy;Copyright. Sva prava zadržana. Ad Kraft</p>
                     </div>
                 </div>
             </div>

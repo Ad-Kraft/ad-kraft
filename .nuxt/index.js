@@ -5,17 +5,17 @@ import ClientOnly from 'vue-client-only'
 import NoSsr from 'vue-no-ssr'
 import { createRouter } from './router.js'
 import NuxtChild from './components/nuxt-child.js'
-import NuxtError from '../layouts/error.vue'
+import NuxtError from '..\\layouts\\error.vue'
 import Nuxt from './components/nuxt.js'
 import App from './App.js'
 import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_2e2b0e5f from 'nuxt_plugin_plugin_2e2b0e5f' // Source: ./components/plugin.js (mode: 'all')
-import nuxt_plugin_bootstrapvue_2eb8a924 from 'nuxt_plugin_bootstrapvue_2eb8a924' // Source: ./bootstrap-vue.js (mode: 'all')
-import nuxt_plugin_vueawesomeswiper_5ce03f58 from 'nuxt_plugin_vueawesomeswiper_5ce03f58' // Source: ../plugins/vue-awesome-swiper.js (mode: 'all')
-import nuxt_plugin_vuebacktotop_ad80613c from 'nuxt_plugin_vuebacktotop_ad80613c' // Source: ../plugins/vue-backtotop.js (mode: 'client')
+import nuxt_plugin_plugin_7c097ee0 from 'nuxt_plugin_plugin_7c097ee0' // Source: .\\components\\plugin.js (mode: 'all')
+import nuxt_plugin_bootstrapvue_6059239c from 'nuxt_plugin_bootstrapvue_6059239c' // Source: .\\bootstrap-vue.js (mode: 'all')
+import nuxt_plugin_vueawesomeswiper_5ce03f58 from 'nuxt_plugin_vueawesomeswiper_5ce03f58' // Source: ..\\plugins\\vue-awesome-swiper.js (mode: 'all')
+import nuxt_plugin_vuebacktotop_ad80613c from 'nuxt_plugin_vuebacktotop_ad80613c' // Source: ..\\plugins\\vue-backtotop.js (mode: 'client')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -179,12 +179,12 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_2e2b0e5f === 'function') {
-    await nuxt_plugin_plugin_2e2b0e5f(app.context, inject)
+  if (typeof nuxt_plugin_plugin_7c097ee0 === 'function') {
+    await nuxt_plugin_plugin_7c097ee0(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_bootstrapvue_2eb8a924 === 'function') {
-    await nuxt_plugin_bootstrapvue_2eb8a924(app.context, inject)
+  if (typeof nuxt_plugin_bootstrapvue_6059239c === 'function') {
+    await nuxt_plugin_bootstrapvue_6059239c(app.context, inject)
   }
 
   if (typeof nuxt_plugin_vueawesomeswiper_5ce03f58 === 'function') {

@@ -4,20 +4,20 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _2ff1e53b = () => interopDefault(import('../pages/blog.vue' /* webpackChunkName: "pages/blog" */))
-const _69c2b5a0 = () => interopDefault(import('../pages/blog-details.vue' /* webpackChunkName: "pages/blog-details" */))
-const _7ab40bbe = () => interopDefault(import('../pages/case-details.vue' /* webpackChunkName: "pages/case-details" */))
-const _5ca6cd23 = () => interopDefault(import('../pages/digitalni-marketing.vue' /* webpackChunkName: "pages/digitalni-marketing" */))
-const _322474e3 = () => interopDefault(import('../pages/drustvene-mreze.vue' /* webpackChunkName: "pages/drustvene-mreze" */))
-const _d906c568 = () => interopDefault(import('../pages/graficki-dizajn.vue' /* webpackChunkName: "pages/graficki-dizajn" */))
-const _7ae8b731 = () => interopDefault(import('../pages/hosting.vue' /* webpackChunkName: "pages/hosting" */))
-const _e179f4ae = () => interopDefault(import('../pages/izrada-web-stranica.vue' /* webpackChunkName: "pages/izrada-web-stranica" */))
-const _aeb11bd2 = () => interopDefault(import('../pages/kontakt.vue' /* webpackChunkName: "pages/kontakt" */))
-const _aa386e04 = () => interopDefault(import('../pages/o-nama.vue' /* webpackChunkName: "pages/o-nama" */))
-const _4502b4a6 = () => interopDefault(import('../pages/optimizacija-konverzija.vue' /* webpackChunkName: "pages/optimizacija-konverzija" */))
-const _0eb98356 = () => interopDefault(import('../pages/search-engine-optimizacija.vue' /* webpackChunkName: "pages/search-engine-optimizacija" */))
-const _37885b9e = () => interopDefault(import('../pages/usluge.vue' /* webpackChunkName: "pages/usluge" */))
-const _668ffe89 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _13e060c3 = () => interopDefault(import('..\\pages\\blog.vue' /* webpackChunkName: "pages/blog" */))
+const _f285ce90 = () => interopDefault(import('..\\pages\\blog-details.vue' /* webpackChunkName: "pages/blog-details" */))
+const _36527f46 = () => interopDefault(import('..\\pages\\case-details.vue' /* webpackChunkName: "pages/case-details" */))
+const _4a10d09b = () => interopDefault(import('..\\pages\\digitalni-marketing.vue' /* webpackChunkName: "pages/digitalni-marketing" */))
+const _c36a174a = () => interopDefault(import('..\\pages\\drustvene-mreze.vue' /* webpackChunkName: "pages/drustvene-mreze" */))
+const _00b9c678 = () => interopDefault(import('..\\pages\\graficki-dizajn.vue' /* webpackChunkName: "pages/graficki-dizajn" */))
+const _20622ea9 = () => interopDefault(import('..\\pages\\hosting.vue' /* webpackChunkName: "pages/hosting" */))
+const _7cad0921 = () => interopDefault(import('..\\pages\\izrada-web-stranica.vue' /* webpackChunkName: "pages/izrada-web-stranica" */))
+const _4e20e98f = () => interopDefault(import('..\\pages\\kontakt.vue' /* webpackChunkName: "pages/kontakt" */))
+const _4d218286 = () => interopDefault(import('..\\pages\\o-nama.vue' /* webpackChunkName: "pages/o-nama" */))
+const _36ca2d25 = () => interopDefault(import('..\\pages\\optimizacija-konverzija.vue' /* webpackChunkName: "pages/optimizacija-konverzija" */))
+const _550ce3dd = () => interopDefault(import('..\\pages\\search-engine-optimizacija.vue' /* webpackChunkName: "pages/search-engine-optimizacija" */))
+const _4c73d5b4 = () => interopDefault(import('..\\pages\\usluge.vue' /* webpackChunkName: "pages/usluge" */))
+const _0070f401 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -32,59 +32,59 @@ export const routerOptions = {
 
   routes: [{
     path: "/blog",
-    component: _2ff1e53b,
+    component: _13e060c3,
     name: "blog"
   }, {
     path: "/blog-details",
-    component: _69c2b5a0,
+    component: _f285ce90,
     name: "blog-details"
   }, {
     path: "/case-details",
-    component: _7ab40bbe,
+    component: _36527f46,
     name: "case-details"
   }, {
     path: "/digitalni-marketing",
-    component: _5ca6cd23,
+    component: _4a10d09b,
     name: "digitalni-marketing"
   }, {
     path: "/drustvene-mreze",
-    component: _322474e3,
+    component: _c36a174a,
     name: "drustvene-mreze"
   }, {
     path: "/graficki-dizajn",
-    component: _d906c568,
+    component: _00b9c678,
     name: "graficki-dizajn"
   }, {
     path: "/hosting",
-    component: _7ae8b731,
+    component: _20622ea9,
     name: "hosting"
   }, {
     path: "/izrada-web-stranica",
-    component: _e179f4ae,
+    component: _7cad0921,
     name: "izrada-web-stranica"
   }, {
     path: "/kontakt",
-    component: _aeb11bd2,
+    component: _4e20e98f,
     name: "kontakt"
   }, {
     path: "/o-nama",
-    component: _aa386e04,
+    component: _4d218286,
     name: "o-nama"
   }, {
     path: "/optimizacija-konverzija",
-    component: _4502b4a6,
+    component: _36ca2d25,
     name: "optimizacija-konverzija"
   }, {
     path: "/search-engine-optimizacija",
-    component: _0eb98356,
+    component: _550ce3dd,
     name: "search-engine-optimizacija"
   }, {
     path: "/usluge",
-    component: _37885b9e,
+    component: _4c73d5b4,
     name: "usluge"
   }, {
     path: "/",
-    component: _668ffe89,
+    component: _0070f401,
     name: "index"
   }],
 

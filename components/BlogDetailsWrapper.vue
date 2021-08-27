@@ -121,6 +121,6 @@
             WidgetPostCategoryCard: () => import('@/components/WidgetPostCategoryCard'),
             AboutBanner: () => import('@/components/AboutBanner'),
             WidgetTagCard: () => import('@/components/WidgetTagCard'),
-        },
+        }
     };
 </script>

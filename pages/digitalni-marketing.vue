@@ -36,7 +36,7 @@
                 meta: [{ 
                     hid: 'description', 
                     name: 'description', 
-                    content: 'Internet marketing skrojen za Vas Sve naše kampanje uvijek se završavaju na isti način – USPJEŠNO, to postižemo kroz individualnost i fokusiranost na klijenta. Garantujemo postizanje postavljenih ciljeva, poput povećanja prodaje ili povećanja informisanosti Vaših klijenata o Vašem proizvodu, uslugama ili brendu. Saznajte zašto nas svi preporučuju!' 
+                    content: 'Digitalni marketing za Vas. Ad-Kraft Agencija za digitalni marketing Vam nudi usluge digitalnog marketinga kojima povećavate Vaše online prisustvo.' 
                 }]
             }
         },

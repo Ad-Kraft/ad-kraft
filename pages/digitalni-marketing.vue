@@ -224,7 +224,7 @@
                 meta: [{ 
                     hid: 'description', 
                     name: 'description', 
-                    content: ' Digitalni marketing za Vas. Ad-Kraft Agencija za digitalni marketing Vam nudi usluge digitalnog marketinga kojima povećavate Vaše online prisustvo.' 
+                    content: 'Digitalni marketing za Vas. Ad-Kraft Agencija za digitalni marketing Vam nudi usluge digitalnog marketinga kojima povećavate Vaše online prisustvo.' 
                 }]
             }
         },

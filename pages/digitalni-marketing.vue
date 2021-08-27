@@ -21,7 +21,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 mt-35">
-                    <img style="max-width:280px" src="/images/service-details/digitalni-marketing/digitalni-marketing-Ad-Kraft-Agencija-za-digitalni-marketing-i-izradu-web-stranica.webp" alt="images-not_found" />
+                    <img style="max-width:270px" src="/images/service-details/digitalni-marketing/digitalni-marketing-Ad-Kraft-Agencija-za-digitalni-marketing-i-izradu-web-stranica.webp" alt="images-not_found" />
                 </div>
             </div>
 

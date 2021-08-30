@@ -59,52 +59,52 @@
                 </div>
             </div>
             <div class="service-details mt-4">
-                    <div class="service-details-list">
-                        <div class="row mtn-30">
-                            <!-- service-card satrt -->
-                            <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
-                                <div class="service-card">
-                                    <div class="service-content">
-                                        <h5 class="text-dark">Boje</h5>
-                                        <p>Istraživanja pokazuju da ljudi podsvjesno ocjenjuju brend ili proizvod za manje od 90 sekundi, a kod većine njih važnu ulogu u ocjenjivanju ima boja. Dakle, razumijevanje Vašeg poslovanja, vrste djelatnosti i emotivno povezivanje klijenata sa određenim bojama, značajno će povećati povjerenje u Vaš brend.</p>
-                                    </div>
+                <div class="service-details-list">
+                    <div class="row mtn-30">
+                        <!-- service-card satrt -->
+                        <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
+                            <div class="service-card">
+                                <div class="service-content">
+                                    <h5 class="text-dark">Boje</h5>
+                                    <p>Istraživanja pokazuju da ljudi podsvjesno ocjenjuju brend ili proizvod za manje od 90 sekundi, a kod većine njih važnu ulogu u ocjenjivanju ima boja. Dakle, razumijevanje Vašeg poslovanja, vrste djelatnosti i emotivno povezivanje klijenata sa određenim bojama, značajno će povećati povjerenje u Vaš brend.</p>
                                 </div>
                             </div>
-                            <!-- service-card end -->
-                            
-                            <!-- service-card satrt -->
-                            <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
-                                <div class="service-card">
-                                    <div class="service-content">
-                                        <h5 class="text-dark">Slanje poruke</h5>
-                                        <p>Dobro osmišljen logotip Vašim će klijentima pružiti predstavu o tome šta Vaša kompanija radi, zastupa ili šta možete učiniti za njih.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- service-card end -->
-                            <!-- service-card satrt -->
-                            <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
-                                <div class="service-card">
-                                    <div class="service-content">
-                                        <h5 class="text-dark">Prepoznatljivost</h5>
-                                        <p>Dobar logo istaknuće se prvi put kada ga neko vidi. Kombinacija sjajnog dizajna i efektivnog marketinga vremenom će povećati prepoznatljivost i ojačati povjerenje Vaših klijenata u Vaš brend.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- service-card end -->
-                            <!-- service-card satrt -->
-                            <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
-                                <div class="service-card">
-                                    <div class="service-content">
-                                        <h5 class="text-dark">Jedinstvenost</h5>
-                                        <p>Bilo da započinjete novi posao ili ste se odlučili za rebrendiranje, bitno je da budete unikatni i istaknete se svojim bezvremenskim dizajnom. Naši dizajneri će pravilnim kombinovanjem boja, znakova i tekstova učiniti da Vaš brend ujedno prenese poruku i probudi emocije kod Vaših klijenata.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- service-card end -->
                         </div>
+                        <!-- service-card end -->
+                        
+                        <!-- service-card satrt -->
+                        <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
+                            <div class="service-card">
+                                <div class="service-content">
+                                    <h5 class="text-dark">Slanje poruke</h5>
+                                    <p>Dobro osmišljen logotip Vašim će klijentima pružiti predstavu o tome šta Vaša kompanija radi, zastupa ili šta možete učiniti za njih.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- service-card end -->
+                        <!-- service-card satrt -->
+                        <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
+                            <div class="service-card">
+                                <div class="service-content">
+                                    <h5 class="text-dark">Prepoznatljivost</h5>
+                                    <p>Dobar logo istaknuće se prvi put kada ga neko vidi. Kombinacija sjajnog dizajna i efektivnog marketinga vremenom će povećati prepoznatljivost i ojačati povjerenje Vaših klijenata u Vaš brend.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- service-card end -->
+                        <!-- service-card satrt -->
+                        <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
+                            <div class="service-card">
+                                <div class="service-content">
+                                    <h5 class="text-dark">Jedinstvenost</h5>
+                                    <p>Bilo da započinjete novi posao ili ste se odlučili za rebrendiranje, bitno je da budete unikatni i istaknete se svojim bezvremenskim dizajnom. Naši dizajneri će pravilnim kombinovanjem boja, znakova i tekstova učiniti da Vaš brend ujedno prenese poruku i probudi emocije kod Vaših klijenata.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- service-card end -->
                     </div>
                 </div>
+            </div>
 
             
             <div class="row g-0">

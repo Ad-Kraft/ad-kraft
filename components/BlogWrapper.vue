@@ -6,7 +6,7 @@
                     <div class="row mtn-35">
                         <div class="col-12 col-md-6 mt-35" v-for="(article, index) in articles" :key="index">
                             <div class="blog-grid-card">
-                                <n-link to="/blog-details" class="blog-grid-thumb">
+                                <n-link :to="`/${article.slug}`" class="blog-grid-thumb">
                                     <img :src="`http://localhost:1337${article.featuredImage.url}`" :alt="article.title" />
                                 </n-link>
                                 <div class="blog-grid-content">
@@ -17,12 +17,12 @@
                                         </li>
                                     </ul>
                                     <h5 class="title mb-3">
-                                        <n-link to="/blog-details">{{ article.title }}</n-link>
+                                        <n-link :to="`/${article.slug}`">{{ article.title }}</n-link>
                                     </h5>
                                     <p class="mb-4">
                                         {{ article.excerpt }}
                                     </p>
-                                    <n-link to="/blog-details" class="btn btn-warning">read more</n-link>
+                                    <n-link :to="`/${article.slug}`" class="btn btn-warning">Nastavite čitati</n-link>
                                 </div>
                             </div>
                         </div>

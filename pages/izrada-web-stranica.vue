@@ -254,7 +254,7 @@
                 meta: [{ 
                     hid: 'description', 
                     name: 'description', 
-                    content: 'Izrada web stranica, graficki dizajn, SEO optimizacija, samo su dio ponude koju imamo za Vas. Tu smo da Vam pomognemo da Vaša web stranica zablista.' 
+                    content: 'Izrada web stranica, grafički dizajn, SEO optimizacija, samo su dio ponude koju imamo za Vas. Tu smo da Vam pomognemo da Vaša web stranica zablista.' 
                 }]
             }
         },

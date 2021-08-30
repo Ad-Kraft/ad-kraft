@@ -15,7 +15,7 @@
                         <div class="service-details-list">
                             <h2 class="title">Šta sve obuhvata grafički dizajn?</h2>
                             <h4 class="mt-3 mb-3">„Stilovi dolaze i odlaze. Dobar dizajn je jezik, a ne stil.“</h4>
-                            <p>U konkurentnom svijetu prvi utisak je ključan za postizanje Vaših ciljeva i uspostavljanje odnosa s potencijalnim klijentima. Zato su dobro pripremljena grafička rješenja bitan dio efikasne marketinške strategije. Naš dizajnerski tim osigurava da Vaša kompanija bude ispred konkurencije. Od logotipa, brendiranja do štampanog materijala - garantujemo jedinstven, efikasan i upečatljiv rad koji će poboljšati Vaše poslovanje.</p>
+                            <p>U konkurentnom svijetu prvi utisak je ključan za postizanje Vaših ciljeva i uspostavljanje odnosa s potencijalnim klijentima. Zato su dobro pripremljena grafička rješenja bitan dio efikasne marketinške strategije. Naš dizajnerski tim osigurava da Vaša kompanija bude ispred konkurencije. Koristeći slike, grafiku i tekst dizajneri kreiraju priču ili poruku koja će privući potencijalne korisnike. Nema svaki grafički dizajn za cilj da bude lijep, ali svaki treba da izazove reakcije i ostavi upečatljiv utisak. Od logotipa, brendiranja do štampanog materijala - garantujemo jedinstven, efikasan i upečatljiv rad koji će poboljšati Vaše poslovanje.</p>
                         </div>
                     </div>
                 </div>
@@ -30,7 +30,7 @@
                             <p>Naša posvećenost perfekcionizmu i saradnja s Vama tokom procesa kreiranja korporativnog identiteta će Vaš brend učiniti prepoznatljivim i staviti iznad konkurencije.</p>
                         </div>
                         <div class="col-lg-4 mt-35">
-                            <img src="/images/service-details/1.png" alt="images-not_found" />
+                            <img style="width:270px" src="/images/service-details/graficki-dizajn/grafički-dizajn-agencija-za-digitalni-marketing-i-izradu-web-stranica.webp" alt="images-not_found" />
                         </div>
                     </div>
                 </div>
@@ -49,6 +49,7 @@
                                 <li class="mb-2" style="list-style-type: circle;">Leci</li>
                                 <li class="mb-2" style="list-style-type: circle;">Bilbordi</li>
                                 <li class="mb-2" style="list-style-type: circle;">Katalozi</li>
+                                <li class="mb-2" style="list-style-type: circle;">Beskontaktne vizit kartice</li>
                             </ul>
 
                             <p>Svaki dizajn je jedinstven. Dizajnu logotipa pristupamo profesionalno i promišljeno. Vodimo računa o dva ključna aspekta pri izradi logotipa: našem klijentu i trendovima u dizajnu. Kroz komunikaciju s Vama, razumijevanje Vaših potreba, želja i poslovanja stvaramo logotip koji predstavlja zaštitni znak Vaše kompanije, po kojem će ona postati prepoznatljiva. Tokom procesa izrade prolazimo kroz brojne faze u kojima je ključna komunikacija i saradnja sa Vama. Krajnji rezultat ovog procesa je efektan, uočljiv i unikatan logotip koji će Vašim klijentima slati željenu poruku.</p>
@@ -168,7 +169,7 @@
                 meta: [{ 
                     hid: 'description', 
                     name: 'description', 
-                    content: 'Grafički dizajn je ključan za postizanje Vaših ciljeva i uspostavljanje odnosa s potencijalnim klijentima. Naš dizajnerski tim osigurava da Vaša kompanija bude ispred konkurencije.' 
+                    content: 'Grafički dizajn je u osnovi bilo koji vizuelni medij koji ima cilj da izrazi komunikaciju. Kontaktirajte nas i postanite naš partner.' 
                 }]
             }
         },

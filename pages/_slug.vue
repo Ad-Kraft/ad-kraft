@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Blog Details" active-title="Blog Details" />
+        <Breadcrumb :title="article[0].title" :active-title="article[0].title" />
 
         <section class="blog-details-section section-pt-150 section-pb-150">
             <div class="container">
@@ -19,7 +19,7 @@
                             <ul>
                                 <li class="social-share-item">
                                     <span>{{ article[0].created_at }}</span>
-                                </li>
+                                </li> 
                             </ul>
                             <div class="social-share-wrap">
                                 <span class="share mb-2">Share:</span>
@@ -41,7 +41,7 @@
                         <div class="service-details">
                             <div class="service-details-list">
                                 <h3 class="title">{{ article[0].title }}</h3>
-                                <p class="mb-2">{{ article[0].content }}</p>
+                                <div v-html="article[0].content"></div>
                             </div>
                         </div>
 
@@ -74,9 +74,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 order-lg-first">
+                    <div class="col-lg-4">
                         <aside class="sidebar">
-                            <WidgetProfileCard />
+                            <WidgetProfileCard :author="article[0].author"/>
 
                             <WidgetPostCategoryCard />
 
@@ -134,5 +134,3 @@
         },
     };
 </script>
-
-

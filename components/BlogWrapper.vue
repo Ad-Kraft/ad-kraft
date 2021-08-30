@@ -22,7 +22,7 @@
                                     <p class="mb-4">
                                         {{ article.excerpt }}
                                     </p>
-                                    <n-link :to="`/${article.slug}`" class="btn btn-warning">read more</n-link>
+                                    <n-link :to="`/${article.slug}`" class="btn btn-warning">Nastavite čitati</n-link>
                                 </div>
                             </div>
                         </div>

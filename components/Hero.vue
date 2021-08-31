@@ -11,7 +11,7 @@
                         <h2 class="title">Agencija za digitalni marketing</h2>
                         <p>Mi Vam možemo pomoći u izradi web stranica, vođenju digitalnog marketinga i određivanju strategije za Vaš uspjeh na digitalnom prostoru. Sve sa ciljem povećanja Vaše zarade!</p>
        
-                        <a class="btn btn-warning">Zatraži ponudu</a>
+                        <n-link class="btn btn-warning" to="/kontakt">Zatraži ponudu</n-link>
     
                         <img class="particle3" src="/images/hero/particle3.png" alt="particle2" />
                     </div>

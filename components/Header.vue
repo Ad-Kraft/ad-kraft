@@ -12,7 +12,7 @@
                         </ul>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 d-none d-md-block">
-                        <p class="d-flex flex-wrap align-items-center text-gradient"><span class="hr-border d-none d-xl-block"></span>Let us grow your website traffic.</p>
+                        <p class="d-flex flex-wrap align-items-center text-gradient"><span class="hr-border d-none d-xl-block"></span>Rastimo zajedno, postanite naš partner</p>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
                         <ul class="select-box d-flex flex-wrap align-items-center justify-content-center justify-content-md-end">
@@ -43,8 +43,8 @@
                             <nav class="d-none d-lg-block">
                                 <Navigation />
                             </nav>
-                            <n-link to="/contact" class="btn btn-warning btn-hover-warning btn-lg d-none d-md-block">
-                                Analyze Your Site <i class="icofont-arrow-right"></i>
+                            <n-link to="/kontakt" class="btn btn-warning btn-hover-warning btn-lg d-none d-md-block">
+                                Analizirajte vaš sajt <i class="icofont-arrow-right"></i>
                             </n-link>
                             <button class="btn btn-warning offcanvas-toggler d-lg-none" @click="mobiletoggleClass('addClass', 'show-mobile-menu')">
                                 <span class="line"></span>

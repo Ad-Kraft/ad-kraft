@@ -54,7 +54,6 @@
 
                             <p>Svaki dizajn je jedinstven. Dizajnu logotipa pristupamo profesionalno i promišljeno. Vodimo računa o dva ključna aspekta pri izradi logotipa: našem klijentu i trendovima u dizajnu. Kroz komunikaciju s Vama, razumijevanje Vaših potreba, želja i poslovanja stvaramo logotip koji predstavlja zaštitni znak Vaše kompanije, po kojem će ona postati prepoznatljiva. Tokom procesa izrade prolazimo kroz brojne faze u kojima je ključna komunikacija i saradnja sa Vama. Krajnji rezultat ovog procesa je efektan, uočljiv i unikatan logotip koji će Vašim klijentima slati željenu poruku.</p>
                             
-                            
                         </div>
                     </div>
                 </div>
@@ -62,7 +61,7 @@
             <div class="service-details mt-4">
                 <div class="service-details-list">
                     <div class="row mtn-30">
-                        <!-- service-card satrt -->
+                        <!-- service-card start -->
                         <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
                             <div class="service-card">
                                 <div class="service-content">
@@ -73,7 +72,7 @@
                         </div>
                         <!-- service-card end -->
                         
-                        <!-- service-card satrt -->
+                        <!-- service-card start -->
                         <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
                             <div class="service-card">
                                 <div class="service-content">
@@ -83,7 +82,7 @@
                             </div>
                         </div>
                         <!-- service-card end -->
-                        <!-- service-card satrt -->
+                        <!-- service-card start -->
                         <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
                             <div class="service-card">
                                 <div class="service-content">

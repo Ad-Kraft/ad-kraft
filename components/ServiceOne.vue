@@ -22,7 +22,7 @@
                         </div>
                         <div class="service-content">
                             <h4 class="title">Internet marketing</h4>
-                            <p>Sve naše kampanje uvijek se završavaju na isti način - USPJEŠNO, to postižemo kroz individualnost i fokusiranost na kupca. Garantujemo postizanje postavljenih ciljeva, poput povećane prodaje ili većeg nivoa informisanosti.</p>
+                            <p>Sve naše kampanje uvijek se završavaju na isti način - USPJEŠNO, to postižemo kroz individualnost i fokusiranost na klijenta. Garantujemo postizanje postavljenih ciljeva, poput povećane prodaje ili većeg nivoa informisanosti.</p>
                             <n-link to="/digitalni-marketing" class="btn btn-outline-danger">Saznajte više</n-link>
                         </div>
                     </div>

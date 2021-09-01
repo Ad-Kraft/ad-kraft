@@ -182,7 +182,7 @@
                 meta: [{ 
                     hid: 'description', 
                     name: 'description', 
-                    content: 'Search Engine optimizacija | SEO poboljšava vidljivosti i prisutnost web stranice na internet pretraživačima što dovodi do značajnog povećanja prodaje, profitabilnosti i ekonomičnosti naših klijenata.' 
+                    content: ' SEO | Search Engine optimizacija. Nudimo Vam usluge Tehničkog SEO-a, On-Page SEO-a, Off-Page SEO-a, Lokalnog SEO-a. Povećajte svoje online prisustvo.' 
                 }]
             }
         },

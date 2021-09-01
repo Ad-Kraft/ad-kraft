@@ -27,7 +27,7 @@
                             <div class="about-object">
                                 <div class="about-object-list">
                                     <div class="about-object-content">
-                                        <h4 class="title">Njegujemo odnose zasnovane na transparentnosti, upornosti, međusobnom povjerenju i poštovanju sa zaposlenima, klijentima i ostalim poslovnim partnerima.</h4>
+                                        <h5 class="text-dark">Njegujemo odnose zasnovane na transparentnosti, upornosti, međusobnom povjerenju i poštovanju sa zaposlenima, klijentima i ostalim poslovnim partnerima.</h5>
                                         <p>Strast, kreativnost i želja da internet učinimo boljim mjestom su vrijednosti kojima se vraćamo iz dana u dan. Inovativnim idejama želimo napraviti razliku u digitalnom svijetu. Međusobna saradnja pojedinaca kao i timova je snaga koja stvara ideje koje nas pokreću.</p>
 
                                         <p>Kao društveno odgovorna kompanija nastojimo podstaknuti razvoj naše društvene zajednice i pozitivno uticati na naše okruženje.</p>

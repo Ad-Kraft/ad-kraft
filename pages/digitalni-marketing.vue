@@ -30,11 +30,11 @@
                     <div class="row mtn-35">
                         <div class="col-lg-6 mt-35">
                             <h3 class="text-dark">Plaćene search kampanje PPC</h3>
-                            <p>Osigurajte pozitivan ROI (povrat ulaganja) sa našim strategijama PPC (pay per click) marketinga. Trošite novac pametno i koristite najpovoljniji i najisplativiji oblik oglašavanja.Za ovaj vid digitalnog marketinga najčešće se koriste Google Ads ili Facebook Ads alati.Dobra stvar PPC kampanja jeste što mogu da donesu trenutne rezultate usljed preciznog ciljanja publike. Na ovaj način možete da izaberete ko će vidjeti vaš oglas na osnovu ključne riječi, pola, starosti, lokacije, zanimanja, jezika, itd...</p>
+                            <p>Osigurajte pozitivan ROI (povrat ulaganja) sa našim strategijama PPC (pay per click) marketinga. Trošite novac pametno i koristite najpovoljniji i najisplativiji oblik oglašavanja. Za ovaj vid digitalnog marketinga najčešće se koriste Google Ads ili Facebook Ads alati. Dobra stvar PPC kampanja jeste što mogu da donesu trenutne rezultate usljed preciznog ciljanja publike. Na ovaj način možete da izaberete ko će vidjeti vaš oglas na osnovu ključne riječi, pola, starosti, lokacije, zanimanja, jezika, itd...</p>
                         </div>
                         <div class="col-lg-6 mt-35">
                             <h3 class="text-dark">Društvene mreže</h3>
-                            <p>Želite da povećate prisustvo Vašeg brenda i proizvoda na društvenim mrežama? Razvićemo marketing strategiju koja će zadovoljiti Vaše ciljeve i potrebe, kao i KPI parametre (ključni pokazatelji uspješnosti).Promotivne aktivnosti na društvenim mrežama fokusiraju se na najpopularnije platforme kao što su Facebook, Instagram, Linkedin, Twitter, Snapchat, Pinterest i druge. Svaka društvena mreža ima drugačiju publiku, pa se i promotivne aktivnosti razlikuju.</p>
+                            <p>Želite da povećate prisustvo Vašeg brenda i proizvoda na društvenim mrežama? Razvićemo marketing strategiju koja će zadovoljiti Vaše ciljeve i potrebe, kao i KPI parametre (ključni pokazatelji uspješnosti). Promotivne aktivnosti na društvenim mrežama fokusiraju se na najpopularnije platforme kao što su Facebook, Instagram, Linkedin, Twitter, Snapchat, Pinterest i druge. Svaka društvena mreža ima drugačiju publiku, pa se i promotivne aktivnosti razlikuju.</p>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                         </div>
                         <div class="col-lg-6 mt-35">
                             <h3 class="text-dark">SEO</h3>
-                            <p>Search Engine Optimization (SEO) odnosi se na aktivnosti oko sajta, tako da se on može lako pronaći u internet pretragama. Kada nešto tražite putem Googlea (ili nekog drugog pretraživača), dobićete rezultate u skladu sa riječima koje ste unijeli. Ukoliko je vaš sajt dobro optimizovan za željene riječi, naći će se u vrhu pretraga.</p>   
+                            <p>Search Engine Optimization (SEO) odnosi se na aktivnosti oko sajta, tako da se on može lako pronaći u internet pretragama. Kada nešto tražite putem Googla (ili nekog drugog pretraživača), dobićete rezultate u skladu sa riječima koje ste unijeli. Ukoliko je vaš sajt dobro optimizovan za željene riječi, naći će se u vrhu pretraga.</p>   
                         </div>
                     </div>
                 </div>
@@ -67,7 +67,6 @@
                             Iznenađujuće, YouTube je relativno neiskorišćena platforma za mala preduzeća. Samo 9% malih preduzeća se nalazi na YouTube-u, što sugeriše da je za vaše poslovanje ostalo još dosta prostora.</p>
                             <h3 class="text-dark">SEM</h3>
                             <p>SEM predstavlja vezu između PPC i SEO strategija, kombinujući ih kako bi se postigao maksimalni efekat. SEM se koristi kako bi se kroz najbolje prakse i kombinovanje organske i plaćene pretrage postigao maksimalni efekat.</p>
-                            
                         </div>
                     </div>
                 </div>
@@ -78,7 +77,7 @@
                     <div class="row mtn-35">
                         <div class="col-lg-8 mt-35">
                             <h3 class="text-dark">Display marketing</h3>
-                            <p>Display oglašavanje (banner oglašavanje) je oblik oglašavanja koji vizuelno prenosi komercijalnu poruku koristeći tekst, logotipe, animacije, video zapise, fotografije ili drugu grafiku. Ciljamo korisnike sa određenim osobinama kako bi povećali učinak oglasa.Do sada smo radili za preko 100 klijenata – od velikih kompanija kao što je Daily Mail UK, do malih preduzetnika. Bitno je naglasiti da svi mogu naći svoj prostor na digitalnom marketing tržištu. Ispod se nalaze brojevi koji govore više o našem iskustvu.</p>
+                            <p>Display oglašavanje (banner oglašavanje) je oblik oglašavanja koji vizuelno prenosi komercijalnu poruku koristeći tekst, logotipe, animacije, video zapise, fotografije ili drugu grafiku. Ciljamo korisnike sa određenim osobinama kako bi povećali učinak oglasa. Do sada smo radili za preko 100 klijenata – od velikih kompanija kao što je Daily Mail UK, do malih preduzetnika. Bitno je naglasiti da svi mogu naći svoj prostor na digitalnom marketing tržištu. Ispod se nalaze brojevi koji govore više o našem iskustvu.</p>
                             <h3 class="text-dark">Content marketing</h3>
                             <p>Ne kažu bez razloga kako je sadržaj – Kralj. Naš tim posebnu pažnju posvećuje upravo kreiranju sadržaja, jer web stranica ili vaša društvena mreža bez kvalitetnog sadržaja je kao prazan list papira.</p>
                             
@@ -100,7 +99,7 @@
                             <div class="service-card">
                                 <div class="service-content">
                                     <h5 class="text-dark">Pruža jednake mogućnosti svima</h5>
-                                    <p>Bilo da se radi o velikim kompanijama ili malim preduzetnicima digitalni marketing je Vaš put do online vidljivosti. Uz naše marketinške strategiju te iskusnog stručnjake za digitalni marketing, vaš proizvod i vaša usluga mogu vrlo lako pomesti konkurenciju na internetu, bez obzira na vašu veličinu.</p>
+                                    <p>Bilo da se radi o velikim kompanijama ili malim preduzetnicima digitalni marketing je Vaš put do online vidljivosti. Uz naše marketinške strategije te iskusnog stručnjake za digitalni marketing, vaš proizvod i vaša usluga mogu vrlo lako pomesti konkurenciju na internetu, bez obzira na vašu veličinu.</p>
                                 </div>
                             </div>
                         </div>
@@ -110,7 +109,7 @@
                             <div class="service-card">
                                 <div class="service-content">
                                     <h5 class="text-dark">Pruža mjerljive rezultate</h5>
-                                    <p>Za razliku od tradicionalnih metoda i kanala oglašavanja, gdje ne možemo sa sigurnošću reći niti znati koliko je ljudi vidjelo naš oglas ili reklamu, kod digitalnog marketinga tog problema nema. Postoje precizni alati kojima se mogu mjeriti razni aspekti digitalnih kampanja, koji nam daju precizne rezultate.</p>
+                                    <p>Za razliku od tradicionalnih metoda i kanala oglašavanja, gdje ne možemo sa sigurnošću reći ni znati koliko je ljudi vidjelo naš oglas ili reklamu, kod digitalnog marketinga tog problema nema. Postoje precizni alati kojima se mogu mjeriti razni aspekti digitalnih kampanja, koji nam daju precizne rezultate.</p>
                                 </div>
                             </div>
                         </div>
@@ -121,7 +120,7 @@
                                 <div class="service-content">
                                     <h5 class="text-dark">Povećava vidljivost</h5>
                                     <p>Digitalni marketing značajno povećava vašu vidljivost na internetu, a time i vašu izloženost ciljanoj publici, odnosno potencijalnim klijentima.
-                                        Uz različite strategije digitalnog marketinga, vaš proizvod ili vaša usluga predstavlja se upravo onim korisnicima koje zanima vaša usluga, odnosno koji je već pretražuju i trebaju. Bez obzira koristite li PPC oglase kao što su Google Ads (donedavno Adwords) ili Facebook Ads, ili pak radite kompletnu SEO optimizaciju, doprijet ćete do svog potencijalnog klijenta.
+                                        Uz različite strategije digitalnog marketinga, vaš proizvod ili vaša usluga predstavlja se upravo onim korisnicima koje zanima vaša usluga, odnosno koji je već pretražuju i trebaju. Bez obzira koristite li PPC oglase kao što su Google Ads (donedavno Adwords) ili Facebook Ads, ili radite kompletnu SEO optimizaciju, doprijećete do svog potencijalnog klijenta.
                                     </p>
                                 </div>
                             </div>
@@ -133,7 +132,7 @@
                                 <div class="service-content">
                                     <h5 class="text-dark">Povećava prihode</h5>
                                     <p>Uspješna strategija digitalnog marketinga rezultira povećanim brojem klijenata, a kao rezultat toga, dolazi i povećanje prihoda.
-                                    Uzmimo za primjer društvene mreže, odnosno oglašavanje na društvenim mrežama i njihovo vođenje, što je također jedna od strategija i vrsta digitalnog marketinga. Istraživanja su pokazala da firme koje koriste društvene mreže generiraju 78% više posla nego firme koje ih ne koriste.</p>
+                                    Uzmimo za primjer društvene mreže, odnosno oglašavanje na društvenim mrežama i njihovo vođenje, što je takođe jedna od strategija i vrsta digitalnog marketinga. Istraživanja su pokazala da firme koje koriste društvene mreže generiraju 78% više posla nego firme koje ih ne koriste.</p>
                                 </div>
                             </div>
                         </div>
@@ -153,7 +152,7 @@
                             <div class="service-card">
                                 <div class="service-content">
                                     <h5 class="text-dark">Omogućuje ciljanje prave publike</h5>
-                                    <p>Jedan od glavnih prednosti digitalnog marketinga, naspram običnog marketinga, je to što se može kvalitetno i točno ciljati skupina ljudi koju želimo, a upravo zbog toga ćete trošiti manje novca da biste došli do većeg broja potencijalnih klijenata.</p>
+                                    <p>Jedan od glavnih prednosti digitalnog marketinga, naspram običnog marketinga, je to što se može kvalitetno i tačno ciljati grupa ljudi koju želimo, a upravo zbog toga ćete trošiti manje novca da biste došli do većeg broja potencijalnih klijenata.</p>
                                 </div>
                             </div>
                         </div>

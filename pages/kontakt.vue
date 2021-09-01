@@ -106,8 +106,8 @@
     };
 </script>
 
-
-<style scoped>
-
-
+<style lang="scss" scoped>
+.cu-form {
+    padding: 50px;
+}
 </style>

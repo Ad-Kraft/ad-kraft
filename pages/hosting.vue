@@ -122,9 +122,9 @@
             </div>
 
             <div class="row">
-                <div class="table-responsive">
                 <h2 class="text-dark mb-4">Detaljnije o paketima</h2>
-                <table class="table">
+                <div class="table-responsive">
+                <table class="table table-pricing">
                     <thead>
                         <tr class="">
                             <th style="width: 25%" scope="col main-table-col">Paket uključuje</th>
@@ -136,123 +136,123 @@
                     <tbody>
                         <tr>
                             <th scope="row">Prostor na disku</th>
-                            <td class="text-center">5 GB</td>
-                            <td class="text-center">10 GB</td>
-                            <td class="text-center">30 GB</td>
+                            <td>5 GB</td>
+                            <td>10 GB</td>
+                            <td>30 GB</td>
                         </tr>
                         <tr>
                             <th scope="row">Broj domena</th>
-                            <td class="text-center">1</td>
-                            <td class="text-center"> 1</td>
-                            <td class="text-center">1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
                         </tr>
                         <tr>
                             <th scope="row">Broj poddomena</th>
-                            <td class="text-center">1</td>
-                            <td class="text-center">neograničeno</td>
-                            <td class="text-center">neograničeno</td>
+                            <td>1</td>
+                            <td>neograničeno</td>
+                            <td>neograničeno</td>
                         </tr>
                         <tr>
                             <th scope="row">Podrška 14/5</th>
-                            <td class="text-center">neograničeno</td>
-                            <td class="text-center">neograničeno</td>
-                            <td class="text-center">neograničeno</td>
+                            <td>neograničeno</td>
+                            <td>neograničeno</td>
+                            <td>neograničeno</td>
                         </tr>
                         <tr>
                             <th scope="row">Mjesečni protok (traffic) </th>
-                            <td class="text-center" >neograničeno</td>
-                            <td class="text-center">neograničeno</td>
-                            <td class="text-center">neograničeno</td>
+                            <td>neograničeno</td>
+                            <td>neograničeno</td>
+                            <td>neograničeno</td>
                         </tr>
                         <tr>
                             <th scope="row">Broj email naloga</th>
-                            <td class="text-center">1</td>
-                            <td class="text-center">3</td>
-                            <td class="text-center">5</td>
+                            <td>1</td>
+                            <td>3</td>
+                            <td>5</td>
                         </tr>
                         <tr>
                             <th scope="row">E-mail prostor po mailboxu</th>
-                            <td class="text-center" >Ograničeno kapacitetom zakupljenog diska</td>
-                            <td class="text-center">Ograničeno kapacitetom zakupljenog diska</td>
-                            <td class="text-center">Ograničeno kapacitetom zakupljenog diska</td>
+                            <td>Ograničeno kapacitetom zakupljenog diska</td>
+                            <td>Ograničeno kapacitetom zakupljenog diska</td>
+                            <td>Ograničeno kapacitetom zakupljenog diska</td>
                         </tr>
                         <tr>
                             <th scope="row">Broj FTP Accounts (naloga)</th>
-                            <td class="text-center">1</td>
-                            <td class="text-center">neograničeno</td>
-                            <td class="text-center">neograničeno</td>
+                            <td>1</td>
+                            <td>neograničeno</td>
+                            <td>neograničeno</td>
                         </tr>
                         <tr>
                             <th scope="row">Uptime SLA</th>
-                            <td class="text-center" >99.99%</td>
-                            <td class="text-center">99.99%</td>
-                            <td class="text-center">99.99%</td>
+                            <td >99.99%</td>
+                            <td>99.99%</td>
+                            <td>99.99%</td>
                         </tr>
                         <tr>
                             <th scope="row">Operativni sistem</th>
-                            <td class="text-center">Linux</td>
-                            <td class="text-center">Linux</td>
-                            <td class="text-center">Linux</td>
+                            <td>Linux</td>
+                            <td>Linux</td>
+                            <td>Linux</td>
                         </tr>
                         <tr>
                             <th scope="row">Hosting Control Panel</th>
-                            <td class="text-center">Plesk</td>
-                            <td class="text-center">Plesk</td>
-                            <td class="text-center">Plesk</td>
+                            <td>Plesk</td>
+                            <td>Plesk</td>
+                            <td>Plesk</td>
                         </tr>
                         <tr>
                             <th scope="row">SSL Sertifikat</th>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
                         </tr>
                         <tr>
                             <th scope="row">VirusAlert monitoring</th>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
                         </tr>
                         <tr>
                             <th scope="row">"On Click Install Apps (Joomla, WordPress, Concrete5, DotNetNuke, SuiteCRM, …)"</th>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
                         </tr>
                         <tr>
                             <th scope="row">Antispam i Antivirus zaštita</th>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
                         </tr>
                         <tr>
                             <th scope="row">"Platforma podržava: pop3, imap, webmail, e-mail forwarding, white/black liste"</th>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
                         </tr>
                         <tr>
                             <th scope="row">Podrška za php 5.3, 5.4, 5.5, 5.6, 7.0, 8.0.8</th>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
                         </tr>
                         <tr>
-                            <th scope="row">Aktivacija usluge</th>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
+                            <th>Aktivacija usluge</th>
+                            <td>Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
                         </tr>
                         <tr>
                             <th scope="row">Besplatan automatski backup</th>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
-                            <td class="text-center">Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
+                            <td>Da</td>
                         </tr>
                         <tr>
                             <th scope="row">Cijena</th>
-                            <td class="text-center">100 KM</td>
-                            <td class="text-center">150 KM</td>
-                            <td class="text-center">250 KM</td>
+                            <td>100 KM</td>
+                            <td>150 KM</td>
+                            <td>250 KM</td>
                         </tr>
                     </tbody>
                 </table>
@@ -334,9 +334,13 @@
     box-shadow: 0px 20px 140px #d6dee49e;
 }
 
-.table {
-    box-shadow: 0px 20px 140px #d6dee49e;
+.table-pricing {
     border-radius: 10px;
+    
+}
+
+.table-responsive {
+    box-shadow: 0px 20px 140px #d6dee49e;
 }
 
 .main-table-col {
@@ -344,19 +348,23 @@
     color: white;
 }
 
-/*tr td:nth-child(2) {
-    background-color: #B6D7A8;
-    color: white;
+.table-pricing tr td {
+    text-align: center;
+
 }
 
-tr td:nth-child(3) {
-    background-color: red;
-    color: white;
+.table-pricing thead th:nth-child(2),
+.table-pricing thead th:nth-child(4),
+.table-pricing tr td:nth-child(2),
+.table-pricing tr td:nth-child(4) {
+    background-color: #F7FAFF;
+    color: black;
 }
-tr td:nth-child(4) {
-    background-color: blue;
-    color: white;
-}*/
+
+.table-pricing tbody th {
+    font-weight: 400;
+}
+
 
 .pricing-feat {
     height: 80px;

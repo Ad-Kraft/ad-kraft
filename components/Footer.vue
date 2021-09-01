@@ -3,7 +3,7 @@
         <div class="footer-top position-relative">
             <div class="container">
                 <!-- Newsletter start -->
-                <div class="row">
+                <!--<div class="row">
                     <div class="col-12" data-aos="fade-up" data-aos-delay="100">
                         <div class="section-title process text-center pb-100">
                             <h3 class="title">Pretplatite se na naše newsletter</h3>
@@ -23,7 +23,7 @@
                             </form>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <!-- Newsletter end -->
                 <div class="row">
                     <div class="col-12" data-aos="fade-up" data-aos-delay="600">

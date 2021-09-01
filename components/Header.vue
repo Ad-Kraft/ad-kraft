@@ -44,7 +44,7 @@
                                 <Navigation />
                             </nav>
                             <n-link to="/kontakt" class="btn btn-warning btn-hover-warning btn-lg d-none d-md-block">
-                                Analizirajte vaš sajt <i class="icofont-arrow-right"></i>
+                                Kontaktirajte nas <i class="icofont-arrow-right"></i>
                             </n-link>
                             <button class="btn btn-warning offcanvas-toggler d-lg-none" @click="mobiletoggleClass('addClass', 'show-mobile-menu')">
                                 <span class="line"></span>

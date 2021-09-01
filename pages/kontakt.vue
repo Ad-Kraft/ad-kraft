@@ -110,4 +110,10 @@
 .cu-form {
     padding: 50px;
 }
+
+@media screen and (max-width: 768px) {
+    .cu-form__container {
+        padding: 30px;
+    }
+}
 </style>

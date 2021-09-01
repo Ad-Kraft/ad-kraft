@@ -1,33 +1,30 @@
 <template>
     <div class="sidebar-widget post-card">
-        <h3 class="title">Post Category</h3>
+        <h3 class="title">Kategorije</h3>
         <ul class="list-group">
-            <li class="list-group-item d-flex justify-content-between align-items-center">
-                <n-link to="/blog-left-sidebar"><i class="icofont-rounded-double-right"></i> Digital Marketing</n-link>
-                <span>(24)</span>
-            </li>
-            <li class="list-group-item d-flex justify-content-between align-items-center">
-                <n-link to="/blog-left-sidebar"> <i class="icofont-rounded-double-right"></i> Seo Optimization</n-link>
-                <span>(25)</span>
-            </li>
-            <li class="list-group-item d-flex justify-content-between align-items-center">
-                <n-link to="/blog-left-sidebar"><i class="icofont-rounded-double-right"></i> Pay Per Click </n-link>
-                <span>(26)</span>
-            </li>
-            <li class="list-group-item d-flex justify-content-between align-items-center">
-                <n-link to="/blog-left-sidebar"><i class="icofont-rounded-double-right"></i> App Devolepmanet</n-link>
-                <span>(27)</span>
-            </li>
-            <li class="list-group-item d-flex justify-content-between align-items-center">
-                <n-link to="/blog-left-sidebar"><i class="icofont-rounded-double-right"></i> Email Marketing</n-link>
-                <span>(28)</span>
+            <li v-for="(category, index) in categories" :key="index" class="mb-1">
+                <div v-if="category.categoryCount != 0" class="list-group-item d-flex justify-content-between align-items-center">
+                        <n-link :to="`/${category.categorySlug}`">
+                            <i class="icofont-rounded-double-right"></i>
+                            {{ category.categoryName }}
+                        </n-link>
+                        <span>{{ category.categoryCount }}</span>
+                </div>
             </li>
         </ul>
     </div>
 </template>
 
 <script>
-    export default {
+    import { mapState } from 'vuex'
 
+    export default {
+        mounted() {
+            this.$store.dispatch('getCategories')
+        },
+
+        computed: {
+            ...mapState(['categories'])
+        }
     };
 </script>

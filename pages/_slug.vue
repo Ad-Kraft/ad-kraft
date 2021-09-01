@@ -18,7 +18,7 @@
                         <div class="social-share-card">
                             <ul>
                                 <li class="social-share-item">
-                                    <span>{{ article[0].created_at }}</span>
+                                    <span>{{ article[0].published }}</span>
                                 </li> 
                             </ul>
                             <div class="social-share-wrap">
@@ -47,14 +47,14 @@
 
                         <div class="next-prev-section next-prev-section2">
                             <div class="row mb-n4 align-items-center">
-                                <div class="col-md-4 mb-4 col-6 order-1 order-md-0">
+                                <!-- <div class="col-md-4 mb-4 col-6 order-1 order-md-0">
                                     <div class="service-prev service-media">
                                         <div class="content">
                                             <h4 class="title">Digital Marketing</h4>
                                             <n-link to="/blog-details" class="link">Previous <i class="icofont-rounded-double-right"></i></n-link>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="col-md-4 mb-4">
                                     <div class="service-dots service-dots2 text-center">
                                         <p>
@@ -63,14 +63,14 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class="col-md-4 mb-4 col-6 order-2 order-md-0">
+                                <!-- <div class="col-md-4 mb-4 col-6 order-2 order-md-0">
                                     <div class="service-next service-media">
                                         <div class="content">
                                             <h4 class="title">Pay Per Click</h4>
                                             <n-link to="" class="link">Next <i class="icofont-rounded-double-right"></i></n-link>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

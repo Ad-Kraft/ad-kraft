@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Kontaktirajte nas" active-title="Kontaktirajte nas" />
+        <Breadcrumb title="Kontakt" active-title="Kontakt" />
 
         <section class="contact-section-page section-ptb-150">
         <div class="container">
@@ -13,7 +13,7 @@
                 <div class="row mtn-35">
                     <div class="col-lg-5 mt-35">
                         <div class="section-title">
-                            <h3 class="title">Pišite nam.</h3>
+                            <h3 class="title">Kontaktirajte nas</h3>
                             <span class="comment-hr mb-0"></span>
                         </div>
                         <!-- contact media -->

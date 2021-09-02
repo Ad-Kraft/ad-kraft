@@ -5,20 +5,20 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb :title="article[0].title" :active-title="article[0].title" />
+        <Breadcrumb :title="article.title" :active-title="article.title" />
 
         <section class="blog-details-section section-pt-150 section-pb-150">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 ps-xl-7">
                         <div class="blog-details-thumb">
-                            <img :src="`http://localhost:1337${article[0].featuredImage.url}`" :alt="article[0].alt" />
+                            <img :src="`http://localhost:1337${url}`" :alt="article.alt" />
                         </div>
                         <!-- social-share-card start -->
                         <div class="social-share-card">
                             <ul>
                                 <li class="social-share-item">
-                                    <span>{{ article[0].published }}</span>
+                                    <span>{{ article.published }}</span>
                                 </li> 
                             </ul>
                             <div class="social-share-wrap">
@@ -40,8 +40,8 @@
 
                         <div class="service-details">
                             <div class="service-details-list">
-                                <h3 class="title">{{ article[0].title }}</h3>
-                                <div v-html="article[0].content"></div>
+                                <h3 class="title">{{ article.title }}</h3>
+                                <div v-html="article.content"></div>
                             </div>
                         </div>
 
@@ -76,7 +76,7 @@
                     </div>
                     <div class="col-lg-4">
                         <aside class="sidebar">
-                            <WidgetProfileCard :author="article[0].author"/>
+                            <WidgetProfileCard :author="author"/>
 
                             <WidgetPostCategoryCard />
 
@@ -97,7 +97,7 @@
 </template>
 
 <script>
-    import { mapState } from 'vuex'
+    import axios from 'axios'
 
     export default {
         components: {
@@ -115,16 +115,22 @@
 
         data() {
             return {
-                slug: this.$route.params.slug
+                article: [],
+                author: '',
+                url: ''
             }
         },
 
         mounted() {
-            this.$store.dispatch('getArticle', this.slug);
-        },
-
-        computed: {
-            ...mapState(['article'])
+            axios
+                .get(`http://localhost:1337/articles?slug=${this.$route.params.slug}`)
+                .then(response => {
+                    console.log(response.data[0])
+                    this.article = response.data[0]
+                    this.author = response.data[0].author
+                    this.url = response.data[0].featuredImage.url
+                })
+                .catch(error => console.log(error))
         },
 
         head() {

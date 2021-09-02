@@ -6,7 +6,7 @@ Vue.use(Vuex)
 
 export const state = () => ({
     articles: [],
-    article: [],
+    // article: [],
     categories: []
 })
   
@@ -15,9 +15,9 @@ export const mutations = {
         state.articles = ARTICLES
     },
 
-    SET_ARTICLE(state, ARTICLE) {
-        state.article = ARTICLE
-    },
+    // SET_ARTICLE(state, ARTICLE) {
+    //     state.article = ARTICLE
+    // },
 
     SET_CATEGORIES(state, CATEGORIES) {
         state.categories = CATEGORIES
@@ -35,15 +35,15 @@ export const actions = {
             .catch(error => console.log(error))
     },
 
-    getArticle({ commit }, slug) {
-        axios
-            .get(`http://localhost:1337/articles?slug=${slug}`)
-            .then(response => {
-                const ARTICLE = response.data
-                commit('SET_ARTICLE', ARTICLE)
-            })
-            .catch(error => console.log(error))
-    },
+    // getArticle({ commit }, slug) {
+    //     axios
+    //         .get(`http://localhost:1337/articles?slug=${slug}`)
+    //         .then(response => {
+    //             const ARTICLE = response.data
+    //             commit('SET_ARTICLE', ARTICLE)
+    //         })
+    //         .catch(error => console.log(error))
+    // },
 
     getCategories({ commit }) {
         axios

@@ -89,7 +89,7 @@
                                 <div class="service-next service-media">
                                     <div class="content">
                                         <h4 class="title">Pay Per Click</h4>
-                                        <n-link to="/blog-details" class="link">Next <i class="icofont-rounded-double-right"></i></n-link>
+                                        <n-link :to="`/${articles.slug}`" class="link">Next <i class="icofont-rounded-double-right"></i></n-link>
                                     </div>
                                 </div>
                             </div>
@@ -121,6 +121,6 @@
             WidgetPostCategoryCard: () => import('@/components/WidgetPostCategoryCard'),
             AboutBanner: () => import('@/components/AboutBanner'),
             WidgetTagCard: () => import('@/components/WidgetTagCard'),
-        },
+        }
     };
 </script>

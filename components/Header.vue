@@ -12,19 +12,19 @@
                         </ul>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 d-none d-md-block">
-                        <p class="d-flex flex-wrap align-items-center text-gradient"><span class="hr-border d-none d-xl-block"></span>Let us grow your website traffic.</p>
+                        <p class="d-flex flex-wrap align-items-center"><span class="hr-border d-none d-xl-block"></span>Rastimo zajedno, postanite naš partner</p>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
                         <ul class="select-box d-flex flex-wrap align-items-center justify-content-center justify-content-md-end">
                             <li class="select-item">
                                 <a href="tel:+38765393205"><i class="icofont-phone"></i> +387 (0) 65 393 205</a>
                             </li>
-                            <li class="select-item">
+                            <!--<li class="select-item">
                                 <select class="form-select">
                                     <option value="1">Srpski</option>
                                     <option value="2">English</option>
                                 </select>
-                            </li>
+                            </li>-->
                         </ul>
                     </div>
                 </div>
@@ -43,8 +43,8 @@
                             <nav class="d-none d-lg-block">
                                 <Navigation />
                             </nav>
-                            <n-link to="/contact" class="btn btn-warning btn-hover-warning btn-lg d-none d-md-block">
-                                Analyze Your Site <i class="icofont-arrow-right"></i>
+                            <n-link to="/kontakt" class="btn btn-warning btn-hover-warning btn-lg d-none d-md-block">
+                                Kontaktirajte nas <i class="icofont-arrow-right"></i>
                             </n-link>
                             <button class="btn btn-warning offcanvas-toggler d-lg-none" @click="mobiletoggleClass('addClass', 'show-mobile-menu')">
                                 <span class="line"></span>

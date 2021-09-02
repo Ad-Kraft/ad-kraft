@@ -3,7 +3,7 @@
         <div class="footer-top position-relative">
             <div class="container">
                 <!-- Newsletter start -->
-                <div class="row">
+                <!--<div class="row">
                     <div class="col-12" data-aos="fade-up" data-aos-delay="100">
                         <div class="section-title process text-center pb-100">
                             <h3 class="title">Pretplatite se na naše newsletter</h3>
@@ -23,7 +23,7 @@
                             </form>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <!-- Newsletter end -->
                 <div class="row">
                     <div class="col-12" data-aos="fade-up" data-aos-delay="600">
@@ -61,46 +61,46 @@
                                         <h4 class="title">Usluge</h4>
                                         <ul class="footer-menu">
                                             <li>
-                                                <a class="footer-link" href="/digitalni-marketing">
+                                                <n-link class="footer-link" to="/digitalni-marketing">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Digitalni marketing
-                                                </a>
+                                                </n-link>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/izrada-web-stranica">
+                                                <n-link class="footer-link" to="/izrada-web-stranica">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Izrada web stranica
-                                                </a>
+                                                </n-link>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/graficki-dizajn">
+                                                <n-link class="footer-link" to="/graficki-dizajn">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Grafički dizajn
-                                                </a>
+                                                </n-link>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/drustvene-mreze">
+                                                <n-link class="footer-link" to="/drustvene-mreze">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Društvene mreže
-                                                </a>
+                                                </n-link>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/search-engine-optimizacija">
+                                                <n-link class="footer-link" to="/search-engine-optimizacija">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     SEO optimizacija
-                                                </a>
+                                                </n-link>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/optimizacija-konverzija">
+                                                <n-link class="footer-link" to="/optimizacija-konverzija">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Optimizacija konverzija
-                                                </a>
+                                                </n-link>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/hosting">
+                                                <n-link class="footer-link" to="/hosting">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Hosting
-                                                </a>
+                                                </n-link>
                                             </li>
                                         </ul>
                                     </div>
@@ -110,46 +110,46 @@
                                         <h4 class="title">Navigacija</h4>
                                         <ul class="footer-menu">
                                             <li>
-                                                <a class="footer-link" href="/o-name">
+                                                <n-link class="footer-link" to="/o-nama">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     O nama
-                                                </a>
+                                                </n-link>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/blog">
+                                                <n-link class="footer-link" to="/blog">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Blog
-                                                </a>
+                                                </n-link>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/kontakt">
+                                                <n-link class="footer-link" to="/kontakt">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Kontakt
-                                                </a>
+                                                </n-link>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/usluge">
+                                                <n-link class="footer-link" to="/usluge">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Usluge
-                                                </a>
+                                                </n-link>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/karijera">
+                                                <n-link class="footer-link" to="/karijera">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Karijera
-                                                </a>
+                                                </n-link>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/politika-privatnosti">
+                                                <n-link class="footer-link" to="/politika-privatnosti">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Politika privatnosti
-                                                </a>
+                                                </n-link>
                                             </li>
                                             <li>
-                                                <a class="footer-link" href="/uslovi-i-odredbe">
+                                                <n-link class="footer-link" to="/uslovi-i-odredbe">
                                                     <i class="icofont-rounded-double-right"></i>
                                                     Uslovi i odredbe
-                                                </a>
+                                                </n-link>
                                             </li>
                                         </ul>
                                     </div>

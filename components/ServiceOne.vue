@@ -18,11 +18,11 @@
                             <div class="roted-around danger">
                                 <span></span>
                             </div>
-                            <img src="/images/icon/marketing.png" alt="" />
+                            <img src="/images/icon/internet-marketing.png" alt="" />
                         </div>
                         <div class="service-content">
                             <h4 class="title">Internet marketing</h4>
-                            <p>Sve naše kampanje uvijek se završavaju na isti način - USPJEŠNO, to postižemo kroz individualnost i fokusiranost na kupca. Garantujemo postizanje postavljenih ciljeva, poput povećane prodaje ili većeg nivoa informisanosti.</p>
+                            <p>Sve naše kampanje uvijek se završavaju na isti način - USPJEŠNO, to postižemo kroz individualnost i fokusiranost na klijenta. Garantujemo postizanje postavljenih ciljeva, poput povećane prodaje ili većeg nivoa informisanosti.</p>
                             <n-link to="/digitalni-marketing" class="btn btn-outline-danger">Saznajte više</n-link>
                         </div>
                     </div>
@@ -35,7 +35,7 @@
                             <div class="roted-around warning">
                                 <span></span>
                             </div>
-                            <img src="/images/icon/analytics.png" alt="" />
+                            <img src="/images/icon/izrada-web-stranica.png" alt="" />
                         </div>
                         <div class="service-content">
                             <h4 class="title">Izrada web stranica</h4>
@@ -52,7 +52,7 @@
                             <div class="roted-around primary">
                                 <span></span>
                             </div>
-                            <img src="/images/icon/connect.png" alt="" />
+                            <img src="/images/icon/drustvene-mreze.png" alt="" />
                         </div>
                         <div class="service-content">
                             <h4 class="title">Društvene mreže</h4>
@@ -69,7 +69,7 @@
                             <div class="roted-around secondary">
                                 <span></span>
                             </div>
-                            <img src="/images/icon/document.png" alt="" />
+                            <img src="/images/icon/seo-optimizacija.png" alt="" />
                         </div>
                         <div class="service-content">
                             <h4 class="title">SEO optimizacija</h4>

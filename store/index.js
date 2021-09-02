@@ -27,7 +27,7 @@ export const mutations = {
 export const actions = {
     getArticles({ commit }) {
         axios
-            .get('http://localhost:1337/articles')
+            .get('http://localhost:1337/articles?_sort=published:DESC')
             .then(response => {
                 const ARTICLES = response.data
                 commit('SET_ARTICLES', ARTICLES)

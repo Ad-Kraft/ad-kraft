@@ -7,7 +7,8 @@ Vue.use(Vuex)
 export const state = () => ({
     articles: [],
     // article: [],
-    categories: []
+    categories: [],
+    tags: []
 })
   
 export const mutations = {
@@ -21,13 +22,17 @@ export const mutations = {
 
     SET_CATEGORIES(state, CATEGORIES) {
         state.categories = CATEGORIES
+    },
+
+    SET_TAGS(state, TAGS) {
+        state.tags = TAGS
     }
 }
 
 export const actions = {
     getArticles({ commit }) {
         axios
-            .get('http://localhost:1337/articles')
+            .get('http://localhost:1337/articles?_sort=published:DESC')
             .then(response => {
                 const ARTICLES = response.data
                 commit('SET_ARTICLES', ARTICLES)
@@ -60,6 +65,25 @@ export const actions = {
                 });
 
                 commit('SET_CATEGORIES', categoriesList)
+            })
+            .catch(error => console.log(error))
+    },
+
+    getTags({ commit }) {
+        axios
+            .get('http://localhost:1337/tags')
+            .then(response => {
+                const TAGS = response.data
+                let tagsList = []
+
+                TAGS.forEach(tag => {
+                    let tagName = tag.tag
+                    let tagCount = tag.articles.length
+                    let tagSlug = tag.slug
+                    tagsList.push({tagName, tagCount, tagSlug})
+                });
+
+                commit('SET_TAGS', tagsList)
             })
             .catch(error => console.log(error))
     }

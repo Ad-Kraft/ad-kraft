@@ -135,7 +135,7 @@
 
         head() {
             return {
-                title: 'Blog Details - Ad Kraft | Internet Marketing i Web Dizajn Agencija'
+                title: `${this.article.title} | Ad Kraft | Internet Marketing i Web Dizajn Agencija`
             }
         },
     };

@@ -55,11 +55,13 @@
                                         </div>
                                     </div>
                                 </div> -->
-                                <div class="col-md-4 mb-4">
-                                    <div class="service-dots service-dots2 text-center">
+                                <div class="col-md-12 mb-4">
+                                    <div class="service-dots service-dots2">
                                         <p>
-                                            <strong>Tags:</strong> marketing /
-                                            <span class="text-warning">company</span> / seo
+                                            <strong>Oznake:</strong>
+                                            <span v-for="(tag, index) in article.tags" :key="index">
+                                                <n-link class="ml-2 text-warning" :to="`/oznaka/${tag.slug}`">{{ tag.tag.split('-').join(' ')  }}</n-link>
+                                            </span>
                                         </p>
                                     </div>
                                 </div>
@@ -128,6 +130,7 @@
                     this.article = response.data[0]
                     this.author = response.data[0].author
                     this.url = response.data[0].featuredImage.url
+                    console.log(response.data[0])
                 })
                 .catch(error => console.log(error))
         },

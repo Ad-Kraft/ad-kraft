@@ -3,7 +3,9 @@
         <h3 class="title">Oznake</h3>
         <ul>
             <li v-for="(tag, index) in tags" :key="index"  class="tag-item">
-                <a class="tag-link" href="#">{{ tag.tagName }}</a>
+                <div v-if="tag.tagCount != 0">
+                    <n-link class="tag-link" :to="`/oznaka/${tag.tagSlug}`">{{ tag.tagName }}</n-link>
+                </div>
             </li>
         </ul>
     </div>

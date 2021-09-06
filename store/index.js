@@ -8,7 +8,8 @@ export const state = () => ({
     articles: [],
     categories: [],
     category: [],
-    tags: []
+    tags: [],
+    tag: []
 })
   
 export const mutations = {
@@ -26,6 +27,10 @@ export const mutations = {
 
     SET_TAGS(state, TAGS) {
         state.tags = TAGS
+    },
+
+    SET_TAG(state, TAG) {
+        state.tag = TAG
     }
 }
 
@@ -35,6 +40,7 @@ export const actions = {
             .get('http://localhost:1337/articles?_sort=published:DESC')
             .then(response => {
                 const ARTICLES = response.data
+                console.log(response.data)
                 commit('SET_ARTICLES', ARTICLES)
             })
             .catch(error => console.log(error))
@@ -65,12 +71,18 @@ export const actions = {
             .then(response => {
                 const CATEGORY = response.data[0].articles
 
-                CATEGORY.forEach(cat => {
-                    console.log(cat)
-                })
-                // console.log(response.data[0].articles)
-
                 commit('SET_CATEGORY', CATEGORY)
+            })
+            .catch(error => console.log(error))
+    },
+
+    getTag({ commit }, slug) {
+        axios
+            .get(`http://localhost:1337/tags?slug=${slug}`)
+            .then(response => {
+                const TAG = response.data[0].articles
+
+                commit('SET_TAG', TAG)
             })
             .catch(error => console.log(error))
     },

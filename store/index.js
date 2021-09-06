@@ -6,8 +6,8 @@ Vue.use(Vuex)
 
 export const state = () => ({
     articles: [],
-    // article: [],
     categories: [],
+    category: [],
     tags: []
 })
   
@@ -16,12 +16,12 @@ export const mutations = {
         state.articles = ARTICLES
     },
 
-    // SET_ARTICLE(state, ARTICLE) {
-    //     state.article = ARTICLE
-    // },
-
     SET_CATEGORIES(state, CATEGORIES) {
         state.categories = CATEGORIES
+    },
+
+    SET_CATEGORY(state, CATEGORY) {
+        state.category = CATEGORY
     },
 
     SET_TAGS(state, TAGS) {
@@ -40,16 +40,6 @@ export const actions = {
             .catch(error => console.log(error))
     },
 
-    // getArticle({ commit }, slug) {
-    //     axios
-    //         .get(`http://localhost:1337/articles?slug=${slug}`)
-    //         .then(response => {
-    //             const ARTICLE = response.data
-    //             commit('SET_ARTICLE', ARTICLE)
-    //         })
-    //         .catch(error => console.log(error))
-    // },
-
     getCategories({ commit }) {
         axios
             .get('http://localhost:1337/categories')
@@ -65,6 +55,22 @@ export const actions = {
                 });
 
                 commit('SET_CATEGORIES', categoriesList)
+            })
+            .catch(error => console.log(error))
+    },
+
+    getCategory({ commit }, slug) {
+        axios
+            .get(`http://localhost:1337/categories?slug=${slug}`)
+            .then(response => {
+                const CATEGORY = response.data[0].articles
+
+                CATEGORY.forEach(cat => {
+                    console.log(cat)
+                })
+                // console.log(response.data[0].articles)
+
+                commit('SET_CATEGORY', CATEGORY)
             })
             .catch(error => console.log(error))
     },

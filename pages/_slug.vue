@@ -125,7 +125,6 @@
             axios
                 .get(`http://localhost:1337/articles?slug=${this.$route.params.slug}`)
                 .then(response => {
-                    console.log(response.data[0])
                     this.article = response.data[0]
                     this.author = response.data[0].author
                     this.url = response.data[0].featuredImage.url

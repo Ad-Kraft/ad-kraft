@@ -5,14 +5,14 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Kategorije" active-title="Kategorije" />
+        <Breadcrumb :title="category.category" :active-title="category.category" />
 
         <section class="section-pt-150 section-pb-150">
             <div class="container">
                 <div class="row mtn-35">
                     <div class="col-lg-8 mt-35">
                         <div class="row mtn-35">
-                            <div class="col-12 col-md-6 mt-35" v-for="(categoryPosts, index) in category" :key="index">
+                            <div class="col-12 col-md-6 mt-35" v-for="(categoryPosts, index) in category.articles" :key="index">
                                 <div class="blog-grid-card">
                                     <n-link :to="`/${categoryPosts.slug}`" class="blog-grid-thumb">
                                         <img :src="`http://localhost:1337${categoryPosts.featuredImage.url}`" :alt="categoryPosts.title" />

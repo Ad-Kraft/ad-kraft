@@ -35,6 +35,9 @@
                     <n-link to="/blog">Blog</n-link>
                 </li>
                 <li>
+                    <n-link to="/reference">Reference</n-link>
+                </li>
+                <li>
                     <n-link to="/kontakt">Kontakt</n-link>
                 </li>
             </ul>

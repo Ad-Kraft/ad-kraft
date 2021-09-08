@@ -6,8 +6,10 @@ Vue.use(Vuex)
 
 export const state = () => ({
     articles: [],
+    caseStudies: [],
     categories: [],
     category: [],
+    caseCategory: [],
     tags: [],
     tag: []
 })
@@ -17,12 +19,20 @@ export const mutations = {
         state.articles = ARTICLES
     },
 
+    SET_CASESTUDIES(state, CASESTUDIES) {
+        state.caseStudies = CASESTUDIES
+    },
+
     SET_CATEGORIES(state, CATEGORIES) {
         state.categories = CATEGORIES
     },
 
     SET_CATEGORY(state, CATEGORY) {
         state.category = CATEGORY
+    },
+
+    SET_CASECATEGORY(state, CASECATEGORY) {
+        state.caseCategory = CASECATEGORY
     },
 
     SET_TAGS(state, TAGS) {
@@ -40,8 +50,17 @@ export const actions = {
             .get('http://localhost:1337/articles?_sort=published:DESC')
             .then(response => {
                 const ARTICLES = response.data
-                console.log(response.data)
                 commit('SET_ARTICLES', ARTICLES)
+            })
+            .catch(error => console.log(error))
+    },
+
+    getCaseStudies({ commit }) {
+        axios
+            .get('http://localhost:1337/case-studies?_sort=published:DESC')
+            .then(response => {
+                const CASESTUDIES = response.data
+                commit('SET_CASESTUDIES', CASESTUDIES)
             })
             .catch(error => console.log(error))
     },
@@ -69,9 +88,22 @@ export const actions = {
         axios
             .get(`http://localhost:1337/categories?slug=${slug}`)
             .then(response => {
-                const CATEGORY = response.data[0].articles
+                const CATEGORY = response.data[0]
+
+                console.log(response.data[0])
 
                 commit('SET_CATEGORY', CATEGORY)
+            })
+            .catch(error => console.log(error))
+    },
+
+    getCaseCategory({ commit }, slug) {
+        axios
+            .get(`http://localhost:1337/case-studies-categories?slug=${slug}`)
+            .then(response => {
+                const CASECATEGORY = response.data[0]
+
+                commit('SET_CASECATEGORY', CASECATEGORY)
             })
             .catch(error => console.log(error))
     },

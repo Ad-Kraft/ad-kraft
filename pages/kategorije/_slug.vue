@@ -5,32 +5,32 @@
 
         <OffCanvasMobileMenu />
 
-        <Breadcrumb title="Blog" active-title="Blog" />
+        <Breadcrumb :title="category.category" :active-title="category.category" />
 
         <section class="section-pt-150 section-pb-150">
             <div class="container">
                 <div class="row mtn-35">
                     <div class="col-lg-8 mt-35">
                         <div class="row mtn-35">
-                            <div class="col-12 col-md-6 mt-35" v-for="(article, index) in articles" :key="index">
+                            <div class="col-12 col-md-6 mt-35" v-for="(categoryPosts, index) in category.articles" :key="index">
                                 <div class="blog-grid-card">
-                                    <n-link :to="`/${article.slug}`" class="blog-grid-thumb">
-                                        <img :src="`http://localhost:1337${article.featuredImage.url}`" :alt="article.title" />
+                                    <n-link :to="`/${categoryPosts.slug}`" class="blog-grid-thumb">
+                                        <img :src="`http://localhost:1337${categoryPosts.featuredImage.url}`" :alt="categoryPosts.title" />
                                     </n-link>
                                     <div class="blog-grid-content">
                                         <ul>
                                             <li class="date">
                                                 <i class="icofont-ui-calendar"></i>
-                                                {{ article.published }}
+                                                {{ categoryPosts.published }}
                                             </li>
                                         </ul>
                                         <h5 class="title mb-3">
-                                            <n-link :to="`/${article.slug}`">{{ article.title }}</n-link>
+                                            <n-link :to="`/${categoryPosts.slug}`">{{ categoryPosts.title }}</n-link>
                                         </h5>
                                         <p class="mb-4">
-                                            {{ article.excerpt }}
+                                            {{ categoryPosts.excerpt }}
                                         </p>
-                                        <n-link :to="`/${article.slug}`" class="btn btn-warning">Nastavite čitati</n-link>
+                                        <n-link :to="`/${categoryPosts.slug}`" class="btn btn-warning">Nastavite čitati</n-link>
                                     </div>
                                 </div>
                             </div>
@@ -59,7 +59,7 @@
 
 <script>
     import { mapState } from 'vuex'
-
+    
     export default {
         props: ["orderClass"],
 
@@ -76,25 +76,24 @@
             WidgetTagCard: () => import('@/components/WidgetTagCard'),
         },
 
-        head() {
+        data() {
             return {
-                title: 'Blog - Ad Kraft | Internet Marketing i Web Dizajn Agencija',
-                meta: [{ 
-                    hid: 'description', 
-                    name: 'description', 
-                    content: 'Blog Pratite zanimljivosti iz digitalnog marketinga koje pišemo na našem blogu. Saznajte vise o intenrnet marketingu, izradi web stranica i mnogo vise.' 
-                }]
+
             }
         },
 
         mounted() {
-            this.$store.dispatch('getArticles');
+            this.$store.dispatch('getCategory', this.$route.params.slug)
         },
 
         computed: {
-            ...mapState([
-                'articles'
-            ])
+            ...mapState(['category'])
+        },
+
+        head() {
+            return {
+                title: ` | Kategorije | Ad Kraft | Internet Marketing i Web Dizajn Agencija`
+            }
         }
     };
 </script>

@@ -32,5 +32,8 @@
         <li>
             <n-link to="/blog">Blog</n-link>
         </li>
+         <li>
+            <n-link to="/reference">Reference</n-link>
+        </li>
     </ul>
 </template>

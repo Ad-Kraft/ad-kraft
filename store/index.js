@@ -6,9 +6,12 @@ Vue.use(Vuex)
 
 export const state = () => ({
     articles: [],
-    // article: [],
+    caseStudies: [],
     categories: [],
-    tags: []
+    category: [],
+    caseCategory: [],
+    tags: [],
+    tag: []
 })
   
 export const mutations = {
@@ -16,16 +19,28 @@ export const mutations = {
         state.articles = ARTICLES
     },
 
-    // SET_ARTICLE(state, ARTICLE) {
-    //     state.article = ARTICLE
-    // },
+    SET_CASESTUDIES(state, CASESTUDIES) {
+        state.caseStudies = CASESTUDIES
+    },
 
     SET_CATEGORIES(state, CATEGORIES) {
         state.categories = CATEGORIES
     },
 
+    SET_CATEGORY(state, CATEGORY) {
+        state.category = CATEGORY
+    },
+
+    SET_CASECATEGORY(state, CASECATEGORY) {
+        state.caseCategory = CASECATEGORY
+    },
+
     SET_TAGS(state, TAGS) {
         state.tags = TAGS
+    },
+
+    SET_TAG(state, TAG) {
+        state.tag = TAG
     }
 }
 
@@ -40,15 +55,15 @@ export const actions = {
             .catch(error => console.log(error))
     },
 
-    // getArticle({ commit }, slug) {
-    //     axios
-    //         .get(`http://localhost:1337/articles?slug=${slug}`)
-    //         .then(response => {
-    //             const ARTICLE = response.data
-    //             commit('SET_ARTICLE', ARTICLE)
-    //         })
-    //         .catch(error => console.log(error))
-    // },
+    getCaseStudies({ commit }) {
+        axios
+            .get('http://localhost:1337/case-studies?_sort=published:DESC')
+            .then(response => {
+                const CASESTUDIES = response.data
+                commit('SET_CASESTUDIES', CASESTUDIES)
+            })
+            .catch(error => console.log(error))
+    },
 
     getCategories({ commit }) {
         axios
@@ -65,6 +80,41 @@ export const actions = {
                 });
 
                 commit('SET_CATEGORIES', categoriesList)
+            })
+            .catch(error => console.log(error))
+    },
+
+    getCategory({ commit }, slug) {
+        axios
+            .get(`http://localhost:1337/categories?slug=${slug}`)
+            .then(response => {
+                const CATEGORY = response.data[0]
+
+                console.log(response.data[0])
+
+                commit('SET_CATEGORY', CATEGORY)
+            })
+            .catch(error => console.log(error))
+    },
+
+    getCaseCategory({ commit }, slug) {
+        axios
+            .get(`http://localhost:1337/case-studies-categories?slug=${slug}`)
+            .then(response => {
+                const CASECATEGORY = response.data[0]
+
+                commit('SET_CASECATEGORY', CASECATEGORY)
+            })
+            .catch(error => console.log(error))
+    },
+
+    getTag({ commit }, slug) {
+        axios
+            .get(`http://localhost:1337/tags?slug=${slug}`)
+            .then(response => {
+                const TAG = response.data[0].articles
+
+                commit('SET_TAG', TAG)
             })
             .catch(error => console.log(error))
     },

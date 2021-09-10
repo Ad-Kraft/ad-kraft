@@ -136,6 +136,9 @@
         @include max-screen(575) {
             margin-bottom: 30px;
         }
+        @include min-screen(576) {
+            max-width: 200px;
+        }
     }
     .content {
         flex: 1;

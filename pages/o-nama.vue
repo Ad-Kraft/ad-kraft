@@ -44,6 +44,8 @@
 
         <TeamSection />
 
+        <TimelineOne />
+
         <TestimonialOne />
 
         <Footer />

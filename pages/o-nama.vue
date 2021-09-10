@@ -16,7 +16,7 @@
               data-aos="zoom-in"
               data-aos-delay="100"
             >
-              <img src="/images/about/1.png" alt="images-not_found" />
+              <img src="/images/about/ad-kraft-digitalna-marketing-agencija-o-nama.png" alt="images-not_found" />
             </div>
           </div>
           <div class="col-lg-6">
@@ -65,7 +65,7 @@
 
     <TeamSection />
 
-    <TimelineOne />
+    <Timeline />
 
     <TestimonialOne />
 
@@ -86,6 +86,7 @@ export default {
     TestimonialOne: () => import("@/components/TestimonialOne"),
     Footer: () => import("@/components/Footer"),
     ScrollTop: () => import("@/components/ScrollTop"),
+    Timeline: () => import("@/components/Timeline"),
   },
 
   head() {

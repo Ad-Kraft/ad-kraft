@@ -22,16 +22,6 @@
                   <div class="thumb">
                     <n-link :to="`/reference/${caseStudy.slug}`">
                       <img
-                        class="case-shap case-shape1"
-                        src="/images/case/shape1.png"
-                        alt="shape image"
-                      />
-                      <img
-                        class="case-shape case-shape2"
-                        src="/images/case/shape2.png"
-                        alt="shape image"
-                      />
-                      <img
                         class="case-image"
                         :src="`http://localhost:1337${caseStudy.thumbnailImage.url}`"
                         :alt="caseStudy.title"

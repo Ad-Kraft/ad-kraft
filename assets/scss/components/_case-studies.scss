@@ -25,10 +25,9 @@
 }
 .case-card {
     .thumb {
+        height: 420px;
         position: relative;
         overflow: hidden;
-        border-radius: 25px;
-        background-color: rgb(247, 250, 255);
         margin-bottom: 40px;
         .case-shape1 {
             transition: all 0.3s;

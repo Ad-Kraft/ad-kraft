@@ -1,65 +1,73 @@
 <template>
-    <div class="main-container">
+  <div class="main-container">
+    <Header />
 
-        <Header />
+    <OffCanvasMobileMenu />
 
-        <OffCanvasMobileMenu />
+    <Breadcrumb title="Reference" active-title="Reference" />
 
-        <Breadcrumb title="Reference" active-title="Reference" />
-
-        <div class="case-studies-section">
-        <div class="container mt-5">
-            <div class="row">     
-                <div class="col--md-4 mb-5" v-for="(caseStudy, index) in caseStudies" :key="index">
-                    <div class="case-card">
-                        <div class="thumb">
-                            <n-link :to="`/reference/${caseStudy.slug}`">
-                                <img class="case-shap case-shape1" :src="`http://localhost:1337${caseStudy.thumbnailImage.url}`" alt="" />
-                            </n-link>
-                        </div>
-                        <div class="case-content">
-                            <h3 class="title">
-                                <n-link :to="`/reference/${caseStudy.slug}`">{{ caseStudy.title }}</n-link>
-                            </h3>
-                            <p v-for="(cat, index) in caseStudy.case_studies_categories" :key="index">
-                                <n-link :to="`/reference/kategorija/${cat.slug}`">{{ cat.title }}</n-link>
-                            </p>
-                        </div>
-                    </div>
-                </div>
+    <div class="case-studies-section">
+      <div class="container mt-5">
+        <div class="row">
+          <div
+            class="col--md-4 mb-5"
+            v-for="(caseStudy, index) in caseStudies"
+            :key="index"
+          >
+            <div class="case-card">
+              <div class="thumb">
+                <n-link :to="`/reference/${caseStudy.slug}`">
+                  <img
+                    class="case-shap case-shape1"
+                    :src="`http://localhost:1337${caseStudy.thumbnailImage.url}`"
+                    alt=""
+                  />
+                </n-link>
+              </div>
+              <div class="case-content">
+                <h3 class="title">
+                  <n-link :to="`/reference/${caseStudy.slug}`">{{
+                    caseStudy.title
+                  }}</n-link>
+                </h3>
+                <p
+                  v-for="(cat, index) in caseStudy.case_studies_categories"
+                  :key="index"
+                >
+                  <n-link :to="`/reference/kategorija/${cat.slug}`">{{
+                    cat.title
+                  }}</n-link>
+                </p>
+              </div>
             </div>
+          </div>
         </div>
+      </div>
     </div>
 
-        <Footer />
+    <Footer />
 
-        <ScrollTop />
-
-    </div>
+    <ScrollTop />
+  </div>
 </template>
 
 <script>
-    import { mapState } from 'vuex'
+import { mapState } from "vuex";
 
-    export default {
+export default {
+  mounted() {
+    this.$store.dispatch("getCaseStudies");
+  },
 
-        mounted() {
-            this.$store.dispatch('getCaseStudies');
-        },
-
-        computed: {
-            ...mapState([
-                'caseStudies'
-            ])
-        }
-    };
+  computed: {
+    ...mapState(["caseStudies"]),
+  },
+};
 </script>
 
 <style lang="scss" scoped>
-
 .case-content {
-    opacity: 1;
-    visibility: visible;
+  opacity: 1;
+  visibility: visible;
 }
-
 </style>

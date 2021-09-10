@@ -1,44 +1,42 @@
 <template>
-    <div class="main-container">
+  <div class="main-container">
+    <Header />
 
-        <Header />
+    <OffCanvasMobileMenu />
 
-        <OffCanvasMobileMenu />
+    <Breadcrumb title="Digital Marketing" active-title="Case Details" />
 
-        <Breadcrumb title="Digital Marketing" active-title="Case Details" />
+    <CaseDetailsCarousel />
 
-        <CaseDetailsCarousel />
+    <CaseDetailsContent />
 
-        <CaseDetailsContent />
+    <CaseDetailsNavigation />
 
-        <CaseDetailsNavigation />
+    <Footer />
 
-        <Footer />
-
-        <ScrollTop />
-
-    </div>
+    <ScrollTop />
+  </div>
 </template>
 
 <script>
-    export default {
-        components: {
-            Header: () => import('@/components/Header'),
-            OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
-            Breadcrumb: () => import('@/components/Breadcrumb'),
-            CaseDetailsCarousel: () => import('@/components/CaseDetailsCarousel'),
-            CaseDetailsContent: () => import('@/components/CaseDetailsContent'),
-            CaseDetailsNavigation: () => import('@/components/CaseDetailsNavigation'),
-            Footer: () => import('@/components/Footer'),
-            ScrollTop: () => import('@/components/ScrollTop'),
-        },
+export default {
+  components: {
+    Header: () => import("@/components/Header"),
+    OffCanvasMobileMenu: () => import("@/components/OffCanvasMobileMenu"),
+    Breadcrumb: () => import("@/components/Breadcrumb"),
+    CaseDetailsCarousel: () => import("@/components/CaseDetailsCarousel"),
+    CaseDetailsContent: () => import("@/components/CaseDetailsContent"),
+    CaseDetailsNavigation: () => import("@/components/CaseDetailsNavigation"),
+    Footer: () => import("@/components/Footer"),
+    ScrollTop: () => import("@/components/ScrollTop"),
+  },
 
-        head() {
-            return {
-                title: 'Case Details'
-            }
-        },
+  head() {
+    return {
+      title: "Case Details",
     };
+  },
+};
 </script>
 
 

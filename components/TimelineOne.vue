@@ -3,8 +3,10 @@
     <div class="timeline-warp">
       <div class="timeline-three">
         <div class="container">
-            <h2 class="text-dark text-center mb-3">Naš put ka uspjehu</h2>
-            <h5 class="text-dark text-center">Značajna dostignuća naše agencije za digitalni marketing.</h5>
+          <h2 class="text-dark text-center mb-3">Naš put ka uspjehu</h2>
+          <h5 class="text-dark text-center">
+            Značajna dostignuća naše agencije za digitalni marketing.
+          </h5>
           <div class="row">
             <div class="col-md-12">
               <div class="roadmap-outer">
@@ -23,9 +25,7 @@
                   </div>
                   <div class="roadmap-content">
                     <h3>Google partner</h3>
-                    <p>
-                      Postali smo Google Partner 17.10.2018. godine.
-                    </p>
+                    <p>Postali smo Google Partner 17.10.2018. godine.</p>
                   </div>
                 </div>
                 <div class="roadmap">
@@ -33,9 +33,12 @@
                   <div class="roadmap-content">
                     <h3>Prvi rođendan</h3>
                     <p class="mb-3">
-                       Prvi rođendan proslavili smo 13.11.2018. godine.
+                      Prvi rođendan proslavili smo 13.11.2018. godine.
                     </p>
-                    <img src="/images/about/ad-kraft-prvi-rodjendan-1.jpg" alt="">
+                    <img
+                      src="/images/about/ad-kraft-prvi-rodjendan-1.jpg"
+                      alt=""
+                    />
                   </div>
                 </div>
                 <div class="roadmap">
@@ -47,7 +50,10 @@
                     <p class="mb-3">
                       Drugi rođendan je proslavljen 13.11.2019. godine.
                     </p>
-                     <img src="/images/about/ad-kraft-drugi-rodjendan-1.jpg" alt="">
+                    <img
+                      src="/images/about/ad-kraft-drugi-rodjendan-1.jpg"
+                      alt=""
+                    />
                   </div>
                 </div>
               </div>

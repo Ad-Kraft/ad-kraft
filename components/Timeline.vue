@@ -12,9 +12,7 @@
                   </div>
                   <div class="roadmap-content">
                     <h3>Novembar</h3>
-                    <p >
-                      Ad Kraft je registrovan 13.11.2017. godine.
-                    </p>
+                    <p>Ad Kraft je registrovan 13.11.2017. godine.</p>
                   </div>
                 </div>
                 <div class="roadmap roadmap-2">
@@ -23,19 +21,18 @@
                   </div>
                   <div class="roadmap-content">
                     <h3>Oktobar</h3>
-                    <p>
-                     Postao je Google Partner 17.10.2018. godine.
-                    </p>
+                    <p>Postao je Google Partner 17.10.2018. godine.</p>
                   </div>
                 </div>
                 <div class="roadmap roadmap-3">
                   <div class="roadmap-icon"><span class="year">2018</span></div>
                   <div class="roadmap-content">
                     <h3>Novembar</h3>
-                    <p>
-                      Prvi rođendan proslavili smo 13.11.2018. godine.
-                    </p>
-                    <img src="/images/about/ad-kraft-prvi-rodjendan-1.jpg" alt="">
+                    <p>Prvi rođendan proslavili smo 13.11.2018. godine.</p>
+                    <img
+                      src="/images/about/ad-kraft-prvi-rodjendan-1.jpg"
+                      alt=""
+                    />
                   </div>
                 </div>
                 <div class="roadmap roadmap-4">
@@ -44,10 +41,11 @@
                   </div>
                   <div class="roadmap-content">
                     <h3>Novembar</h3>
-                    <p>
-                      Drugi rođendan je proslavljen 13.11.2019. godine.
-                    </p>
-                    <img src="/images/about/ad-kraft-drugi-rodjendan-1.jpg" alt="">
+                    <p>Drugi rođendan je proslavljen 13.11.2019. godine.</p>
+                    <img
+                      src="/images/about/ad-kraft-drugi-rodjendan-1.jpg"
+                      alt=""
+                    />
                   </div>
                 </div>
               </div>
@@ -60,7 +58,6 @@
 </template>
 
 <style scoped>
-
 .timeline-bg {
   background: #f7f7f7;
 }
@@ -312,20 +309,19 @@
 }
 
 @media (min-width: 756px) {
-    .roadmap-outer .roadmap-2 {
-        margin-top: -20px;
-        margin-right: -3px;
-    }
+  .roadmap-outer .roadmap-2 {
+    margin-top: -20px;
+    margin-right: -3px;
+  }
 
-     .roadmap-outer .roadmap-3 {
-        margin-top: -155px;
-        margin-left: -3px;
-    }
+  .roadmap-outer .roadmap-3 {
+    margin-top: -155px;
+    margin-left: -3px;
+  }
 
-     .roadmap-outer .roadmap-4 {
-        margin-top: -291px;
-        margin-right: -6px;
-    }
-  
+  .roadmap-outer .roadmap-4 {
+    margin-top: -291px;
+    margin-right: -6px;
+  }
 }
 </style>

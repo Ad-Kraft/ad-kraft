@@ -54,11 +54,11 @@
               :key="index"
             >
               <div class="thumb">
-                  <n-link :to="`/${article.slug}`">
-                    <img
+                <n-link :to="`/${article.slug}`">
+                  <img
                     :src="`http://localhost:1337${article.featuredImage.url}`"
                     :alt="article.title"
-                    />
+                  />
                 </n-link>
               </div>
               <div class="content">
@@ -101,7 +101,5 @@ export default {
 <style lang="scss" scoped>
 .blog-meta-img {
   width: 200px !important;
-  
 }
-
 </style>

@@ -30,30 +30,31 @@
           <div class="hero-img">
             <img
               class="animate-one"
-              src="/images/hero/1.png"
+              src="/images/hero/ad-kraft-digitalna-marketing-agencija.png"
               alt="404"
               data-aos="zoom-in"
               data-aos-delay="100"
             />
-            <div class="position-absolute animate-two">
+            <!-- <div class="position-absolute animate-two">
               <img
                 data-aos="fade-up"
                 data-aos-delay="600"
                 src="/images/hero/2.png"
                 alt="404"
               />
-            </div>
+            </div> -->
             <div class="position-absolute animate-three">
               <img
                 data-aos="fade-down"
                 data-aos-delay="400"
                 src="/images/hero/3.png"
                 alt="404"
+                width="250px"
               />
             </div>
           </div>
           <div class="hero-img-mobile">
-            <img src="/images/hero/mobile.png" alt="images-not_found" />
+            <img src="/images/hero/ad-kraft-digitalna-marketing-agencija-mobile.png" alt="images-not_found" />
           </div>
         </div>
       </div>

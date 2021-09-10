@@ -5,7 +5,7 @@
       <div class="row mtn-30">
         <div class="col-xl-6 mt-30">
           <div class="faq-image" data-aos="zoom-in" data-aos-delay="100">
-            <img src="/images/faq/1.png" alt="images_not_found" />
+            <img src="/images/faq/ad-kraft-digitalna-marketing-agencija-faq.png" alt="images_not_found" />
           </div>
         </div>
         <div class="col-xl-6 mt-30">

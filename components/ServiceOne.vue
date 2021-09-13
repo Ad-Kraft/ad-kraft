@@ -25,7 +25,7 @@
               <img src="/images/icon/internet-marketing.png" alt="" />
             </div>
             <div class="service-content">
-              <h4 class="title">Internet marketing</h4>
+              <h4 class="title">Digitalni marketing</h4>
               <p>
                 Sve naše kampanje uvijek se završavaju na isti način - USPJEŠNO,
                 to postižemo kroz individualnost i fokusiranost na klijenta.

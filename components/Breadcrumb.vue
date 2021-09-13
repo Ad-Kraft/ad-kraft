@@ -2,12 +2,7 @@
   <section class="bread-crumb-section bg-cover">
     <img
       class="shape shape1"
-      src="/images/bread/1.png"
-      alt="images_not_found"
-    />
-    <img
-      class="shape shape2"
-      src="/images/bread/2.png"
+      src="/images/bread/ad-kraft-digitalna-marketing-agencija-subheader-img.png"
       alt="images_not_found"
     />
     <div class="container">

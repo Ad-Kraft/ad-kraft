@@ -83,8 +83,6 @@ export default {
     OffCanvasMobileMenu: () => import("@/components/OffCanvasMobileMenu"),
     Breadcrumb: () => import("@/components/Breadcrumb"),
     CaseDetailsCarousel: () => import("@/components/CaseDetailsCarousel"),
-    CaseDetailsContent: () => import("@/components/CaseDetailsContent"),
-    CaseDetailsNavigation: () => import("@/components/CaseDetailsNavigation"),
     Footer: () => import("@/components/Footer"),
     ScrollTop: () => import("@/components/ScrollTop"),
   },

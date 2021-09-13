@@ -33,7 +33,7 @@
       <n-link to="/blog">Blog</n-link>
     </li>
     <li>
-      <n-link to="/reference">Reference</n-link>
+      <n-link to="/projekti">Projekti</n-link>
     </li>
   </ul>
 </template>

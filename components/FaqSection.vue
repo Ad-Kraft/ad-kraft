@@ -12,7 +12,7 @@
           <div class="faq-content">
             <div class="section-title primary">
               <h5 class="sub-title">// FAQ.</h5>
-              <h3 class="title">Frequently Asked Questions.</h3>
+              <h3 class="title">Često postavljana pitanja.</h3>
               <span class="hr-primary mt-4"></span>
             </div>
 

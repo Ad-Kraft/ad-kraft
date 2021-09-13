@@ -4,7 +4,7 @@
 
     <OffCanvasMobileMenu />
 
-    <Breadcrumb title="Reference" active-title="Reference" />
+    <Breadcrumb title="Projekti" active-title="Projekti" />
 
     <div class="case-studies-section">
       <div class="container mt-5">
@@ -16,7 +16,7 @@
           >
             <div class="case-card">
               <div class="thumb">
-                <n-link :to="`/reference/${caseStudy.slug}`">
+                <n-link :to="`/projekti/${caseStudy.slug}`">
                   <img
                     class="case-shap case-shape1"
                     :src="`http://localhost:1337${caseStudy.thumbnailImage.url}`"
@@ -26,7 +26,7 @@
               </div>
               <div class="case-content">
                 <h3 class="title">
-                  <n-link :to="`/reference/${caseStudy.slug}`">{{
+                  <n-link :to="`/projekti/${caseStudy.slug}`">{{
                     caseStudy.title
                   }}</n-link>
                 </h3>
@@ -34,7 +34,7 @@
                   v-for="(cat, index) in caseStudy.case_studies_categories"
                   :key="index"
                 >
-                  <n-link :to="`/reference/kategorija/${cat.slug}`">{{
+                  <n-link :to="`/projekti/kategorija/${cat.slug}`">{{
                     cat.title
                   }}</n-link>
                 </p>

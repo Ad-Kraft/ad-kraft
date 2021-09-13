@@ -20,7 +20,7 @@
               >
                 <div class="case-card">
                   <div class="thumb">
-                    <n-link :to="`/reference/${caseStudy.slug}`">
+                    <n-link :to="`/projekti/${caseStudy.slug}`">
                       <img
                         class="case-image"
                         :src="`http://localhost:1337${caseStudy.thumbnailImage.url}`"
@@ -30,7 +30,7 @@
                   </div>
                   <div class="case-content">
                     <h3 class="title">
-                      <n-link :to="`/reference/${caseStudy.slug}`">{{
+                      <n-link :to="`/projekti/${caseStudy.slug}`">{{
                         caseStudy.title
                       }}</n-link>
                     </h3>

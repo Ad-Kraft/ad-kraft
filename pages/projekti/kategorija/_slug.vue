@@ -13,13 +13,13 @@
                 <div class="col--md-4 mb-5" v-for="(caseCat, index) in caseCategory.case_studies" :key="index">
                     <div class="case-card">
                         <div class="thumb">
-                            <n-link :to="`/reference/${caseCat.slug}`">
+                            <n-link :to="`/projekti/${caseCat.slug}`">
                                 <img class="case-shap case-shape1" :src="`http://localhost:1337${caseCat.thumbnailImage.url}`" alt="" />
                             </n-link>
                         </div>
                         <div class="case-content">
                             <h3 class="title">
-                                <n-link :to="`/reference/${caseCat.slug}`">{{ caseCat.title }}</n-link>
+                                <n-link :to="`/projekti/${caseCat.slug}`">{{ caseCat.title }}</n-link>
                             </h3>
                         </div>
                     </div>

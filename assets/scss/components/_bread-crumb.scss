@@ -25,7 +25,7 @@
     }
     .title {
         color: $white;
-        font-weight: 700;
+        font-weight: 400;
         line-height: 1.545;
         font-size: 55px;
 
@@ -52,7 +52,7 @@
             -webkit-text-fill-color: transparent;
         }
     }
-    font-weight: 700;
+    font-weight: 400;
     font-size: 15px;
     & + .breadcrumb-item::before {
         padding-right: 0.5rem;

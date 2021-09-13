@@ -210,9 +210,9 @@
                       />
                     </div>
                     <div class="content">
-                      <h4 class="title">Digital Marketing</h4>
-                      <n-link to="/service-details" class="link"
-                        >Previous <i class="icofont-rounded-double-right"></i
+                      <h4 class="title">Izrada web stranica</h4>
+                      <n-link to="/izrada-web-stranica" class="link"
+                        >Prethodno <i class="icofont-rounded-double-left"></i
                       ></n-link>
                     </div>
                   </div>
@@ -228,9 +228,9 @@
                 <div class="col-sm-4 col-6">
                   <div class="service-next service-media">
                     <div class="content">
-                      <h4 class="title">Pay Per Click</h4>
-                      <n-link to="/service-details" class="link"
-                        >Next <i class="icofont-rounded-double-right"></i
+                      <h4 class="title">Društvene mreže</h4>
+                      <n-link to="/drustvene-mreze" class="link"
+                        >Sljedeće <i class="icofont-rounded-double-right"></i
                       ></n-link>
                     </div>
                     <div class="img">

@@ -326,3 +326,14 @@ export default {
 </script>
 
 
+<style scoped>
+
+ul {
+  margin: 20px;
+}
+
+ul li {
+  list-style-type: disc;
+}
+
+</style>

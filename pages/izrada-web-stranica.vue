@@ -400,28 +400,17 @@
               <div class="row align-items-center align-items-xl-start">
                 <div class="col-sm-4 col-6">
                   <div class="service-prev service-media">
-                    <div class="img">
-                      <img
-                        src="/images/service-details/sm-1.png"
-                        alt="images-not_found"
-                      />
-                    </div>
                     <div class="content">
                       <h4 class="title">Digitalni marketing</h4>
                       <n-link to="/digitalni-marketing" class="link"
-                        >Prethodno <i class="icofont-rounded-double-left"></i
-                      ></n-link>
+                        ><i class="icofont-rounded-double-left"></i
+                      > Prethodno</n-link>
                     </div>
                   </div>
                 </div>
-                <div class="col-sm-4 d-none d-sm-block">
-                  <div class="service-dots text-center">
-                    <img
-                      src="/images/service-details/dots.png"
-                      alt="images-not_found"
-                    />
-                  </div>
-                </div>
+
+                <div class="col-sm-4 d-none d-sm-block"></div>
+
                 <div class="col-sm-4 col-6">
                   <div class="service-next service-media">
                     <div class="content">
@@ -429,12 +418,6 @@
                       <n-link to="/graficki-dizajn" class="link"
                         >Sljedeće <i class="icofont-rounded-double-right"></i
                       ></n-link>
-                    </div>
-                    <div class="img">
-                      <img
-                        src="/images/service-details/sm-2.png"
-                        alt="images-not_found"
-                      />
                     </div>
                   </div>
                 </div>

@@ -10,7 +10,6 @@
       <div class="container">
         <div class="row mtn-35 mb-4">
           <div class="col-md-12 mt-35">
-            <div class="service-details">
               <h4 class="text-dark">I Opšti uslovi</h4>
               <ul>
                 <li>
@@ -37,8 +36,9 @@
                   izričito odobrila.
                 </li>
               </ul>
-            </div>
-            <div class="service-details">
+
+              <br>
+
               <h4 class="text-dark">II Zaključivanje Ugovora i informisanje</h4>
               <ul>
                 <li>Opšte ponude podložne su promjenama i neobavezujuće.</li>
@@ -65,8 +65,9 @@
                   strane potpisale Ugovor.
                 </li>
               </ul>
-            </div>
-            <div class="service-details">
+
+              <br>
+
               <h4 class="text-dark">III Usluge Agencije i rokovi</h4>
               <ul>
                 <li>
@@ -93,8 +94,9 @@
                   Agenciji za isporuku ugovorene usluge.
                 </li>
               </ul>
-            </div>
-            <div class="service-details">
+
+              <br>
+
               <h4 class="text-dark">
                 IV Obaveza saradnje i odgovornost Klijenta
               </h4>
@@ -128,8 +130,9 @@
                   prethodne konsultacije sa Agencijom.
                 </li>
               </ul>
-            </div>
-            <div class="service-details">
+
+              <br>
+
               <h4 class="text-dark">V Naknada</h4>
               <ul>
                 <li>
@@ -155,8 +158,9 @@
                   korisnikom izričito ne dogovori drugačije.
                 </li>
               </ul>
-            </div>
-            <div class="service-details">
+              
+              <br>
+
               <h4 class="text-dark">VI Slučajni, posebni i dodatni troškovi</h4>
               <ul>
                 <li>
@@ -171,7 +175,6 @@
                   troškove Klijent treba nadoknaditi Agenciji.
                 </li>
               </ul>
-            </div>
           </div>
         </div>
       </div>

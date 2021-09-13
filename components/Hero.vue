@@ -18,12 +18,6 @@
             <n-link class="btn btn-warning" to="/kontakt"
               >Zatraži ponudu</n-link
             >
-
-            <img
-              class="particle3"
-              src="/images/hero/particle3.png"
-              alt="particle2"
-            />
           </div>
         </div>
         <div class="col-lg-7 col-xl-6">

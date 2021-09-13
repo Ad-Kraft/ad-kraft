@@ -1,5 +1,6 @@
 .service-card {
     display: flex;
+    height: 100%;
     border-radius: 15px;
     background: #f7faff;
     position: relative;
@@ -104,7 +105,7 @@
     flex: 1;
     .title {
         color: $primary;
-        font-weight: 700;
+        font-weight: 400;
         line-height: 0.8;
         margin-bottom: 25px;
         font-size: 25px;

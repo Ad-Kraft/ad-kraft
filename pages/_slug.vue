@@ -159,7 +159,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-ul li {
-list-style-type: disc;
-}
+.service-details ul li  {
+    list-style-type: disc !important;
+  }
 </style>

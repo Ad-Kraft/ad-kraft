@@ -2,8 +2,8 @@
   <section class="hero-section">
     <img class="shape shape1" src="/images/hero/shape1.png" alt="404" />
     <img class="shape shape2" src="/images/hero/shape2.png" alt="404" />
-    <img class="shape particle1" src="/images/hero/particle1.png" alt="404" />
-    <img class="shape particle2" src="/images/hero/particle2.png" alt="404" />
+    <!-- <img class="shape particle1" src="/images/hero/particle1.png" alt="404" /> -->
+    <!-- <img class="shape particle2" src="/images/hero/part0icle2.png" alt="404" /> -->
     <div class="container">
       <div class="row">
         <div class="col-lg-5 col-xl-6">
@@ -37,7 +37,7 @@
                 alt="404"
               />
             </div> -->
-            <div class="position-absolute animate-three">
+            <!-- <div class="position-absolute animate-three">
               <img
                 data-aos="fade-down"
                 data-aos-delay="400"
@@ -45,7 +45,7 @@
                 alt="404"
                 width="250px"
               />
-            </div>
+            </div> -->
           </div>
           <div class="hero-img-mobile">
             <img src="/images/hero/ad-kraft-digitalna-marketing-agencija-mobile.png" alt="images-not_found" />

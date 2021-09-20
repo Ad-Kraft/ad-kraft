@@ -167,7 +167,7 @@
                 <div class="roted-around secondary">
                   <span></span>
                 </div>
-                <img src="/images/icon/seo-optimizacija.png" alt="" />
+                <img src="/images/icon/hosting.png" alt="" />
               </div>
               <div class="service-content">
                 <h4 class="title">Hosting</h4>

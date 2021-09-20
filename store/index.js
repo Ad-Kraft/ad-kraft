@@ -47,7 +47,7 @@ export const mutations = {
 export const actions = {
     getArticles({ commit }) {
         axios
-            .get('http://localhost:1337/articles?_sort=published:DESC')
+            .get(this.$config.myPublicVariable + '/articles?_sort=published:DESC')
             .then(response => {
                 const ARTICLES = response.data
                 commit('SET_ARTICLES', ARTICLES)
@@ -57,7 +57,7 @@ export const actions = {
 
     getCaseStudies({ commit }) {
         axios
-            .get('http://localhost:1337/case-studies?_sort=published:DESC')
+            .get(this.$config.myPublicVariable + '/case-studies?_sort=published:DESC')
             .then(response => {
                 const CASESTUDIES = response.data
                 commit('SET_CASESTUDIES', CASESTUDIES)
@@ -67,7 +67,7 @@ export const actions = {
 
     getCategories({ commit }) {
         axios
-            .get('http://localhost:1337/categories')
+            .get(this.$config.myPublicVariable + '/categories')
             .then(response => {
                 const CATEGORIES = response.data
                 let categoriesList = []
@@ -86,7 +86,7 @@ export const actions = {
 
     getCategory({ commit }, slug) {
         axios
-            .get(`http://localhost:1337/categories?slug=${slug}`)
+            .get(this.$config.myPublicVariable + `/categories?slug=${slug}`)
             .then(response => {
                 const CATEGORY = response.data[0]
 
@@ -99,7 +99,7 @@ export const actions = {
 
     getCaseCategory({ commit }, slug) {
         axios
-            .get(`http://localhost:1337/case-studies-categories?slug=${slug}`)
+            .get(this.$config.myPublicVariable + `/case-studies-categories?slug=${slug}`)
             .then(response => {
                 const CASECATEGORY = response.data[0]
 
@@ -110,7 +110,7 @@ export const actions = {
 
     getTag({ commit }, slug) {
         axios
-            .get(`http://localhost:1337/tags?slug=${slug}`)
+            .get(this.$config.myPublicVariable + `/tags?slug=${slug}`)
             .then(response => {
                 const TAG = response.data[0].articles
 
@@ -121,7 +121,7 @@ export const actions = {
 
     getTags({ commit }) {
         axios
-            .get('http://localhost:1337/tags')
+            .get(this.$config.myPublicVariable + '/tags')
             .then(response => {
                 const TAGS = response.data
                 let tagsList = []

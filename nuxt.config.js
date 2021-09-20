@@ -1,4 +1,8 @@
 export default {
+    publicRuntimeConfig: {
+        myPublicVariable: process.env.baseUrl
+    },
+
     generate: {
         fallback: true
     },

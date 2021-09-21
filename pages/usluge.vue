@@ -9,7 +9,7 @@
     <section class="service-section section-ptb-150">
       <div class="container">
         <div class="row mtn-30">
-          <!-- service-card satrt -->
+          <!-- service-card start -->
           <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
             <div class="service-card">
               <div class="service-icon">

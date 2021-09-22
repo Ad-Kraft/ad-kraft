@@ -69,14 +69,14 @@
                 <img src="/images/icon/drustvene-mreze.png" alt="" />
               </div>
               <div class="service-content">
-                <h4 class="title">Društvene mreže</h4>
+                <h4 class="title">Marketing na društvenim mrežama</h4>
                 <p>
                   Nikad ne znate koju društvenu mrežu Vaš klijent želi koristiti
                   za interakciju s Vama. Naš tim stručnjaka iz oblasti
                   društvenih medija brinuće za Vaše postojeće korisnike,
                   istovremeno privlačeći nove.
                 </p>
-                <n-link to="/drustvene-mreze" class="btn btn-outline-primary"
+                <n-link to="/marketing-na-drustvenim-mrezama" class="btn btn-outline-primary"
                   >Saznajte više</n-link
                 >
               </div>

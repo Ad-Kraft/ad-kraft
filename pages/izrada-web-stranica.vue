@@ -11,88 +11,112 @@
 
     <section class="service-details-section">
       <div class="container">
-        <div class="row mtn-35">
-          <div class="col-12 mt-35">
+        <div class="row">
+          <div class="col-12">
             <div class="service-details">
               <div class="service-details-list">
-                <h2 class="title">
-                  Izrada web stranica po najnovijim standardima
-                </h2>
-                <p>
-                  Web stranica ne bi trebala samo privući pažnju. Uloga web
-                  stranice je privlačenje i angažovanje korisnika, kao i
-                  predstavljanje Vašeg brenda i podizanje svijesti o proizvodu
-                  ili usluzi. Kupci Vam neće pružiti drugu priliku da napravite
-                  prvi utisak. U digitalnom svijetu prvi utisak je od vitalnog
-                  značaja, a izrada web stranica koje prati standarde koji će
-                  zadovoljiti kompatibilnost na različitim uređajima, standarde
-                  upotrebljivosti i korisničkog iskustva, ukratko rečeno
-                  kompletnu funkcionalnost web stranice, je ključ uspjeha.
-                  Korisnici uživaju u posjećivanju web stranica koje su estetski
-                  privlačne i jednostavne za navigaciju.
-                </p>
-                <p>
-                  Naš tim koji se sastoji od web programera, web dizajnera,
-                  UX/UI dizajnera, SEO stručnjaka i stručnjaka za digitalni
-                  marketing pomno će osmisliti vašu web stranicu i složiti
-                  sadržaj za najbolje korisničko iskustvo, a SEO stručnjaci
-                  dodatno će se pobrinuti da vaša web stranica bude spremna za
-                  Google-vu prvu stranicu. Kako smo svjesni da se možda prvi put
-                  susrećete sa procesom web dizajna i izrade web stranice i
-                  aplikacije pružamo Vam mogućnost da s Vama održimo besplatni
-                  projektni sastanak na kojem ćemo Vam dati sve upute o pripremi
-                  materijala (ili projektne dokumentacije) kao i potrebne upute
-                  oko dizajna.
-                </p>
-                <p>
-                  S našom agencijom Vaš posao će biti primijećen u digitalnom
-                  svijetu jer korištenjem genijalnih dizajnerskih rješenja Vašem
-                  brendu osiguravamo prepoznatljivost i uticaj. Nudimo različita
-                  prilagodljiva dizajnerska rješenja s fokusom na kreiranje web
-                  stranice koja će odgovarati Vašem brendu ujedno privlačeći
-                  veliki broj posjetilaca. Naš tim sarađuje s Vama dok ne
-                  napravimo savršen dizajn za Vaše potrebe. Vjerujemo da je uska
-                  saradnja temelj za izvanredne rezultate. Zbog toga sarađujemo
-                  na svakom koraku procesa koji vodi do izvrsnog poslovanja – od
-                  procjenjivanja Vaših potreba i želja do konkurentne analize.
-                </p>
-                <p>
-                  Svaki projekat ima svoje ciljeve, publiku i mogućnosti. Naš
-                  pristup velikim projektima započinje vremenski testiranim
-                  procesom koji otkriva i rješava neočekivano. Za kreativan i
-                  funkcionalan web dizajn neophodna je detaljna analiza i
-                  sveobuhvatno istraživanje. Zbog toga naš tim na svakom koraku
-                  izrade web stranice sarađuje s Vama, osiguravajući da Vaša
-                  nova web stranica zaista predstavlja Vas i Vaše poslovanje
-                  istovremeno ostvarujući najvažnije ciljeve – kvalitetno
-                  korisničko iskustvo i konverziju. Naš rad započinje kreativnim
-                  i atraktivnim dizajnom koji najbolje predstavlja Vaš brend.
-                  Zatim proučavamo Vaše klijente kako bismo stvorili jedinstvene
-                  elemente i stil koji najbolje odgovara Vašem poslovanju ujedno
-                  privlačeći i zadržavajući Vaše klijente.
-                </p>
+                <div class="row mb-100">
+                  <h2 class="title">
+                    Izrada web stranica po najnovijim standardima
+                  </h2>
+                  <div class="col-md-6">
+                    <p>
+                      Web stranica ne bi trebala samo privući pažnju. Uloga web
+                      stranice je privlačenje i angažovanje korisnika, kao i
+                      predstavljanje Vašeg brenda i podizanje svijesti o
+                      proizvodu ili usluzi. Kupci Vam neće pružiti drugu priliku
+                      da napravite prvi utisak. U digitalnom svijetu prvi utisak
+                      je od vitalnog značaja, a izrada web stranica koje prati
+                      standarde koji će zadovoljiti kompatibilnost na različitim
+                      uređajima, standarde upotrebljivosti i korisničkog
+                      iskustva, ukratko rečeno kompletnu funkcionalnost web
+                      stranice, je ključ uspjeha. Korisnici uživaju u
+                      posjećivanju web stranica koje su estetski privlačne i
+                      jednostavne za navigaciju.
+                    </p>
+                    <p>
+                      Naš tim koji se sastoji od web programera, web dizajnera,
+                      UX/UI dizajnera, SEO stručnjaka i stručnjaka za digitalni
+                      marketing pomno će osmisliti vašu web stranicu i složiti
+                      sadržaj za najbolje korisničko iskustvo, a SEO stručnjaci
+                      dodatno će se pobrinuti da vaša web stranica bude spremna
+                      za Google-vu prvu stranicu. Kako smo svjesni da se možda
+                      prvi put susrećete sa procesom web dizajna i izrade web
+                      stranice i aplikacije pružamo Vam mogućnost da s Vama
+                      održimo besplatni projektni sastanak na kojem ćemo Vam
+                      dati sve upute o pripremi materijala (ili projektne
+                      dokumentacije) kao i potrebne upute oko dizajna.
+                    </p>
+                  </div>
+                  <div class="col-md-6">
+                    <img
+                      src="/images/izrada-web-stranica/ad-kraft-izrada-stranica.png"
+                      alt=""
+                    />
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6 order-2 order-md-1">
+                    <img
+                      src="/images/izrada-web-stranica/ad-kraft-izrada-stranica-2.png"
+                      alt=""
+                    />
+                  </div>
+                  <div class="col-md-6 order-1 order-md-2">
+                    <p>
+                      S našom agencijom Vaš posao će biti primijećen u
+                      digitalnom svijetu jer korištenjem genijalnih dizajnerskih
+                      rješenja Vašem brendu osiguravamo prepoznatljivost i
+                      uticaj. Nudimo različita prilagodljiva dizajnerska
+                      rješenja s fokusom na kreiranje web stranice koja će
+                      odgovarati Vašem brendu ujedno privlačeći veliki broj
+                      posjetilaca. Naš tim sarađuje s Vama dok ne napravimo
+                      savršen dizajn za Vaše potrebe. Vjerujemo da je uska
+                      saradnja temelj za izvanredne rezultate. Zbog toga
+                      sarađujemo na svakom koraku procesa koji vodi do izvrsnog
+                      poslovanja – od procjenjivanja Vaših potreba i želja do
+                      konkurentne analize.
+                    </p>
+                    <p>
+                      Svaki projekat ima svoje ciljeve, publiku i mogućnosti.
+                      Naš pristup velikim projektima započinje vremenski
+                      testiranim procesom koji otkriva i rješava neočekivano. Za
+                      kreativan i funkcionalan web dizajn neophodna je detaljna
+                      analiza i sveobuhvatno istraživanje. Zbog toga naš tim na
+                      svakom koraku izrade web stranice sarađuje s Vama,
+                      osiguravajući da Vaša nova web stranica zaista predstavlja
+                      Vas i Vaše poslovanje istovremeno ostvarujući najvažnije
+                      ciljeve – kvalitetno korisničko iskustvo i konverziju. Naš
+                      rad započinje kreativnim i atraktivnim dizajnom koji
+                      najbolje predstavlja Vaš brend. Zatim proučavamo Vaše
+                      klijente kako bismo stvorili jedinstvene elemente i stil
+                      koji najbolje odgovara Vašem poslovanju ujedno privlačeći
+                      i zadržavajući Vaše klijente.
+                    </p>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
         </div>
-        <div class="row mtn-30 mb-4">
+        <div class="row mt-100 mb-100 mb-4">
           <!-- service-card satrt -->
           <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
             <div class="service-card">
               <div class="service-content">
                 <h5 class="text-dark">Neki od naših zadataka</h5>
                 <ul class="mt-3">
-                  <li class="mb-2" style="list-style-type: circle">
+                  <li class="mb-2">
                     registracija domena (, *.com, *.net, *.org, *.biz, itd.) i
                     smještaj stranica – proces registracije obavljamo umjesto
                     Vas ako odlučite svoje stranice smjestiti na naš server
                   </li>
-                  <li class="mb-2" style="list-style-type: circle">
+                  <li class="mb-2">
                     idejna rješenja web stranica – nakon sastanka i dogovora
                     šaljemo Vam naš prijedlog rješenja web stranice (dizajn)
                     koji dorađujemo do konačne potvrde s Vaše strane
                   </li>
-                  <li class="mb-2" style="list-style-type: circle">
+                  <li class="mb-2">
                     Izrada web stranica – pri izradi pratimo trendove i vodimo
                     računa o pravilnom prikazu web stranica u svim preglednicima
                     i na svim uređajima
@@ -108,22 +132,22 @@
               <div class="service-content">
                 <h5 class="text-dark">Izrada web stranica ostale usluge</h5>
                 <ul class="mt-3">
-                  <li class="mb-2" style="list-style-type: circle">
+                  <li class="mb-2">
                     održavanje web stranica – promjene, dopune, sitne ispravke u
                     aplikacijama i sve što Vašu stranicu i aplikaciju održava
                     živom i savremenom
                   </li>
-                  <li class="mb-2" style="list-style-type: circle">
+                  <li class="mb-2">
                     uređivanje tekstova – ukoliko imate problem sa prilagodbom
                     tekstova za web i pretraživače, spremni smo napraviti
                     potrebne prilagodbe
                   </li>
-                  <li class="mb-2" style="list-style-type: circle">
+                  <li class="mb-2">
                     savjetovanje – pri izradi web stranica, servisa ili portala
                     često Vam je potrebna neka vrsta usmjerenja ili
                     savjetovanja, ponekad i vođenja kroz proces
                   </li>
-                  <li class="mb-2" style="list-style-type: circle">
+                  <li class="mb-2">
                     obrada fotografija – spremni smo obraditi Vaše fotografije
                     za upotrebu na web stranicama
                   </li>
@@ -135,8 +159,8 @@
 
         <div class="service-details">
           <div class="service-details-list">
-            <div class="row mtn-35">
-              <div class="col-lg-7 mt-35">
+            <div class="row mt-100 mb-100">
+              <div class="col-lg-6 mt-35">
                 <h2 class="title">Web programiranje</h2>
                 <p>
                   Imamo iskustva u svim aspektima web programiranja kako bismo
@@ -159,9 +183,9 @@
                   prikazivanje Vaših usluga.
                 </p>
               </div>
-              <div class="col-lg-5 mt-35">
+              <div class="col-lg-6 mt-35">
                 <img
-                  src="/images/service-details/1.png"
+                  src="/images/izrada-web-stranica/ad-kraft-3.png"
                   alt="images-not_found"
                 />
               </div>
@@ -171,72 +195,89 @@
 
         <div class="service-details mt-4">
           <div class="service-details-list">
-            <div class="row mtn-30">
-              <!-- service-card satrt -->
+            <div class="row mt-100 mb-100">
+              <!-- service-card start -->
               <div
-                class="col-md-4 mt-30"
+                class="col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
                 <div class="service-card">
-                  <div class="service-content">
-                    <h5 class="text-dark">CMS, WordPress, Drupal</h5>
-                    <p>
-                      Razvijamo sisteme za upravljanje sadržajem (CMS) kako
-                      bismo Vam omogućili samostalno održavanje i ažuriranje
-                      Vaše web stranice.
-                    </p>
+                  <div class="service-icon">
+                    <div class="roted-around primary">
+                      <span></span>
+                    </div>
+                    <a href="#" class="marketing-social-icons"
+                      ><img
+                        class="custom-icon"
+                        src="/images/izrada-web-stranica/coding.png"
+                        alt=""
+                      />
+                    </a>
                   </div>
-                </div>
-              </div>
-              <!-- service-card end -->
-              <!-- service-card satrt -->
-              <div
-                class="col-md-4 mt-30"
-                data-aos="fade-up"
-                data-aos-delay="500"
-              >
-                <div class="service-card">
                   <div class="service-content">
-                    <h5 class="text-dark">
+                    <h4 class="text-dark">Custom CMS</h4>
+                    <p>
                       Izrada web stranica u CMS (Sistemu za upravljanje
-                      saržajem)
-                    </h5>
-                    <p>
-                      Omogućava Vam da uređujete svoj web sajt bez obzira na
-                      Vaše tehnike vještine.
+                      saržajem) omogućava Vam da uređujete svoj web sajt bez
+                      obzira na Vaše tehnike i vještine.
                     </p>
                   </div>
                 </div>
               </div>
               <!-- service-card end -->
-              <!-- service-card satrt -->
+              <!-- service-card start -->
               <div
-                class="col-md-4 mt-30"
+                class="col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
                 <div class="service-card">
+                  <div class="service-icon">
+                    <div class="roted-around warning">
+                      <span></span>
+                    </div>
+                    <a href="#" class="marketing-social-icons"
+                      ><img
+                        class="custom-icon"
+                        src="/images/izrada-web-stranica/php.png"
+                        alt=""
+                      />
+                    </a>
+                  </div>
                   <div class="service-content">
-                    <h5 class="text-dark">Izrada web stranica u Wordpresu</h5>
+                    <h4 class="text-dark">WordPress</h4>
                     <p>
-                      je danas dosta popularna. Ono što wordpres čini popularnim
-                      su mogućnosti prilagođavanja pretraživačima, mogućnost
-                      korištenja više hiljada tema, elemenata,...
+                      Izrada web stranica u WordPress-u je danas dosta
+                      popularna. Ono što WordPress čini popularnim su mogućnosti
+                      prilagođavanja pretraživačima, mogućnost korištenja više
+                      hiljada tema, elemenata i sl.
                     </p>
                   </div>
                 </div>
               </div>
               <!-- service-card end -->
-              <!-- service-card satrt -->
+              <!-- service-card start -->
               <div
-                class="col-md-4 mt-30"
+                class="col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
                 <div class="service-card">
+                  <div class="service-icon">
+                    <div class="roted-around danger">
+                      <span></span>
+                    </div>
+                    <a href="#" class="marketing-social-icons"
+                      ><img
+                        class="custom-icon"
+                        src="/images/izrada-web-stranica/web-shop.png"
+                        alt=""
+                      />
+                    </a>
+                  </div>
                   <div class="service-content">
-                    <h5 class="text-dark">E-commerce rješenja</h5>
+                    <h4 class="text-dark">Web shop</h4>
                     <p>
                       Naša digitalna agencija nudi softver rješenja za
                       e-commerce i internet prodavnice.
@@ -245,112 +286,31 @@
                 </div>
               </div>
               <!-- service-card end -->
-              <!-- service-card satrt -->
+              <!-- service-card start -->
               <div
-                class="col-md-8 mt-30"
+                class="col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
                 <div class="service-card">
-                  <div class="service-content">
-                    <h5 class="text-dark">Izrada web stranica u Drupal-u</h5>
-                    <p>
-                      Drupal pomaže firmama da ispune sve njihove zahtjeve za
-                      jačom prisutnošću na internetu. Softver poslovne klase
-                      otvorenog koda olakšava brzu implementaciju. Za opširnu
-                      API podršku, Drupal dobro služi svrsi.
-                    </p>
+                  <div class="service-icon">
+                    <div class="roted-around secondary">
+                      <span></span>
+                    </div>
+                    <a href="#" class="marketing-social-icons"
+                      ><img
+                        class="custom-icon"
+                        src="/images/izrada-web-stranica/javascript.png"
+                        alt=""
+                      />
+                    </a>
                   </div>
-                </div>
-              </div>
-              <!-- service-card end -->
-              <!-- service-card satrt -->
-              <div
-                class="col-md-4 mt-30"
-                data-aos="fade-up"
-                data-aos-delay="500"
-              >
-                <div class="service-card">
                   <div class="service-content">
-                    <h5 class="text-dark">Intranet/Extranet</h5>
+                    <h4 class="text-dark">Custom rješenje</h4>
                     <p>
-                      Naš tim razvija prilagođena Intranet i Extranet rješenja
-                      kao i integraciju Sharepoint-a.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <!-- service-card end -->
-              <!-- service-card satrt -->
-              <div
-                class="col-md-4 mt-30"
-                data-aos="fade-up"
-                data-aos-delay="500"
-              >
-                <div class="service-card">
-                  <div class="service-content">
-                    <h5 class="text-dark">Facebook aplikacije</h5>
-                    <p>
-                      Vodeća smo agencija za razvoj aplikacija koja nudi usluge
-                      razvoja web, mobilnih i Facebook aplikacija.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <!-- service-card end -->
-              <!-- service-card satrt -->
-              <div
-                class="col-md-4 mt-30"
-                data-aos="fade-up"
-                data-aos-delay="500"
-              >
-                <div class="service-card">
-                  <div class="service-content">
-                    <h5 class="text-dark">Email Marketing rješnja</h5>
-                    <p>
-                      Kreiramo e-mail marketing softver koji će Vam olakšati
-                      izradu, slanje i praćenje e-mail kampanja koje donose
-                      rezultate.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <!-- service-card end -->
-              <!-- service-card satrt -->
-              <div
-                class="col-md-8 mt-30"
-                data-aos="fade-up"
-                data-aos-delay="500"
-              >
-                <div class="service-card">
-                  <div class="service-content">
-                    <h5 class="text-dark">Izrada web stranica custom kodom</h5>
-                    <p>
-                      Naš tim iskusnih web programera osigurava da Vaša web
-                      stranica bude izgrađena za maksimalnu funkcionalnost.
-                      Pažljivo formulišemo pozadinsku infrastrukturu ciglu po
-                      ciglu i obezbjeđujemo vrhunsku funkcionalnost front-enda.
                       Naš tim je visoko kvalifikovan za HTML, CSS, JavaScript,
-                      jQuery, Ajax, PHP, MySQL, Git, Drupal, WordPress, Apache
-                      and Linux.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <!-- service-card end -->
-              <!-- service-card satrt -->
-              <div
-                class="col-md-4 mt-30"
-                data-aos="fade-up"
-                data-aos-delay="500"
-              >
-                <div class="service-card">
-                  <div class="service-content">
-                    <h5 class="text-dark">PHP and JS</h5>
-                    <p>
-                      Pružamo usluge razvoja softvera u: PHP, Drupal, Python,
-                      JavaScript / jQuery, Vue.js i drugim modernim
-                      tehnologijama.
+                      jQuery, Vue, Nuxt, Ajax, PHP, MySQL, Git, Apache and
+                      Linux.
                     </p>
                   </div>
                 </div>
@@ -362,7 +322,7 @@
 
         <div class="service-details mt-4">
           <div class="service-details-list">
-            <div class="row mtn-35">
+            <div class="row mt-100 mb-100">
               <div class="col-lg-6 mt-35">
                 <h2 class="title">Testiranje i sigurnost</h2>
                 <p>
@@ -394,6 +354,8 @@
           </div>
         </div>
 
+        <Cta :title="ctaTitle" :desc="ctaDesc" />
+
         <div class="row g-0">
           <div class="col-12">
             <div class="next-prev-section">
@@ -403,8 +365,9 @@
                     <div class="content">
                       <h4 class="title">Digitalni marketing</h4>
                       <n-link to="/digitalni-marketing" class="link"
-                        ><i class="icofont-rounded-double-left"></i
-                      > Prethodno</n-link>
+                        ><i class="icofont-rounded-double-left"></i>
+                        Prethodno</n-link
+                      >
                     </div>
                   </div>
                 </div>
@@ -445,6 +408,15 @@ export default {
     ScrollTop: () => import("@/components/ScrollTop"),
   },
 
+  data() {
+    return {
+      ctaTitle:
+        "Trebate pomoć u definisanju marketing strategije na društvenim mrežama?",
+      ctaDesc:
+        "Naš tim pomoći će vam da odredite tko je vaša ciljana publika i da kreirate informativan, zabavan i primamljiv sadržaj koji će privući korisnike i pretvoriti vaš profil na društvenim mrežama u generator online vidljivosti vašeg branda.",
+    };
+  },
+
   head() {
     return {
       title:
@@ -463,3 +435,12 @@ export default {
 </script>
 
 
+<style lang="scss" scoped>
+ul li {
+  list-style-type: disc;
+}
+
+.custom-icon {
+  width: 60px;
+}
+</style>

@@ -45,10 +45,13 @@
         </div>
 
         <div class="service-details">
-          <div class="service-details-list mb-5">        
+          <div class="service-details-list mb-5">
             <div class="row">
               <div class="col-lg-6">
-                <img src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-ppc.png" alt="">
+                <img
+                  src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-ppc.png"
+                  alt=""
+                />
                 <h4 class="text-dark">Plaćene search kampanje PPC</h4>
                 <p>
                   Osigurajte pozitivan ROI (povrat ulaganja) sa našim
@@ -63,7 +66,10 @@
                 </p>
               </div>
               <div class="col-lg-6">
-                <img src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-drustvene-mreze.png" alt="">
+                <img
+                  src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-drustvene-mreze.png"
+                  alt=""
+                />
                 <h4 class="text-dark">Društvene mreže</h4>
                 <p>
                   Želite da povećate prisustvo Vašeg brenda i proizvoda na
@@ -82,7 +88,10 @@
           <div class="service-details-list mb-5">
             <div class="row mtn-35">
               <div class="col-lg-6 mt-35">
-                <img src="/images/service-details/digitalni-marketing/Email-marketing-Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft.png" alt="">
+                <img
+                  src="/images/service-details/digitalni-marketing/Email-marketing-Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft.png"
+                  alt=""
+                />
                 <h4 class="text-dark">Email marketing</h4>
                 <p>
                   Marketing putem emaila pruža direktnu vezu s ciljanom publikom
@@ -94,7 +103,10 @@
                 </p>
               </div>
               <div class="col-lg-6 mt-35">
-                <img src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-seo.png" alt="">
+                <img
+                  src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-seo.png"
+                  alt=""
+                />
                 <h4 class="text-dark">SEO</h4>
                 <p>
                   Search Engine Optimization (SEO) odnosi se na aktivnosti oko
@@ -111,7 +123,10 @@
           <div class="service-details-list mb-5">
             <div class="row mtn-35">
               <div class="col-lg-6 mt-35 order-2 order-md-1">
-                <img src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-youtube.png" alt="">
+                <img
+                  src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-youtube.png"
+                  alt=""
+                />
                 <h4 class="text-dark">YouTube marketing</h4>
                 <p>
                   YouTube je drugi po veličini pretraživač na svijetu, odmah
@@ -123,7 +138,10 @@
                 </p>
               </div>
               <div class="col-lg-6 mt-35 order-1 order-md-2">
-                <img src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-sem.png" alt="">
+                <img
+                  src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-sem.png"
+                  alt=""
+                />
                 <h4 class="text-dark">SEM</h4>
                 <p>
                   SEM predstavlja vezu između PPC i SEO strategija, kombinujući
@@ -138,7 +156,10 @@
           <div class="service-details-list">
             <div class="row mtn-35">
               <div class="col-lg-6 mt-35">
-                <img src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-display-marketing.png" alt="">
+                <img
+                  src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-display-marketing.png"
+                  alt=""
+                />
                 <h4 class="text-dark">Display marketing</h4>
                 <p>
                   Display oglašavanje (banner oglašavanje) je oblik oglašavanja
@@ -153,7 +174,10 @@
                 </p>
               </div>
               <div class="col-lg-6 mt-35">
-                <img src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-kontent.png" alt="">
+                <img
+                  src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-kontent.png"
+                  alt=""
+                />
                 <h4 class="text-dark">Content marketing</h4>
                 <p>
                   Ne kažu bez razloga kako je sadržaj – Kralj. Naš tim posebnu
@@ -168,7 +192,7 @@
 
         <div class="service-details mt-5">
           <div class="service-details-list">
-             <h2 class="title mb-3">Zašto izabrati digitalni marketing?</h2>
+            <h2 class="title mb-3">Zašto izabrati digitalni marketing?</h2>
             <div class="row mtn-30">
               <!-- service-card satrt -->
               <div
@@ -178,7 +202,9 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h4 class="text-dark mb-3">Pruža jednake mogućnosti svima</h4>
+                    <h4 class="text-dark mb-3">
+                      Pruža jednake mogućnosti svima
+                    </h4>
                     <p>
                       Bilo da se radi o velikim kompanijama ili malim
                       preduzetnicima digitalni marketing je Vaš put do online
@@ -289,7 +315,9 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h4 class="text-dark mb-3">Omogućuje ciljanje prave publike</h4>
+                    <h4 class="text-dark mb-3">
+                      Omogućuje ciljanje prave publike
+                    </h4>
                     <p>
                       Jedan od glavnih prednosti digitalnog marketinga, naspram
                       običnog marketinga, je to što se može kvalitetno i tačno
@@ -305,6 +333,8 @@
           </div>
         </div>
 
+        <Cta :title="ctaTitle" :desc="ctaDesc" />
+
         <div class="row g-0">
           <div class="col-12">
             <div class="next-prev-section">
@@ -314,8 +344,9 @@
                     <div class="content">
                       <h4 class="title">Hosting</h4>
                       <n-link to="/hosting" class="link"
-                        ><i class="icofont-rounded-double-left"></i
-                      > Prethodno</n-link>
+                        ><i class="icofont-rounded-double-left"></i>
+                        Prethodno</n-link
+                      >
                     </div>
                   </div>
                 </div>
@@ -354,6 +385,13 @@ export default {
     ServiceDetailsContent: () => import("@/components/ServiceDetailsContent"),
     Footer: () => import("@/components/Footer"),
     ScrollTop: () => import("@/components/ScrollTop"),
+  },
+
+  data() {
+    return {
+      ctaTitle: 'Trebate pomoć u definisanju marketing strategije na društvenim mrežama?',
+      ctaDesc: 'Naš tim pomoći će vam da odredite tko je vaša ciljana publika i da kreirate informativan, zabavan i primamljiv sadržaj koji će privući korisnike i pretvoriti vaš profil na društvenim mrežama u generator online vidljivosti vašeg branda.'
+    }
   },
 
   head() {

@@ -56,9 +56,9 @@
                         </n-link>
                       </li>
                       <li>
-                        <n-link class="footer-link" to="/drustvene-mreze">
+                        <n-link class="footer-link" to="/marketing-na-drustvenim-mrezama">
                           <i class="icofont-rounded-double-right"></i>
-                          Društvene mreže
+                          Marketing na društvenim mrežama
                         </n-link>
                       </li>
                       <li>

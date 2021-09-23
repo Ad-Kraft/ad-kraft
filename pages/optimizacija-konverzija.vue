@@ -36,14 +36,14 @@
                   </div>
                 </div>
                 <div class="row mt-100 mb-100">
-                  <div class="col-lg-5">
+                  <div class="col-lg-6">
                     <img
                       src="/images/optimizacija-konverzije/cro.png
                   "
                       alt=""
                     />
                   </div>
-                  <div class="col-lg-7">
+                  <div class="col-lg-6">
                     <p>
                       CRO poboljšava gotovo svaki aspekt digitalnog marketinga
                       povećavajući vrijednost Vaše web stranice za svakog

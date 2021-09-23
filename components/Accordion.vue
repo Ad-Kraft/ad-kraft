@@ -31,7 +31,7 @@
     <b-card no-body>
       <b-card-header header-tag="header">
         <b-button block v-b-toggle.accordion-3 class="accordion-button">
-          3. Da li vi radite održavanje i vođenjke društvenih mreža?
+          3. Da li vi radite održavanje i vođenje društvenih mreža?
         </b-button>
       </b-card-header>
       <b-collapse id="accordion-3" visible accordion="my-accordion">

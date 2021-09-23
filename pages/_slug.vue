@@ -51,7 +51,7 @@
             <!-- social-share-card end -->
 
             <div class="service-details">
-              <div class="service-details-list">
+              <div class="service-details-list main-blog-content">
                 <h3 class="title">{{ article.title }}</h3>
                 <div v-html="article.content"></div>
               </div>

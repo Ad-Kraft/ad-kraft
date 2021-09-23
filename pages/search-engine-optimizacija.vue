@@ -16,29 +16,48 @@
             <div class="service-details">
               <div class="service-details-list">
                 <h2 class="title">Search Engine optimizacija | SEO</h2>
-                <p>
-                  SEO poboljšava vidljivosti i prisutnost web stranice na
-                  internet pretraživačima što dovodi do značajnog povećanja
-                  prodaje, profitabilnosti i ekonomičnosti naših klijenata.
-                  Optimizacija za pretraživače odnosi se na strategije, tehnike
-                  i taktike neophodne da se vaša web stranice dovedu na vrh
-                  Google -a. Dovođenje vaše veb stranice na vrh rezultata
-                  pretraživanja (često se naziva i „rangiranje“) donosi zaradu
-                  vašoj veb lokaciji i besplatan saobraćaj na njoj.
-                </p>
+                <div class="row">
+                  <div class="col-lg-8">
+                    <p>
+                      SEO poboljšava vidljivosti i prisutnost web stranice na
+                      internet pretraživačima što dovodi do značajnog povećanja
+                      prodaje, profitabilnosti i ekonomičnosti naših klijenata.
+                      Optimizacija za pretraživače odnosi se na strategije,
+                      tehnike i taktike neophodne da se vaša web stranice dovedu
+                      na vrh Google -a. Dovođenje vaše veb stranice na vrh
+                      rezultata pretraživanja (često se naziva i „rangiranje“)
+                      donosi zaradu vašoj veb lokaciji i besplatan saobraćaj na
+                      njoj.
+                    </p>
 
-                <p>
-                  Google će svojim korisnicima prikazivati samo veb stranice
-                  koje su im korisne. Search Engine optimizacija nije stvaranje
-                  veb stranice za Google; radi se o tome da svoju veb stranicu
-                  napravite za svoje korisnike. Da biste ovo zapamtili,
-                  parafriziraćemo jedan od naših omiljenih citata SEO stručnjaka
-                  Vendi Piersall:
-                </p>
-                <h6 class="text-dark">
-                  „Google vas voli samo kada vas svi drugi vole.“
-                </h6>
+                    <p>
+                      Google će svojim korisnicima prikazivati samo veb stranice
+                      koje su im korisne. Search Engine optimizacija nije
+                      stvaranje veb stranice za Google; radi se o tome da svoju
+                      veb stranicu napravite za svoje korisnike. Da biste ovo
+                      zapamtili, parafriziraćemo jedan od naših omiljenih citata
+                      SEO stručnjaka Vendi Piersall:
+                    </p>
+                  </div>
+                  <div class="col-lg-4">
+                    <img src="/images/seo/seo-ad-kraft.png" alt="" />
+                  </div>
+                </div>
               </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="service-details mt-5 mb-5">
+          <div class="service-details-list">
+            <div class="row mtn-35">
+              <div class="col-lg-2"></div>
+              <div class="col-lg-8 mt-35 text-center">
+                <blockquote class="sidekick">
+                  Google vas voli samo kada vas svi drugi vole.
+                </blockquote>
+              </div>
+              <div class="col-lg-2"></div>
             </div>
           </div>
         </div>
@@ -62,15 +81,23 @@
         <div class="service-details mt-4">
           <div class="service-details-list">
             <div class="row mtn-30">
-              <!-- service-card satrt -->
+              <!-- service-card start -->
               <div
                 class="col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
                 <div class="service-card">
+                  <div class="service-icon">
+                    <div class="roted-around secondary">
+                      <span></span>
+                    </div>
+                    <a href="#" class="marketing-social-icons">
+                      <img src="/images/seo/seo-1.png" alt="" />
+                    </a>
+                  </div>
                   <div class="service-content">
-                    <h5 class="text-dark">SEO na stranici</h5>
+                    <h4 class="text-dark">SEO na stranici</h4>
                     <p>
                       Se odnosi na sadržaj na vašim veb stranicama, uključujući
                       tekst, ključne riječi i slike. Moraćete da se usredsredite
@@ -80,17 +107,24 @@
                   </div>
                 </div>
               </div>
-              <!-- service-card end -->
-
-              <!-- service-card satrt -->
+              <!-- service-card end-->
+              <!-- service-card start -->
               <div
                 class="col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
                 <div class="service-card">
+                  <div class="service-icon">
+                    <div class="roted-around secondary">
+                      <span></span>
+                    </div>
+                    <a href="#" class="marketing-social-icons">
+                      <img src="/images/seo/seo-2.png" alt="" />
+                    </a>
+                  </div>
                   <div class="service-content">
-                    <h5 class="text-dark">Tehnički SEO</h5>
+                    <h4 class="text-dark">Tehnički SEO</h4>
                     <p>
                       Se ne odnosi na sadržaj koji korisnik vidi na vašoj veb
                       stranici. Umjesto toga, fokusira se na tehničke aspekte te
@@ -105,16 +139,24 @@
                   </div>
                 </div>
               </div>
-              <!-- service-card end -->
-              <!-- service-card satrt -->
+              <!-- service-card end-->
+              <!-- service-card start -->
               <div
                 class="col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
                 <div class="service-card">
+                  <div class="service-icon">
+                    <div class="roted-around secondary">
+                      <span></span>
+                    </div>
+                    <a href="#" class="marketing-social-icons">
+                      <img src="/images/seo/seo-3.png" alt="" />
+                    </a>
+                  </div>
                   <div class="service-content">
-                    <h5 class="text-dark">SEO van stranice</h5>
+                    <h4 class="text-dark">SEO van stranice</h4>
                     <p>
                       Se odnosi na sadržaj koji se ne nalazi na vašoj veb
                       lokaciji. Uključuje sadržaj na drugim veb lokacijama koji
@@ -128,16 +170,24 @@
                   </div>
                 </div>
               </div>
-              <!-- service-card end -->
-              <!-- service-card satrt -->
+              <!-- service-card end-->
+              <!-- service-card start -->
               <div
                 class="col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
                 <div class="service-card">
+                  <div class="service-icon">
+                    <div class="roted-around secondary">
+                      <span></span>
+                    </div>
+                    <a href="#" class="marketing-social-icons">
+                      <img src="/images/seo/seo-4.png" alt="" />
+                    </a>
+                  </div>
                   <div class="service-content">
-                    <h5 class="text-dark">Lokalni SEO</h5>
+                    <h4 class="text-dark">Lokalni SEO</h4>
                     <p>
                       Se fokusira na to da se vaša veb lokacija rangira prema
                       terminima specifičnim za lokaciju. Lokalni SEO može
@@ -152,7 +202,7 @@
                   </div>
                 </div>
               </div>
-              <!-- service-card end -->
+              <!-- service-card end-->
             </div>
           </div>
         </div>
@@ -180,7 +230,7 @@
               </div>
               <div class="col-lg-5 mt-35">
                 <img
-                  src="/images/service-details/seo-optimizacija/on-page-seo-vs-off-page-seo.webp"
+                  src="/images/seo/seo-ad-kraft-2.png"
                   alt="images-not_found"
                 />
               </div>
@@ -191,7 +241,10 @@
         <div class="service-details">
           <div class="service-details-list">
             <div class="row mtn-35">
-              <div class="col-lg-12 mt-35">
+              <div class="col-lg-6">
+                <img src="/images/seo/seo-ad-kraft-3.png" alt="" />
+              </div>
+              <div class="col-lg-6 mt-35">
                 <p>
                   Dakle, za oglase plaćate da budete na vrhu, naprijed i u
                   centru, a sa organskim rezultatima pretrage vi ste na vrhu,
@@ -237,19 +290,12 @@
                   da na osnovu tih podataka koristimo svaku priliku da kreiramo
                   sadržaj za ciljnu publiku.
                 </p>
-                <p>
-                  <strong
-                    >Dostavljamo Vam detaljan izvještaj o Vašoj internet
-                    reputaciji u kojem se nalaze sve bitne informacije počevši
-                    od informacija vezanih za Vašu kompaniju, proizvod ili
-                    uslugu, što je važno za praćenje negativnog sadržaja i može
-                    značajno uticati na Vašu internet prodaju i upite.</strong
-                  >
-                </p>
               </div>
             </div>
           </div>
         </div>
+
+        <Cta :title="ctaTitle" :desc="ctaDesc" />
 
         <div class="row g-0">
           <div class="col-12">
@@ -258,10 +304,11 @@
                 <div class="col-sm-4 col-6">
                   <div class="service-prev service-media">
                     <div class="content">
-                      <h4 class="title">Društvene mreže</h4>
-                      <n-link to="/drustvene-mreze" class="link"
-                        ><i class="icofont-rounded-double-left"></i
-                      > Prethodno</n-link>
+                      <h4 class="title">Marketing na društvenim mrežama</h4>
+                      <n-link to="/marketing-na-drustvenim-mrezama" class="link"
+                        ><i class="icofont-rounded-double-left"></i>
+                        Prethodno</n-link
+                      >
                     </div>
                   </div>
                 </div>
@@ -301,6 +348,13 @@ export default {
     ScrollTop: () => import("@/components/ScrollTop"),
   },
 
+  data() {
+    return {
+      ctaTitle: 'Trebate pomoć u definisanju marketing strategije na društvenim mrežama?',
+      ctaDesc: 'Naš tim pomoći će vam da odredite tko je vaša ciljana publika i da kreirate informativan, zabavan i primamljiv sadržaj koji će privući korisnike i pretvoriti vaš profil na društvenim mrežama u generator online vidljivosti vašeg branda.'
+    }
+  },
+
   head() {
     return {
       title:
@@ -317,3 +371,35 @@ export default {
   },
 };
 </script>
+
+<style lang="scss" scoped>
+.sidekick {
+  position: relative;
+  padding-left: 1em;
+  font-family: "Roboto", serif;
+  font-size: 2.4em;
+  line-height: 1.5em;
+  font-weight: 300;
+  font-style: italic;
+}
+.sidekick:before,
+.sidekick:after {
+  font-family: Calibri;
+  color: #80adf4;
+  font-size: 34px;
+}
+.sidekick:before {
+  content: "\201e";
+}
+.sidekick:after {
+  content: "\201c";
+}
+.sidekick cite {
+  font-size: 50%;
+  text-align: center;
+  top: 50%;
+}
+.sidekick cite:before {
+  content: " \2015 ";
+}
+</style>

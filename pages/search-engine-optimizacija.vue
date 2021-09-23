@@ -15,9 +15,9 @@
           <div class="col-12 mt-35">
             <div class="service-details">
               <div class="service-details-list">
-                <h2 class="title">Search Engine optimizacija | SEO</h2>
                 <div class="row">
-                  <div class="col-lg-8">
+                  <div class="col-lg-6">
+                    <h2 class="title">Search Engine optimizacija | SEO</h2>
                     <p>
                       SEO poboljšava vidljivosti i prisutnost web stranice na
                       internet pretraživačima što dovodi do značajnog povećanja
@@ -39,7 +39,7 @@
                       SEO stručnjaka Vendi Piersall:
                     </p>
                   </div>
-                  <div class="col-lg-4">
+                  <div class="col-lg-6">
                     <img src="/images/seo/seo-ad-kraft.png" alt="" />
                   </div>
                 </div>
@@ -210,7 +210,7 @@
         <div class="service-details mt-5">
           <div class="service-details-list">
             <div class="row mtn-35">
-              <div class="col-lg-7 mt-35">
+              <div class="col-lg-6 mt-35">
                 <h2 class="title">Zašto je SEO važan?</h2>
                 <p>
                   Optimizacija za pretraživače donosi vam najdragocjeniji promet
@@ -228,7 +228,7 @@
                   oglašavač plaća pretraživaču za tu posjetu.
                 </p>
               </div>
-              <div class="col-lg-5 mt-35">
+              <div class="col-lg-6 mt-35">
                 <img
                   src="/images/seo/seo-ad-kraft-2.png"
                   alt="images-not_found"

@@ -350,8 +350,8 @@ export default {
 
   data() {
     return {
-      ctaTitle: 'Trebate pomoć u definisanju marketing strategije na društvenim mrežama?',
-      ctaDesc: 'Naš tim pomoći će vam da odredite tko je vaša ciljana publika i da kreirate informativan, zabavan i primamljiv sadržaj koji će privući korisnike i pretvoriti vaš profil na društvenim mrežama u generator online vidljivosti vašeg branda.'
+      ctaTitle: 'Trebate pomoć u definisanju SEO strategije za Vaš sajt?',
+      ctaDesc: 'Stojimo Vam na raspolaganju ukoliko želite da povećate prisutnost Vaše web stranice na pretraživaču ili želite da vidite kako možete poboljšati Vaše SEO tehnike'
     }
   },
 

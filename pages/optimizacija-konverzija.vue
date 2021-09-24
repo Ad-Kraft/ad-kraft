@@ -330,9 +330,9 @@ export default {
   data() {
     return {
       ctaTitle:
-        "Trebate pomoć u definisanju marketing strategije na društvenim mrežama?",
+        "Trebate pomoć da povećate stopu konverzija na Vašem sajtu?",
       ctaDesc:
-        "Naš tim pomoći će vam da odredite tko je vaša ciljana publika i da kreirate informativan, zabavan i primamljiv sadržaj koji će privući korisnike i pretvoriti vaš profil na društvenim mrežama u generator online vidljivosti vašeg branda.",
+        "Mi ćemo Vam pomoći da posjetioci Vaše web stranice izvrše željenu akciju. Naš tim će optimizovati Vašu web stranicu i povećati stopu konverzija, pružajući uspješnu dugoročnu CRO strategiju za Vaše poslovanje.",
     };
   },
 

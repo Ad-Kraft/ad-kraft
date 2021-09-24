@@ -88,7 +88,7 @@
                   <span class="price-featur">1 FTP nalog</span>
                 </li>
               </ul>
-              <n-link to="#" rel="nofollow" class="btn btn-warning mt-3"
+              <n-link to="/kontakt" rel="nofollow" class="btn btn-warning mt-3"
                 >Izaberite odmah</n-link
               >
             </div>
@@ -128,7 +128,7 @@
                   <span class="price-featur">neograničeno FTP naloga</span>
                 </li>
               </ul>
-              <n-link to="#" rel="nofollow" class="btn btn-warning mt-3"
+              <n-link to="/kontakt" rel="nofollow" class="btn btn-warning mt-3"
                 >Izaberite odmah</n-link
               >
             </div>
@@ -165,7 +165,7 @@
                   <span class="price-featur">neograničeno FTP naloga</span>
                 </li>
               </ul>
-              <n-link to="#" rel="nofollow" class="btn btn-warning mt-3"
+              <n-link to="/kontakt" rel="nofollow" class="btn btn-warning mt-3"
                 >Izaberite odmah</n-link
               >
             </div>
@@ -463,9 +463,9 @@ export default {
   data() {
     return {
       ctaTitle:
-        "Trebate pomoć u definisanju marketing strategije na društvenim mrežama?",
+        "Trebate pomoć prilikom definisanja hosting paketa za Vaš sajt?",
       ctaDesc:
-        "Naš tim pomoći će vam da odredite tko je vaša ciljana publika i da kreirate informativan, zabavan i primamljiv sadržaj koji će privući korisnike i pretvoriti vaš profil na društvenim mrežama u generator online vidljivosti vašeg branda.",
+        "Ad Kraft web hosting platforme su stabilne, predstavljaju najbolji odnos cijena–kvalitet, ispunjavaju najviše standarde. Odaberite web hosting paket po Vašim potrebama.",
     };
   },
 

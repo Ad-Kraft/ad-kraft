@@ -389,8 +389,8 @@ export default {
 
   data() {
     return {
-      ctaTitle: 'Trebate pomoć u definisanju marketing strategije na društvenim mrežama?',
-      ctaDesc: 'Naš tim pomoći će vam da odredite tko je vaša ciljana publika i da kreirate informativan, zabavan i primamljiv sadržaj koji će privući korisnike i pretvoriti vaš profil na društvenim mrežama u generator online vidljivosti vašeg branda.'
+      ctaTitle: 'Trebate pomoć u definisanju strategije za digitalni marketing?',
+      ctaDesc: 'Ukoliko ste zainteresovani za kompletnu ili pojedinačne usluge digitalnog marketinga, kontaktirajte nas i zakažite BESPLATNE i neobavezujuće konsultacije. U skladu sa vašim potrebama ili planiranim budžetom pronaći ćemo optimalno rešenje, koje će po najboljoj ceni donijeti adekvatne rezultate.'
     }
   },
 

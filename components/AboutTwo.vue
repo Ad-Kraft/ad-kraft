@@ -10,17 +10,23 @@
         <div class="col-md-6 col-xl-5 mt-30">
           <div class="about-cards">
             <div class="about-card-list">
-              <h4 class="title">Welcome To Seolly</h4>
+              <h4 class="title">Dobro došli u Ad Kraft</h4>
               <p>
-                Strast, kreativnost i želja da internet učinimo boljim mjestom
-                su vrijednosti kojima se vraćamo iz dana u dan. Inovativnim
-                idejama želimo napraviti razliku u digitalnom svijetu. Međusobna
-                saradnja pojedinaca kao i timova je snaga koja stvara ideje koje
-                nas pokreću.
+                Ad Kraft je digitalna agencija sa kompletnom uslugom. Od web
+                dizajna, preko SEO optimizacije i PPC oglašavanja, pa do vođenja
+                društvenih mreža, naša usluga je cjelovita, a strategija
+                sveobuhvatna.
               </p>
               <p>
-                Kao društveno odgovorna kompanija nastojimo podstaknuti razvoj
-                naše društvene zajednice i pozitivno uticati na naše okruženje.
+                Sa strašću za pružanjem inovativnih IT rješenja na visokom
+                nivou, donosimo izvanredno iskustvo našim klijentima,
+                prevazilazimo izazove i stvaramo prava poslovna rješenja i
+                vrednosti. Efektivno. Vođen strašću. Posvećeno.
+              </p>
+              <p>
+                Na nas uvijek možete računati, obratite nam se s pitanjima te
+                nas gledajte kao partnera u rastu. Jer Vaš uspjeh je i naš
+                uspjeh.
               </p>
             </div>
           </div>

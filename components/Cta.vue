@@ -29,10 +29,16 @@ export default {
   display: flex;
   flex-grow: 2 1;
   flex-direction: row;
-  background: black;
+  background: #202020;
   color: white;
   border-radius: 15px;
   padding: 2em;
+  position: relative;
+  background-image: url('/images/footer/ad-kraft-logo-footer.png');
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-size: 250px;
+  align-items: center;
 }
 
 .cta-section-text {
@@ -45,8 +51,6 @@ export default {
 
 .btn {
   width: 100%;
-  top: 30px;
-  margin-bottom: 15px;
 }
 
 @media (max-width: 800px) {
@@ -54,7 +58,7 @@ export default {
     flex-direction: column;
   }
   .btn {
-    margin-bottom: 30px;
+    margin-top: 20px;
   }
   .cta-section-text h3 {
     font-size: 20px;

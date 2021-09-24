@@ -354,6 +354,146 @@
           </div>
         </div>
 
+        <div class="service-details mt-4">
+          <div class="service-details-list">
+            <h4 class="text-dark">Neki od naših klijenata</h4>
+            <div class="row">
+              <div class="col-lg-4 mt-35 mb-3">
+                <div class="porfolio-card">
+                  <a href="https://elite-dent.com/" target="_blank">
+                    <img
+                      src="/images/izrada-web-stranica/portfolio/elit-dent.png"
+                      alt=""
+                    />
+                    <h5 class="text-dark text-center mt-3">Elite Dent</h5>
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-4 mt-35 mb-3">
+                <div class="porfolio-card">
+                  <a href="https://klinikakostic.com/" target="_blank">
+                    <img
+                      src="/images/izrada-web-stranica/portfolio/dr-kostic.png"
+                      alt=""
+                    />
+                    <h5 class="text-dark text-center mt-3">SHB Dr Kostić</h5>
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-4 mt-35 mb-3">
+                <div class="porfolio-card">
+                  <a href="https://corestatehq.com/" target="_blank">
+                    <img
+                      src="/images/izrada-web-stranica/portfolio/corestatehq.png"
+                      alt=""
+                    />
+                    <h5 class="text-dark text-center mt-3">Core State</h5>
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-4 mt-35 mb-3">
+                <div class="porfolio-card">
+                  <a href="https://bigportal.ba/" target="_blank">
+                    <img
+                      src="/images/izrada-web-stranica/portfolio/bigportal.png"
+                      alt=""
+                    />
+                    <h5 class="text-dark text-center mt-3">Big Portal</h5>
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-4 mt-35 mb-3">
+                <div class="porfolio-card">
+                  <a href="https://www.jungleland.club/" target="_blank">
+                    <img
+                      src="/images/izrada-web-stranica/portfolio/jungleland.png"
+                      alt=""
+                    />
+                    <h5 class="text-dark text-center mt-3">Jungleland</h5>
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-4 mt-35 mb-3">
+                <div class="porfolio-card">
+                  <a href="https://pecenjaracarstvo.com/" target="_blank">
+                    <img
+                      src="/images/izrada-web-stranica/portfolio/pecenjara-carstvo.png"
+                      alt=""
+                    />
+                    <h5 class="text-dark text-center mt-3">Pečenjara Carstvo</h5>
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-4 mt-35 mb-3">
+                <div class="porfolio-card">
+                  <a href="https://colliderstudios.com/" target="_blank">
+                    <img
+                      src="/images/izrada-web-stranica/portfolio/colider-studio.png"
+                      alt=""
+                    />
+                    <h5 class="text-dark text-center mt-3">Collider Studio</h5>
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-4 mt-35 mb-3">
+                <div class="porfolio-card">
+                  <a href="https://foodietrend.com/" target="_blank">
+                    <img
+                      src="/images/izrada-web-stranica/portfolio/manikas-group.png"
+                      alt=""
+                    />
+                    <h5 class="text-dark text-center mt-3">Manikas Group</h5>
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-4 mt-35 mb-3">
+                <div class="porfolio-card">
+                  <a href="https://poptrade.net/" target="_blank">
+                    <img
+                      src="/images/izrada-web-stranica/portfolio/pop-trade.png"
+                      alt=""
+                    />
+                    <h5 class="text-dark text-center mt-3">Pop Trade</h5>
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-4 mt-35 mb-3">
+                <div class="porfolio-card">
+                  <a href="https://agregati-pramac.com/" target="_blank">
+                    <img
+                      src="/images/izrada-web-stranica/portfolio/pramac-agregati.png"
+                      alt=""
+                    />
+                    <h5 class="text-dark text-center mt-3">Pramac Agregati</h5>
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-4 mt-35 mb-3">
+                <div class="porfolio-card">
+                  <a href="https://www.advokatskafirmasajic.com/" target="_blank">
+                    <img
+                      src="/images/izrada-web-stranica/portfolio/sajic.png"
+                      alt=""
+                    />
+                    <h5 class="text-dark text-center mt-3">AF Sajić</h5>
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-4 mt-35 mb-3">
+                <div class="porfolio-card">
+                  <a href="https://v-sistem.com/" target="_blank">
+                    <img
+                      src="/images/izrada-web-stranica/portfolio/v-sistem-namjestaj.png"
+                      alt=""
+                    />
+                    <h5 class="text-dark text-center mt-3">V Sistem namještaj</h5>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <Cta :title="ctaTitle" :desc="ctaDesc" />
 
         <div class="row g-0">
@@ -410,10 +550,9 @@ export default {
 
   data() {
     return {
-      ctaTitle:
-        "Trebate pomoć u definisanju marketing strategije na društvenim mrežama?",
+      ctaTitle: "Trebate pomoć prilikom izrade web stranice?",
       ctaDesc:
-        "Naš tim pomoći će vam da odredite tko je vaša ciljana publika i da kreirate informativan, zabavan i primamljiv sadržaj koji će privući korisnike i pretvoriti vaš profil na društvenim mrežama u generator online vidljivosti vašeg branda.",
+        "Stvaramo moderne web stranice korištenjem naprednih web tehnologija i CMS sustava. Javite nam se. Nudimo optimalan odnos cijene izrade web stranice i kvaliteta. Recite nam sve o Vašem novom web projektu i saznajte kako Vam možemo pomoći.",
     };
   },
 
@@ -443,4 +582,5 @@ ul li {
 .custom-icon {
   width: 60px;
 }
+
 </style>

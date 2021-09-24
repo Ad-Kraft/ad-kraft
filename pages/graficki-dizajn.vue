@@ -387,8 +387,8 @@ export default {
 
   data() {
     return {
-      ctaTitle: 'Trebate pomoć u definisanju marketing strategije na društvenim mrežama?',
-      ctaDesc: 'Naš tim pomoći će vam da odredite tko je vaša ciljana publika i da kreirate informativan, zabavan i primamljiv sadržaj koji će privući korisnike i pretvoriti vaš profil na društvenim mrežama u generator online vidljivosti vašeg branda.'
+      ctaTitle: 'Treba Vam rješenje koje će osvježiti Vaš brend?',
+      ctaDesc: 'Naš dizajnerski tim može da Vam ponudi kreativna rješenja za Vaš brend.'
     }
   },
 

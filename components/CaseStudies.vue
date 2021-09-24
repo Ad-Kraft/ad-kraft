@@ -38,7 +38,9 @@
                       v-for="(cat, index) in caseStudy.case_studies_categories"
                       :key="index"
                     >
-                      {{ cat.title }}
+                      <n-link :to="`/projekti/kategorija/${cat.slug}`">{{
+                        cat.title
+                      }}</n-link>
                     </p>
                   </div>
                 </div>

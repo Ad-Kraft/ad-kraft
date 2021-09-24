@@ -15,84 +15,89 @@
           <div class="col-12">
             <div class="service-details">
               <div class="service-details-list">
-                <div class="row mb-100">
-                  <h2 class="title">
-                    Izrada web stranica po najnovijim standardima
-                  </h2>
-                  <div class="col-md-6">
-                    <p>
-                      Web stranica ne bi trebala samo privući pažnju. Uloga web
-                      stranice je privlačenje i angažovanje korisnika, kao i
-                      predstavljanje Vašeg brenda i podizanje svijesti o
-                      proizvodu ili usluzi. Kupci Vam neće pružiti drugu priliku
-                      da napravite prvi utisak. U digitalnom svijetu prvi utisak
-                      je od vitalnog značaja, a izrada web stranica koje prati
-                      standarde koji će zadovoljiti kompatibilnost na različitim
-                      uređajima, standarde upotrebljivosti i korisničkog
-                      iskustva, ukratko rečeno kompletnu funkcionalnost web
-                      stranice, je ključ uspjeha. Korisnici uživaju u
-                      posjećivanju web stranica koje su estetski privlačne i
-                      jednostavne za navigaciju.
-                    </p>
-                    <p>
-                      Naš tim koji se sastoji od web programera, web dizajnera,
-                      UX/UI dizajnera, SEO stručnjaka i stručnjaka za digitalni
-                      marketing pomno će osmisliti vašu web stranicu i složiti
-                      sadržaj za najbolje korisničko iskustvo, a SEO stručnjaci
-                      dodatno će se pobrinuti da vaša web stranica bude spremna
-                      za Google-vu prvu stranicu. Kako smo svjesni da se možda
-                      prvi put susrećete sa procesom web dizajna i izrade web
-                      stranice i aplikacije pružamo Vam mogućnost da s Vama
-                      održimo besplatni projektni sastanak na kojem ćemo Vam
-                      dati sve upute o pripremi materijala (ili projektne
-                      dokumentacije) kao i potrebne upute oko dizajna.
-                    </p>
+                <div class="container">
+                  <div class="row mb-100">
+                    <h2 class="title">
+                      Izrada web stranica po najnovijim standardima
+                    </h2>
+                    <div class="col-lg-6">
+                      <p>
+                        Web stranica ne bi trebala samo privući pažnju. Uloga
+                        web stranice je privlačenje i angažovanje korisnika, kao
+                        i predstavljanje Vašeg brenda i podizanje svijesti o
+                        proizvodu ili usluzi. Kupci Vam neće pružiti drugu
+                        priliku da napravite prvi utisak. U digitalnom svijetu
+                        prvi utisak je od vitalnog značaja, a izrada web
+                        stranica koje prati standarde koji će zadovoljiti
+                        kompatibilnost na različitim uređajima, standarde
+                        upotrebljivosti i korisničkog iskustva, ukratko rečeno
+                        kompletnu funkcionalnost web stranice, je ključ uspjeha.
+                        Korisnici uživaju u posjećivanju web stranica koje su
+                        estetski privlačne i jednostavne za navigaciju.
+                      </p>
+                      <p>
+                        Naš tim koji se sastoji od web programera, web
+                        dizajnera, UX/UI dizajnera, SEO stručnjaka i stručnjaka
+                        za digitalni marketing pomno će osmisliti vašu web
+                        stranicu i složiti sadržaj za najbolje korisničko
+                        iskustvo, a SEO stručnjaci dodatno će se pobrinuti da
+                        vaša web stranica bude spremna za Google-vu prvu
+                        stranicu. Kako smo svjesni da se možda prvi put
+                        susrećete sa procesom web dizajna i izrade web stranice
+                        i aplikacije pružamo Vam mogućnost da s Vama održimo
+                        besplatni projektni sastanak na kojem ćemo Vam dati sve
+                        upute o pripremi materijala (ili projektne
+                        dokumentacije) kao i potrebne upute oko dizajna.
+                      </p>
+                    </div>
+                    <div class="col-lg-6">
+                      <img
+                        src="/images/izrada-web-stranica/ad-kraft-izrada-stranica.png"
+                        alt=""
+                      />
+                    </div>
                   </div>
-                  <div class="col-md-6">
-                    <img
-                      src="/images/izrada-web-stranica/ad-kraft-izrada-stranica.png"
-                      alt=""
-                    />
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-md-6 order-2 order-md-1">
-                    <img
-                      src="/images/izrada-web-stranica/ad-kraft-izrada-stranica-2.png"
-                      alt=""
-                    />
-                  </div>
-                  <div class="col-md-6 order-1 order-md-2">
-                    <p>
-                      S našom agencijom Vaš posao će biti primijećen u
-                      digitalnom svijetu jer korištenjem genijalnih dizajnerskih
-                      rješenja Vašem brendu osiguravamo prepoznatljivost i
-                      uticaj. Nudimo različita prilagodljiva dizajnerska
-                      rješenja s fokusom na kreiranje web stranice koja će
-                      odgovarati Vašem brendu ujedno privlačeći veliki broj
-                      posjetilaca. Naš tim sarađuje s Vama dok ne napravimo
-                      savršen dizajn za Vaše potrebe. Vjerujemo da je uska
-                      saradnja temelj za izvanredne rezultate. Zbog toga
-                      sarađujemo na svakom koraku procesa koji vodi do izvrsnog
-                      poslovanja – od procjenjivanja Vaših potreba i želja do
-                      konkurentne analize.
-                    </p>
-                    <p>
-                      Svaki projekat ima svoje ciljeve, publiku i mogućnosti.
-                      Naš pristup velikim projektima započinje vremenski
-                      testiranim procesom koji otkriva i rješava neočekivano. Za
-                      kreativan i funkcionalan web dizajn neophodna je detaljna
-                      analiza i sveobuhvatno istraživanje. Zbog toga naš tim na
-                      svakom koraku izrade web stranice sarađuje s Vama,
-                      osiguravajući da Vaša nova web stranica zaista predstavlja
-                      Vas i Vaše poslovanje istovremeno ostvarujući najvažnije
-                      ciljeve – kvalitetno korisničko iskustvo i konverziju. Naš
-                      rad započinje kreativnim i atraktivnim dizajnom koji
-                      najbolje predstavlja Vaš brend. Zatim proučavamo Vaše
-                      klijente kako bismo stvorili jedinstvene elemente i stil
-                      koji najbolje odgovara Vašem poslovanju ujedno privlačeći
-                      i zadržavajući Vaše klijente.
-                    </p>
+                  <div class="row">
+                    <div class="col-lg-6 order-2 order-lg-1">
+                      <img
+                        src="/images/izrada-web-stranica/ad-kraft-izrada-stranica-2.png"
+                        alt=""
+                      />
+                    </div>
+                    <div class="col-lg-6 order-1 order-lg-2">
+                      <p>
+                        S našom agencijom Vaš posao će biti primijećen u
+                        digitalnom svijetu jer korištenjem genijalnih
+                        dizajnerskih rješenja Vašem brendu osiguravamo
+                        prepoznatljivost i uticaj. Nudimo različita
+                        prilagodljiva dizajnerska rješenja s fokusom na
+                        kreiranje web stranice koja će odgovarati Vašem brendu
+                        ujedno privlačeći veliki broj posjetilaca. Naš tim
+                        sarađuje s Vama dok ne napravimo savršen dizajn za Vaše
+                        potrebe. Vjerujemo da je uska saradnja temelj za
+                        izvanredne rezultate. Zbog toga sarađujemo na svakom
+                        koraku procesa koji vodi do izvrsnog poslovanja – od
+                        procjenjivanja Vaših potreba i želja do konkurentne
+                        analize.
+                      </p>
+                      <p>
+                        Svaki projekat ima svoje ciljeve, publiku i mogućnosti.
+                        Naš pristup velikim projektima započinje vremenski
+                        testiranim procesom koji otkriva i rješava neočekivano.
+                        Za kreativan i funkcionalan web dizajn neophodna je
+                        detaljna analiza i sveobuhvatno istraživanje. Zbog toga
+                        naš tim na svakom koraku izrade web stranice sarađuje s
+                        Vama, osiguravajući da Vaša nova web stranica zaista
+                        predstavlja Vas i Vaše poslovanje istovremeno
+                        ostvarujući najvažnije ciljeve – kvalitetno korisničko
+                        iskustvo i konverziju. Naš rad započinje kreativnim i
+                        atraktivnim dizajnom koji najbolje predstavlja Vaš
+                        brend. Zatim proučavamo Vaše klijente kako bismo
+                        stvorili jedinstvene elemente i stil koji najbolje
+                        odgovara Vašem poslovanju ujedno privlačeći i
+                        zadržavajući Vaše klijente.
+                      </p>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -420,7 +425,9 @@
                       src="/images/izrada-web-stranica/portfolio/pecenjara-carstvo.png"
                       alt=""
                     />
-                    <h5 class="text-dark text-center mt-3">Pečenjara Carstvo</h5>
+                    <h5 class="text-dark text-center mt-3">
+                      Pečenjara Carstvo
+                    </h5>
                   </a>
                 </div>
               </div>
@@ -470,7 +477,10 @@
               </div>
               <div class="col-lg-4 mt-35 mb-3">
                 <div class="porfolio-card">
-                  <a href="https://www.advokatskafirmasajic.com/" target="_blank">
+                  <a
+                    href="https://www.advokatskafirmasajic.com/"
+                    target="_blank"
+                  >
                     <img
                       src="/images/izrada-web-stranica/portfolio/sajic.png"
                       alt=""
@@ -486,7 +496,9 @@
                       src="/images/izrada-web-stranica/portfolio/v-sistem-namjestaj.png"
                       alt=""
                     />
-                    <h5 class="text-dark text-center mt-3">V Sistem namještaj</h5>
+                    <h5 class="text-dark text-center mt-3">
+                      V Sistem namještaj
+                    </h5>
                   </a>
                 </div>
               </div>
@@ -582,5 +594,4 @@ ul li {
 .custom-icon {
   width: 60px;
 }
-
 </style>

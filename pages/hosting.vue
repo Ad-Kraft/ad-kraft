@@ -8,333 +8,346 @@
 
     <section class="service-details-section">
       <div class="container">
-        <div class="row">
-          <div class="service-details">
-            <h2 class="title">Web Hosting</h2>
-            <p>
-              Web hosting je u prevodu smještaj web stranica to jeste,
-              cjelokupnog internet sadržaja na web server, tako da budu dostupne
-              svima.
-            </p>
+        <div class="service-details">
+          <h2 class="title">Web Hosting</h2>
+          <p>
+            Web hosting je u prevodu smještaj web stranica to jeste, cjelokupnog
+            internet sadržaja na web server, tako da budu dostupne svima.
+          </p>
+        </div>
+        <div class="service-details mt-5">
+          <div class="row">
+            <div class="col-lg-8">
+              <h4 class="text-dark">Zašto Ad Kraft web hosting?</h4>
+              <ul>
+                <li>
+                  Ad Kraft web hosting platforme su stabilne, predstavljaju
+                  najbolji odnos cijena–kvalitet, ispunjavaju najviše standarde
+                  i omogućavaju korisnicima da putem web panela, u bilo kom
+                  trenutku pristupe, mijenjaju ili čuvaju sadržaj svoje web
+                  aplikacije;
+                </li>
+                <li>
+                  Ad Kraft Vam omogućava Linux hosting platformu, kao i stručan
+                  i profesinalan tim koji će Vam u svakom trenutku pomoći u
+                  slučaju bilo kakvih nedoumica ili problema vezano za naše
+                  servise;
+                </li>
+                <li>
+                  Ad Kraft Vam omogućava besplatnu osnovu tehničku podršku na
+                  našem jeziku, putem email-a od koje ćete dobiti odgovarajući
+                  savjet, prijedlog ili rješenje vašeg problema;
+                </li>
+                <li>
+                  Ad Kraft Vam garantuje da ćete za svoj novac dobiti
+                  odgovarajuću profesionalnu i kvalitetnu web hosting uslugu;
+                </li>
+                <li>
+                  Ad Kraft serveri ispunjavaju vodeće sigurnosne standarde;
+                </li>
+                <li>
+                  Ad Kraft će besplatno izvršiti migraciju web i email sadržaja
+                  sa posojećih servera na našu platformu;
+                </li>
+                <li>Ad Kraft Vam garantuje bezbjednost podataka;</li>
+                <li>
+                  Ad Kraft tehnička podrška je dostupna 14/5, za sva pitanja na
+                  srpskom i engleskom jeziku, putem emaila info@ad-kraft.com.
+                </li>
+              </ul>
+            </div>
+            <div class="col-lg-4">
+              <img src="/images/hosting/hosting-ad-kraft-1.png" alt="" />
+            </div>
           </div>
-          <div class="service-details mt-5">
-            <div class="row">
-              <div class="col-lg-8">
-                <h4 class="text-dark">Zašto Ad Kraft web hosting?</h4>
-                <ul>
+        </div>
+        <div class="container">
+          <div class="row mt-5 mb-5">
+            <div class="col-md-4 col-sm-12 mb-3">
+              <div class="pricing-tab">
+                <span class="pricing-feat"
+                  ><span>Osnovni <br />paket</span></span
+                >
+                <h3 class="pricing-title">Basic</h3>
+                <h3 class="price">
+                  <span class="pricee">100 KM</span
+                  ><span class="pricing-dura">godišnje</span>
+                </h3>
+                <ul class="hosting-packages">
                   <li>
-                    Ad Kraft web hosting platforme su stabilne, predstavljaju
-                    najbolji odnos cijena–kvalitet, ispunjavaju najviše
-                    standarde i omogućavaju korisnicima da putem web panela, u
-                    bilo kom trenutku pristupe, mijenjaju ili čuvaju sadržaj
-                    svoje web aplikacije;
+                    <span class="price-featur">5 GB prostora</span>
+                  </li>
+
+                  <li>
+                    <span class="price-featur">1 domen</span>
+                  </li>
+
+                  <li>
+                    <span class="price-featur">Podrška 14/5 neograničeno</span>
+                  </li>
+
+                  <li>
+                    <span class="price-featur"
+                      >Mjesečni protok neograničeno</span
+                    >
                   </li>
                   <li>
-                    Ad Kraft Vam omogućava Linux hosting platformu, kao i
-                    stručan i profesinalan tim koji će Vam u svakom trenutku
-                    pomoći u slučaju bilo kakvih nedoumica ili problema vezano
-                    za naše servise;
+                    <span class="price-featur">1 e-mail nalog</span>
                   </li>
                   <li>
-                    Ad Kraft Vam omogućava besplatnu osnovu tehničku podršku na
-                    našem jeziku, putem email-a od koje ćete dobiti odgovarajući
-                    savjet, prijedlog ili rješenje vašeg problema;
-                  </li>
-                  <li>
-                    Ad Kraft Vam garantuje da ćete za svoj novac dobiti
-                    odgovarajuću profesionalnu i kvalitetnu web hosting uslugu;
-                  </li>
-                  <li>
-                    Ad Kraft serveri ispunjavaju vodeće sigurnosne standarde;
-                  </li>
-                  <li>
-                    Ad Kraft će besplatno izvršiti migraciju web i email
-                    sadržaja sa posojećih servera na našu platformu;
-                  </li>
-                  <li>Ad Kraft Vam garantuje bezbjednost podataka;</li>
-                  <li>
-                    Ad Kraft tehnička podrška je dostupna 14/5, za sva pitanja
-                    na srpskom i engleskom jeziku, putem emaila
-                    info@ad-kraft.com.
+                    <span class="price-featur">1 FTP nalog</span>
                   </li>
                 </ul>
+                <n-link
+                  to="/kontakt"
+                  rel="nofollow"
+                  class="btn btn-warning mt-3"
+                  >Izaberite odmah</n-link
+                >
               </div>
-              <div class="col-lg-4">
-                <img src="/images/hosting/hosting-ad-kraft-1.png" alt="" />
+            </div>
+
+            <div class="col-md-4 col-sm-12 mb-3">
+              <div class="pricing-tab">
+                <span class="pricing-feat"
+                  ><span>Naš<br />izbor</span></span
+                >
+                <h3 class="pricing-title">Medium</h3>
+                <h3 class="price">
+                  <span class="pricee">150 KM</span
+                  ><span class="pricing-dura">godišnje</span>
+                </h3>
+                <ul class="hosting-packages">
+                  <li>
+                    <span class="price-featur">10 GB prostora</span>
+                  </li>
+
+                  <li>
+                    <span class="price-featur">1 domen</span>
+                  </li>
+
+                  <li>
+                    <span class="price-featur">Podrška 14/5 neograničeno</span>
+                  </li>
+
+                  <li>
+                    <span class="price-featur"
+                      >Mjesečni protok neograničeno</span
+                    >
+                  </li>
+                  <li>
+                    <span class="price-featur">3 e-mail naloga</span>
+                  </li>
+
+                  <li>
+                    <span class="price-featur">neograničeno FTP naloga</span>
+                  </li>
+                </ul>
+                <n-link
+                  to="/kontakt"
+                  rel="nofollow"
+                  class="btn btn-warning mt-3"
+                  >Izaberite odmah</n-link
+                >
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-12 mb-3">
+              <div class="pricing-tab">
+                <span class="pricing-feat"><span>Popularno</span></span>
+                <h3 class="pricing-title">Premium</h3>
+                <h3 class="price">
+                  <span class="pricee">250 KM</span
+                  ><span class="pricing-dura">godišnje</span>
+                </h3>
+                <ul class="hosting-packages">
+                  <li>
+                    <span class="price-featur">30 GB prostora</span>
+                  </li>
+
+                  <li>
+                    <span class="price-featur">1 domen</span>
+                  </li>
+
+                  <li>
+                    <span class="price-featur">Podrška 14/5 neograničeno</span>
+                  </li>
+
+                  <li>
+                    <span class="price-featur"
+                      >Mjesečni protok neograničeno</span
+                    >
+                  </li>
+                  <li>
+                    <span class="price-featur">5 e-mail naloga</span>
+                  </li>
+
+                  <li>
+                    <span class="price-featur">neograničeno FTP naloga</span>
+                  </li>
+                </ul>
+                <n-link
+                  to="/kontakt"
+                  rel="nofollow"
+                  class="btn btn-warning mt-3"
+                  >Izaberite odmah</n-link
+                >
               </div>
             </div>
           </div>
         </div>
-
-        <div class="row mt-5 mb-5">
-          <div class="col-md-4 col-sm-12 mb-3">
-            <div class="pricing-tab">
-              <span class="pricing-feat"
-                ><span>Osnovni <br />paket</span></span
-              >
-              <h3 class="pricing-title">Basic</h3>
-              <h3 class="price">
-                <span class="pricee">100 KM</span
-                ><span class="pricing-dura">godišnje</span>
-              </h3>
-              <ul class="hosting-packages">
-                <li>
-                  <span class="price-featur">5 GB prostora</span>
-                </li>
-
-                <li>
-                  <span class="price-featur">1 domen</span>
-                </li>
-
-                <li>
-                  <span class="price-featur">Podrška 14/5 neograničeno</span>
-                </li>
-
-                <li>
-                  <span class="price-featur">Mjesečni protok neograničeno</span>
-                </li>
-                <li>
-                  <span class="price-featur">1 e-mail nalog</span>
-                </li>
-                <li>
-                  <span class="price-featur">1 FTP nalog</span>
-                </li>
-              </ul>
-              <n-link to="/kontakt" rel="nofollow" class="btn btn-warning mt-3"
-                >Izaberite odmah</n-link
-              >
+        <div class="container">
+          <div class="row">
+            <h2 class="text-dark mb-4">Detaljnije o paketima</h2>
+            <div class="table-responsive">
+              <table class="table table-pricing">
+                <thead>
+                  <tr class="">
+                    <th style="width: 25%" scope="col main-table-col">
+                      Paket uključuje
+                    </th>
+                    <th class="text-center" style="width: 25%" scope="col">
+                      Basic
+                    </th>
+                    <th class="text-center" style="width: 25%" scope="col">
+                      Medium
+                    </th>
+                    <th class="text-center" style="width: 25%" scope="col">
+                      Premium
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">Prostor na disku</th>
+                    <td>5 GB</td>
+                    <td>10 GB</td>
+                    <td>30 GB</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Broj domena</th>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Broj poddomena</th>
+                    <td>1</td>
+                    <td>neograničeno</td>
+                    <td>neograničeno</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Podrška 14/5</th>
+                    <td>neograničeno</td>
+                    <td>neograničeno</td>
+                    <td>neograničeno</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Mjesečni protok (traffic)</th>
+                    <td>neograničeno</td>
+                    <td>neograničeno</td>
+                    <td>neograničeno</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Broj email naloga</th>
+                    <td>1</td>
+                    <td>3</td>
+                    <td>5</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">E-mail prostor po mailboxu</th>
+                    <td>Ograničeno kapacitetom zakupljenog diska</td>
+                    <td>Ograničeno kapacitetom zakupljenog diska</td>
+                    <td>Ograničeno kapacitetom zakupljenog diska</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Broj FTP Accounts (naloga)</th>
+                    <td>1</td>
+                    <td>neograničeno</td>
+                    <td>neograničeno</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Uptime SLA</th>
+                    <td>99.99%</td>
+                    <td>99.99%</td>
+                    <td>99.99%</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Operativni sistem</th>
+                    <td>Linux</td>
+                    <td>Linux</td>
+                    <td>Linux</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Hosting Control Panel</th>
+                    <td>Plesk</td>
+                    <td>Plesk</td>
+                    <td>Plesk</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">SSL Sertifikat</th>
+                    <td>Da</td>
+                    <td>Da</td>
+                    <td>Da</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">VirusAlert monitoring</th>
+                    <td>Da</td>
+                    <td>Da</td>
+                    <td>Da</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">
+                      "On Click Install Apps (Joomla, WordPress, Concrete5,
+                      DotNetNuke, SuiteCRM, …)"
+                    </th>
+                    <td>Da</td>
+                    <td>Da</td>
+                    <td>Da</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Antispam i Antivirus zaštita</th>
+                    <td>Da</td>
+                    <td>Da</td>
+                    <td>Da</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">
+                      "Platforma podržava: pop3, imap, webmail, e-mail
+                      forwarding, white/black liste"
+                    </th>
+                    <td>Da</td>
+                    <td>Da</td>
+                    <td>Da</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">
+                      Podrška za php 5.3, 5.4, 5.5, 5.6, 7.0, 8.0.8
+                    </th>
+                    <td>Da</td>
+                    <td>Da</td>
+                    <td>Da</td>
+                  </tr>
+                  <tr>
+                    <th>Aktivacija usluge</th>
+                    <td>Da</td>
+                    <td>Da</td>
+                    <td>Da</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Besplatan automatski backup</th>
+                    <td>Da</td>
+                    <td>Da</td>
+                    <td>Da</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Cijena</th>
+                    <td>100 KM</td>
+                    <td>150 KM</td>
+                    <td>250 KM</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
-          </div>
-
-          <div class="col-md-4 col-sm-12 mb-3">
-            <div class="pricing-tab">
-              <span class="pricing-feat"
-                ><span>Naš<br />izbor</span></span
-              >
-              <h3 class="pricing-title">Medium</h3>
-              <h3 class="price">
-                <span class="pricee">150 KM</span
-                ><span class="pricing-dura">godišnje</span>
-              </h3>
-              <ul class="hosting-packages">
-                <li>
-                  <span class="price-featur">10 GB prostora</span>
-                </li>
-
-                <li>
-                  <span class="price-featur">1 domen</span>
-                </li>
-
-                <li>
-                  <span class="price-featur">Podrška 14/5 neograničeno</span>
-                </li>
-
-                <li>
-                  <span class="price-featur">Mjesečni protok neograničeno</span>
-                </li>
-                <li>
-                  <span class="price-featur">3 e-mail naloga</span>
-                </li>
-
-                <li>
-                  <span class="price-featur">neograničeno FTP naloga</span>
-                </li>
-              </ul>
-              <n-link to="/kontakt" rel="nofollow" class="btn btn-warning mt-3"
-                >Izaberite odmah</n-link
-              >
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-12 mb-3">
-            <div class="pricing-tab">
-              <span class="pricing-feat"><span>Popularno</span></span>
-              <h3 class="pricing-title">Premium</h3>
-              <h3 class="price">
-                <span class="pricee">250 KM</span
-                ><span class="pricing-dura">godišnje</span>
-              </h3>
-              <ul class="hosting-packages">
-                <li>
-                  <span class="price-featur">30 GB prostora</span>
-                </li>
-
-                <li>
-                  <span class="price-featur">1 domen</span>
-                </li>
-
-                <li>
-                  <span class="price-featur">Podrška 14/5 neograničeno</span>
-                </li>
-
-                <li>
-                  <span class="price-featur">Mjesečni protok neograničeno</span>
-                </li>
-                <li>
-                  <span class="price-featur">5 e-mail naloga</span>
-                </li>
-
-                <li>
-                  <span class="price-featur">neograničeno FTP naloga</span>
-                </li>
-              </ul>
-              <n-link to="/kontakt" rel="nofollow" class="btn btn-warning mt-3"
-                >Izaberite odmah</n-link
-              >
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-          <h2 class="text-dark mb-4">Detaljnije o paketima</h2>
-          <div class="table-responsive">
-            <table class="table table-pricing">
-              <thead>
-                <tr class="">
-                  <th style="width: 25%" scope="col main-table-col">
-                    Paket uključuje
-                  </th>
-                  <th class="text-center" style="width: 25%" scope="col">
-                    Basic
-                  </th>
-                  <th class="text-center" style="width: 25%" scope="col">
-                    Medium
-                  </th>
-                  <th class="text-center" style="width: 25%" scope="col">
-                    Premium
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <th scope="row">Prostor na disku</th>
-                  <td>5 GB</td>
-                  <td>10 GB</td>
-                  <td>30 GB</td>
-                </tr>
-                <tr>
-                  <th scope="row">Broj domena</th>
-                  <td>1</td>
-                  <td>1</td>
-                  <td>1</td>
-                </tr>
-                <tr>
-                  <th scope="row">Broj poddomena</th>
-                  <td>1</td>
-                  <td>neograničeno</td>
-                  <td>neograničeno</td>
-                </tr>
-                <tr>
-                  <th scope="row">Podrška 14/5</th>
-                  <td>neograničeno</td>
-                  <td>neograničeno</td>
-                  <td>neograničeno</td>
-                </tr>
-                <tr>
-                  <th scope="row">Mjesečni protok (traffic)</th>
-                  <td>neograničeno</td>
-                  <td>neograničeno</td>
-                  <td>neograničeno</td>
-                </tr>
-                <tr>
-                  <th scope="row">Broj email naloga</th>
-                  <td>1</td>
-                  <td>3</td>
-                  <td>5</td>
-                </tr>
-                <tr>
-                  <th scope="row">E-mail prostor po mailboxu</th>
-                  <td>Ograničeno kapacitetom zakupljenog diska</td>
-                  <td>Ograničeno kapacitetom zakupljenog diska</td>
-                  <td>Ograničeno kapacitetom zakupljenog diska</td>
-                </tr>
-                <tr>
-                  <th scope="row">Broj FTP Accounts (naloga)</th>
-                  <td>1</td>
-                  <td>neograničeno</td>
-                  <td>neograničeno</td>
-                </tr>
-                <tr>
-                  <th scope="row">Uptime SLA</th>
-                  <td>99.99%</td>
-                  <td>99.99%</td>
-                  <td>99.99%</td>
-                </tr>
-                <tr>
-                  <th scope="row">Operativni sistem</th>
-                  <td>Linux</td>
-                  <td>Linux</td>
-                  <td>Linux</td>
-                </tr>
-                <tr>
-                  <th scope="row">Hosting Control Panel</th>
-                  <td>Plesk</td>
-                  <td>Plesk</td>
-                  <td>Plesk</td>
-                </tr>
-                <tr>
-                  <th scope="row">SSL Sertifikat</th>
-                  <td>Da</td>
-                  <td>Da</td>
-                  <td>Da</td>
-                </tr>
-                <tr>
-                  <th scope="row">VirusAlert monitoring</th>
-                  <td>Da</td>
-                  <td>Da</td>
-                  <td>Da</td>
-                </tr>
-                <tr>
-                  <th scope="row">
-                    "On Click Install Apps (Joomla, WordPress, Concrete5,
-                    DotNetNuke, SuiteCRM, …)"
-                  </th>
-                  <td>Da</td>
-                  <td>Da</td>
-                  <td>Da</td>
-                </tr>
-                <tr>
-                  <th scope="row">Antispam i Antivirus zaštita</th>
-                  <td>Da</td>
-                  <td>Da</td>
-                  <td>Da</td>
-                </tr>
-                <tr>
-                  <th scope="row">
-                    "Platforma podržava: pop3, imap, webmail, e-mail forwarding,
-                    white/black liste"
-                  </th>
-                  <td>Da</td>
-                  <td>Da</td>
-                  <td>Da</td>
-                </tr>
-                <tr>
-                  <th scope="row">
-                    Podrška za php 5.3, 5.4, 5.5, 5.6, 7.0, 8.0.8
-                  </th>
-                  <td>Da</td>
-                  <td>Da</td>
-                  <td>Da</td>
-                </tr>
-                <tr>
-                  <th>Aktivacija usluge</th>
-                  <td>Da</td>
-                  <td>Da</td>
-                  <td>Da</td>
-                </tr>
-                <tr>
-                  <th scope="row">Besplatan automatski backup</th>
-                  <td>Da</td>
-                  <td>Da</td>
-                  <td>Da</td>
-                </tr>
-                <tr>
-                  <th scope="row">Cijena</th>
-                  <td>100 KM</td>
-                  <td>150 KM</td>
-                  <td>250 KM</td>
-                </tr>
-              </tbody>
-            </table>
           </div>
         </div>
 
@@ -342,10 +355,10 @@
           <div class="col-12 mt-35">
             <div class="service-details">
               <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 order-2 order-lg-1">
                   <img src="/images/hosting/hosting-ad-kraft.png" alt="" />
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 order-1 order-lg-2">
                   <h4 class="text-dark">Napomena:</h4>
                   <ul>
                     <li>
@@ -413,10 +426,10 @@
             </div>
             <div class="service-details mt-60">
               <div class="row">
-                <div class="col-lg-6">
-                  <img src="/images/hosting/backup.png" alt="">
+                <div class="col-lg-6 order-2 order-lg-1">
+                  <img src="/images/hosting/backup.png" alt="" />
                 </div>
-                <div class="col-lg-6 mt-5">
+                <div class="col-lg-6 mt-5 order-1 order-lg-2">
                   <h4 class="text-dark">II Premium nivo podrške:</h4>
                   <ul>
                     <li>Migracija više od 10 mail naloga,</li>

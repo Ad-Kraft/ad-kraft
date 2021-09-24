@@ -66,8 +66,11 @@
     @include min-screen(992) {
         position: absolute;
         top: 50px;
-        width: 900px;
+        width: 100%;
         left: -60px;
+    }
+    @include min-screen(1687) {
+        width: 900px;
     }
     @include max-screen(992, 1199) {
         top: 0px;

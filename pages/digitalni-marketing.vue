@@ -12,7 +12,7 @@
     <section class="service-details-section">
       <div class="container">
         <div class="row mb-5">
-          <div class="col-md-7">
+          <div class="col-lg-7">
             <div class="service-details">
               <div class="service-details-list">
                 <h2 class="title">Digitalni marketing skrojen za Vas</h2>
@@ -196,7 +196,7 @@
             <div class="row mtn-30">
               <!-- service-card satrt -->
               <div
-                class="col-md-4 mt-30"
+                class="col-lg-4 col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
@@ -219,7 +219,7 @@
               <!-- service-card end -->
               <!-- service-card satrt -->
               <div
-                class="col-md-4 mt-30"
+                class="col-lg-4 col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
@@ -240,7 +240,7 @@
               <!-- service-card end -->
               <!-- service-card satrt -->
               <div
-                class="col-md-4 mt-30"
+                class="col-lg-4 col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
@@ -265,7 +265,7 @@
               <!-- service-card end -->
               <!-- service-card satrt -->
               <div
-                class="col-md-4 mt-30"
+                class="col-lg-4 col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
@@ -288,7 +288,7 @@
               <!-- service-card end -->
               <!-- service-card satrt -->
               <div
-                class="col-md-4 mt-30"
+                class="col-lg-4 col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >
@@ -309,7 +309,7 @@
               <!-- service-card end -->
               <!-- service-card satrt -->
               <div
-                class="col-md-4 mt-30"
+                class="col-lg-4 col-md-6 mt-30"
                 data-aos="fade-up"
                 data-aos-delay="500"
               >

@@ -17,7 +17,7 @@
           </div>
         </div>
         <div class="col-lg-1"></div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 intro-text">
           <div v-html="caseStudy.introText"></div>
         </div>
         <div class="col-12">
@@ -28,13 +28,13 @@
                   <h3 class="title">Kategorija:</h3>
                   <span class="clients-hr"></span>
                   <p
-                  v-for="(cat, index) in caseStudy.case_studies_categories"
-                  :key="index"
-                >
-                  <n-link :to="`/projekti/kategorija/${cat.slug}`">{{
-                    cat.title
-                  }}</n-link>
-                </p>
+                    v-for="(cat, index) in caseStudy.case_studies_categories"
+                    :key="index"
+                  >
+                    <n-link :to="`/projekti/kategorija/${cat.slug}`">{{
+                      cat.title
+                    }}</n-link>
+                  </p>
                 </div>
                 <div class="case-details-col">
                   <h3 class="title">Klijent:</h3>
@@ -79,14 +79,14 @@
               </div>
             </div>
             <div class="row mt-60 mb-5">
-              <div class="col-lg-6">
+              <div class="col-lg-6 order-2 order-lg-1">
                 <img
                   class="featuredImg"
                   :src="`http://localhost:1337${solutionUrl}`"
                   alt=""
                 />
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-6 order-1 order-lg-2">
                 <div v-html="caseStudy.solutionText"></div>
               </div>
             </div>
@@ -133,7 +133,7 @@ export default {
     CaseDetailsCarousel: () => import("@/components/CaseDetailsCarousel"),
     Footer: () => import("@/components/Footer"),
     ScrollTop: () => import("@/components/ScrollTop"),
-    Cta: () => import("@/components/Cta")
+    Cta: () => import("@/components/Cta"),
   },
 
   data() {
@@ -143,8 +143,10 @@ export default {
       challengeUrl: "",
       solutionUrl: "",
       resultUrl: "",
-      ctaTitle: 'Trebate pomoć u definisanju marketing strategije na društvenim mrežama?',
-      ctaDesc: 'Naš tim pomoći će vam da odredite tko je vaša ciljana publika i da kreirate informativan, zabavan i primamljiv sadržaj koji će privući korisnike i pretvoriti vaš profil na društvenim mrežama u generator online vidljivosti vašeg branda.'
+      ctaTitle:
+        "Trebate pomoć u definisanju marketing strategije na društvenim mrežama?",
+      ctaDesc:
+        "Naš tim pomoći će vam da odredite tko je vaša ciljana publika i da kreirate informativan, zabavan i primamljiv sadržaj koji će privući korisnike i pretvoriti vaš profil na društvenim mrežama u generator online vidljivosti vašeg branda.",
     };
   },
 
@@ -164,18 +166,38 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 .featuredImg {
   width: 100%;
 }
 .intro-text {
-  font-weight: 300;
+  h3 {
+    font-weight: 300;
+  }
 }
+
+@media (max-width: 991px) {
+  .intro-text {
+    h3 {
+      margin-top: 30px;
+      line-height: 30px;
+    }
+  }
+}
+@media (max-width: 576px) {
+  .intro-text {
+    h3 {
+      font-size: 22px;
+      margin-top: 30px;
+      line-height: 30px;
+    }
+  }
+}
+
 .case-clients-card {
   background-color: transparent;
   .case-clients-card-inner {
     box-shadow: 0px 20px 140px #d6dee49e;
   }
 }
-
 </style>

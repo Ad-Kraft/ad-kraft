@@ -18,7 +18,7 @@
               <n-link to="/graficki-dizajn">Grafički dizajn</n-link>
             </li>
             <li>
-              <n-link to="/drustvene-mreze">Društvene mreže</n-link>
+              <n-link to="/marketing-na-drustvenim-mrezama">Marketing na društvenim mrežama</n-link>
             </li>
             <li>
               <n-link to="/search-engine-optimizacija">SEO</n-link>

@@ -241,10 +241,10 @@
         <div class="service-details">
           <div class="service-details-list">
             <div class="row mtn-35">
-              <div class="col-lg-6">
+              <div class="col-lg-6 order-2 order-lg-1">
                 <img src="/images/seo/seo-ad-kraft-3.png" alt="" />
               </div>
-              <div class="col-lg-6 mt-35">
+              <div class="col-lg-6 mt-35 order-1 order-lg-2">
                 <p>
                   Dakle, za oglase plaćate da budete na vrhu, naprijed i u
                   centru, a sa organskim rezultatima pretrage vi ste na vrhu,

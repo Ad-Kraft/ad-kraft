@@ -10,12 +10,12 @@
       <div class="container mt-5">
         <div class="row">
           <div
-            class="col--md-4 mb-5"
+            class="col-lg-4 mb-5"
             v-for="(caseStudy, index) in caseStudies"
             :key="index"
           >
             <div class="case-card">
-              <div class="thumb">
+              <div class="custom-thumb">
                 <n-link :to="`/projekti/${caseStudy.slug}`">
                   <img
                     class="case-shap case-shape1"
@@ -70,4 +70,17 @@ export default {
   opacity: 1;
   visibility: visible;
 }
+
+.custom-thumb {
+  box-shadow: 0px 10px 10px #d6dee49e;
+  margin-bottom: 20px;
+  transition: .5s;
+}
+
+.custom-thumb:hover {
+  box-shadow: 0px 30px 30px #d6dee49e;
+  margin-bottom: 20px;
+  transition: .5s;
+}
+
 </style>

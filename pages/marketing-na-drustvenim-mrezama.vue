@@ -241,13 +241,13 @@
         </div>
         <div class="service-details mt-100 mb-100">
           <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-6">
               <img
                 src="/images/marketing-na-drustvenim-mrezama/Marketing-na-drustvenim-mrezama-Ad-Kraft-Agencija.jpg"
                 alt="images-not_found"
               />
             </div>
-            <div class="col-lg-8">
+            <div class="col-lg-6">
               <h3 class="text-dark">
                 Marketing na društvenim mrežama prednosti:
               </h3>

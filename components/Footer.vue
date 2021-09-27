@@ -56,7 +56,10 @@
                         </n-link>
                       </li>
                       <li>
-                        <n-link class="footer-link" to="/marketing-na-drustvenim-mrezama">
+                        <n-link
+                          class="footer-link"
+                          to="/marketing-na-drustvenim-mrezama"
+                        >
                           <i class="icofont-rounded-double-right"></i>
                           Marketing na društvenim mrežama
                         </n-link>
@@ -187,6 +190,14 @@
                         alt="Google Partner bedž."
                         width="160px"
                     /></a>
+                    <a href="#">
+                      <img
+                        class="mt-4"
+                        width="160px"
+                        src="/images/footer/MSA-Partner-Badge-2021.jpg"
+                        alt=""
+                      />
+                    </a>
                   </div>
                 </div>
               </div>

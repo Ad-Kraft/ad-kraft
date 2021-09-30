@@ -6,7 +6,7 @@
     <!-- <img class="shape particle2" src="/images/hero/part0icle2.png" alt="404" /> -->
     <div class="container">
       <div class="row">
-        <div class="col-lg-5 col-xl-6">
+        <div class="col-lg-6 col-xl-6">
           <div class="hero-content">
             <h2 class="title">Agencija za digitalni marketing</h2>
             <p>
@@ -20,7 +20,7 @@
             >
           </div>
         </div>
-        <div class="col-lg-7 col-xl-6">
+        <div class="col-lg-6 col-xl-6">
           <div class="hero-img">
             <img
               class="animate-one"

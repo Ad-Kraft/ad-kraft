@@ -189,7 +189,7 @@
                         src="/images/ad-kraft-google-partner-badge.png"
                         alt="Google Partner bedž."
                         width="160px"
-                    /></a>
+                    /></a><br>
                     <a href="#">
                       <img
                         class="mt-4"

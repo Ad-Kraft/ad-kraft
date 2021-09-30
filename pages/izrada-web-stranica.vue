@@ -355,139 +355,119 @@
         </div>
 
         <div class="service-details mt-4">
-          <div class="service-details-list">
-            <h4 class="text-dark">Neki od naših klijenata</h4>
-            <div class="row">
-              <div class="col-lg-4 mt-35 mb-3">
-                <div class="porfolio-card">
-                  <a href="https://elite-dent.com/" target="_blank">
-                    <img
-                      src="/images/izrada-web-stranica/portfolio/elit-dent.png"
-                      alt=""
-                    />
-                    <h5 class="text-dark text-center mt-3">Elite Dent</h5>
-                  </a>
-                </div>
-              </div>
-              <div class="col-lg-4 mt-35 mb-3">
-                <div class="porfolio-card">
-                  <a href="https://klinikakostic.com/" target="_blank">
-                    <img
-                      src="/images/izrada-web-stranica/portfolio/dr-kostic.png"
-                      alt=""
-                    />
-                    <h5 class="text-dark text-center mt-3">SHB Dr Kostić</h5>
-                  </a>
-                </div>
-              </div>
-              <div class="col-lg-4 mt-35 mb-3">
-                <div class="porfolio-card">
-                  <a href="https://corestatehq.com/" target="_blank">
-                    <img
-                      src="/images/izrada-web-stranica/portfolio/corestatehq.png"
-                      alt=""
-                    />
-                    <h5 class="text-dark text-center mt-3">Core State</h5>
-                  </a>
-                </div>
-              </div>
-              <div class="col-lg-4 mt-35 mb-3">
-                <div class="porfolio-card">
-                  <a href="https://bigportal.ba/" target="_blank">
-                    <img
-                      src="/images/izrada-web-stranica/portfolio/bigportal.png"
-                      alt=""
-                    />
-                    <h5 class="text-dark text-center mt-3">Big Portal</h5>
-                  </a>
-                </div>
-              </div>
-              <div class="col-lg-4 mt-35 mb-3">
-                <div class="porfolio-card">
-                  <a href="https://www.jungleland.club/" target="_blank">
-                    <img
-                      src="/images/izrada-web-stranica/portfolio/jungleland.png"
-                      alt=""
-                    />
-                    <h5 class="text-dark text-center mt-3">Jungleland</h5>
-                  </a>
-                </div>
-              </div>
-              <div class="col-lg-4 mt-35 mb-3">
-                <div class="porfolio-card">
-                  <a href="https://pecenjaracarstvo.com/" target="_blank">
-                    <img
-                      src="/images/izrada-web-stranica/portfolio/pecenjara-carstvo.png"
-                      alt=""
-                    />
-                    <h5 class="text-dark text-center mt-3">Pečenjara Carstvo</h5>
-                  </a>
-                </div>
-              </div>
-              <div class="col-lg-4 mt-35 mb-3">
-                <div class="porfolio-card">
-                  <a href="https://colliderstudios.com/" target="_blank">
-                    <img
-                      src="/images/izrada-web-stranica/portfolio/colider-studio.png"
-                      alt=""
-                    />
-                    <h5 class="text-dark text-center mt-3">Collider Studio</h5>
-                  </a>
-                </div>
-              </div>
-              <div class="col-lg-4 mt-35 mb-3">
-                <div class="porfolio-card">
-                  <a href="https://foodietrend.com/" target="_blank">
-                    <img
-                      src="/images/izrada-web-stranica/portfolio/manikas-group.png"
-                      alt=""
-                    />
-                    <h5 class="text-dark text-center mt-3">Manikas Group</h5>
-                  </a>
-                </div>
-              </div>
-              <div class="col-lg-4 mt-35 mb-3">
-                <div class="porfolio-card">
-                  <a href="https://poptrade.net/" target="_blank">
-                    <img
-                      src="/images/izrada-web-stranica/portfolio/pop-trade.png"
-                      alt=""
-                    />
-                    <h5 class="text-dark text-center mt-3">Pop Trade</h5>
-                  </a>
-                </div>
-              </div>
-              <div class="col-lg-4 mt-35 mb-3">
-                <div class="porfolio-card">
-                  <a href="https://agregati-pramac.com/" target="_blank">
-                    <img
-                      src="/images/izrada-web-stranica/portfolio/pramac-agregati.png"
-                      alt=""
-                    />
-                    <h5 class="text-dark text-center mt-3">Pramac Agregati</h5>
-                  </a>
-                </div>
-              </div>
-              <div class="col-lg-4 mt-35 mb-3">
-                <div class="porfolio-card">
-                  <a href="https://www.advokatskafirmasajic.com/" target="_blank">
-                    <img
-                      src="/images/izrada-web-stranica/portfolio/sajic.png"
-                      alt=""
-                    />
-                    <h5 class="text-dark text-center mt-3">AF Sajić</h5>
-                  </a>
-                </div>
-              </div>
-              <div class="col-lg-4 mt-35 mb-3">
-                <div class="porfolio-card">
-                  <a href="https://v-sistem.com/" target="_blank">
-                    <img
-                      src="/images/izrada-web-stranica/portfolio/v-sistem-namjestaj.png"
-                      alt=""
-                    />
-                    <h5 class="text-dark text-center mt-3">V Sistem namještaj</h5>
-                  </a>
+          <div class="images-warp">
+            <div class="images-six">
+              <div class="container">
+                <h4 class="text-dark mt-60 mb-5">Neki od naših klijenata</h4>
+                <div class="row">
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div class="bpack-images-six">
+                      <img src="/images/izrada-web-stranica/portfolio/elit-dent.png" alt="bpack" />
+                      <figcaption>
+                        <h3>Elite Dent</h3>
+                      </figcaption>
+                      <a target="_blank" href="https://elite-dent.com/"></a>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div class="bpack-images-six">
+                      <img src="/images/izrada-web-stranica/portfolio/dr-kostic.png" alt="bpack" />
+                      <figcaption>
+                        <h3>HB Dr Kostić</h3>
+                      </figcaption>
+                      <a target="_blank" href="https://klinikakostic.com/"></a>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div class="bpack-images-six">
+                      <img src="/images/izrada-web-stranica/portfolio/corestatehq.png" alt="bpack" />
+                      <figcaption>
+                        <h3>Core State</h3>
+                      </figcaption>
+                      <a target="_blank" href="https://corestatehq.com/"></a>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div class="bpack-images-six">
+                      <img src="/images/izrada-web-stranica/portfolio/bigportal.png" alt="bpack" />
+                      <figcaption>
+                        <h3>Big Portal</h3>
+                      </figcaption>
+                      <a target="_blank" href="https://bigportal.ba/"></a>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div class="bpack-images-six">
+                      <img src="/images/izrada-web-stranica/portfolio/jungleland.png" alt="bpack" />
+                      <figcaption>
+                        <h3>Jungleland</h3>
+                      </figcaption>
+                      <a target="_blank" href="https://www.jungleland.club/"></a>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div class="bpack-images-six">
+                      <img src="/images/izrada-web-stranica/portfolio/pecenjara-carstvo.png" alt="bpack" />
+                      <figcaption>
+                        <h3>Pečenjara Carstvo</h3>
+                      </figcaption>
+                      <a target="_blank" href="https://pecenjaracarstvo.com/"></a>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div class="bpack-images-six">
+                      <img src="/images/izrada-web-stranica/portfolio/colider-studio.png" alt="bpack" />
+                      <figcaption>
+                        <h3>Collider Studio</h3>
+                      </figcaption>
+                      <a target="_blank" href="https://colliderstudios.com"></a>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div class="bpack-images-six">
+                      <img src="/images/izrada-web-stranica/portfolio/manikas-group.png" alt="bpack" />
+                      <figcaption>
+                        <h3>Manikas Group</h3>
+                      </figcaption>
+                      <a target="_blank" href="https://foodietrend.com/"></a>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div class="bpack-images-six">
+                      <img src="/images/izrada-web-stranica/portfolio/pop-trade.png" alt="bpack" />
+                      <figcaption>
+                        <h3>Pop Trade</h3>
+                      </figcaption>
+                      <a target="_blank" href="https://poptrade.net/"></a>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div class="bpack-images-six">
+                      <img src="/images/izrada-web-stranica/portfolio/pramac-agregati.png" alt="bpack" />
+                      <figcaption>
+                        <h3>Pramac Agregati</h3>
+                      </figcaption>
+                      <a target="_blank" href="https://agregati-pramac.com/"></a>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div class="bpack-images-six">
+                      <img src="/images/izrada-web-stranica/portfolio/sajic.png" alt="bpack" />
+                      <figcaption>
+                        <h3>AF Sajić</h3>
+                      </figcaption>
+                      <a target="_blank" href="https://www.advokatskafirmasajic.com/"></a>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-12 mb-3">
+                    <div class="bpack-images-six">
+                      <img src="/images/izrada-web-stranica/portfolio/v-sistem-namjestaj.png" alt="bpack" />
+                      <figcaption>
+                        <h3>V Sistem namještaj</h3>
+                      </figcaption>
+                      <a target="_blank" href="https://v-sistem.com/"></a>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -583,4 +563,80 @@ ul li {
   width: 60px;
 }
 
+.bpack-images-six {
+	background-color: #222;
+	overflow: hidden;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	* {
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		-webkit-transition: all 0.45s ease;
+		transition: all 0.45s ease;
+	}
+	&:after {
+		background-color: #69B5F4;
+		bottom: 0;
+		content: "";
+		height: 0%;
+		right: 0;
+		position: absolute;
+		width: 10px;
+		-webkit-transition: all 0.45s ease;
+		transition: all 0.45s ease;
+	}
+	img {
+		vertical-align: top;
+		max-width: 100%;
+		backface-visibility: hidden;
+	}
+	figcaption {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		align-items: center;
+		z-index: 1;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		line-height: 1em;
+		opacity: 0;
+	}
+	h3 {
+		font-size: 1em;
+		font-weight: 400;
+		letter-spacing: 1px;
+		font-size: 16px;
+		text-transform: capitalize;
+		color: #fff;
+		span {
+			display: block;
+			font-weight: 600;
+			font-size: 20px;
+			padding-top: 4px;
+		}
+	}
+	a {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		z-index: 1;
+	}
+	&:hover {
+		>img {
+			opacity: 0.25;
+		}
+		&:after {
+			height: 100%;
+		}
+		figcaption {
+			opacity: 1;
+		}
+	}
+}
 </style>

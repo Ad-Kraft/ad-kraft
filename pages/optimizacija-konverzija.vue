@@ -244,7 +244,7 @@
         <div class="service-details mt-100 mb-100">
           <div class="service-details-list">
             <div class="row">
-              <div class="col-lg-7">
+              <div class="col-lg-7 col-md-7">
                 <h4 class="text-dark">Šta dobijate uslugom CRO?</h4>
                 <ul>
                   <li>Detaljnu analizu ponašanja korisnika web stranice.</li>
@@ -264,7 +264,7 @@
                   <li>Segmentaciju korisnika, na osnovu trenutnih korisnika</li>
                 </ul>
               </div>
-              <div class="col-lg-5">
+              <div class="col-lg-5 col-md-5">
                 <img
                   src="/images/optimizacija-konverzije/optimizacija-stope-konverzija.jpg"
                   alt=""

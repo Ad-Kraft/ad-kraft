@@ -10,7 +10,7 @@
       <div class="container mt-5">
         <div class="row">
           <div
-            class="col--md-4 mb-5"
+            class="col-md-4 mb-5"
             v-for="(caseStudy, index) in caseStudies"
             :key="index"
           >

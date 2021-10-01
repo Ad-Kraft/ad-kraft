@@ -129,7 +129,7 @@
                   dio efikasne marketinške strategije.
                 </p>
                 <n-link to="/graficki-dizajn" class="btn btn-outline-secondary"
-                  >Detaljnije +</n-link
+                  >Saznajte više</n-link
                 >
               </div>
             </div>
@@ -154,7 +154,7 @@
                 <n-link
                   to="/optimizacija-konverzija"
                   class="btn btn-outline-secondary"
-                  >Detaljnije +</n-link
+                  >Saznajte više</n-link
                 >
               </div>
             </div>
@@ -176,7 +176,7 @@
                   cijena.
                 </p>
                 <n-link to="/hosting" class="btn btn-outline-secondary"
-                  >Detaljnije +</n-link
+                  >Saznajte više</n-link
                 >
               </div>
             </div>

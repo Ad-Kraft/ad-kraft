@@ -342,10 +342,10 @@
           <div class="col-12 mt-35">
             <div class="service-details">
               <div class="row mt-5 mb-5">
-                <div class="col-lg-6">
+                <div class="col-lg-6 order-2 order-lg-1">
                   <img src="/images/hosting/ad-kraft-hosting-3.png" alt="" />
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 order-1 order-lg-2">
                   <h4 class="text-dark">Napomena:</h4>
                   <ul>
                     <li>
@@ -413,10 +413,10 @@
             </div>
             <div class="service-details">
               <div class="row mt-5 mb-5">
-                <div class="col-lg-6">
+                <div class="col-lg-6 order-2 order-lg-1">
                   <img src="/images/hosting/ad-kraft-hosting-2.png" alt="">
                 </div>
-                <div class="col-lg-6 mt-60">
+                <div class="col-lg-6 mt-60 order-1 order-lg-2">
                   <h4 class="text-dark">II Premium nivo podrške:</h4>
                   <ul>
                     <li>Migracija više od 10 mail naloga,</li>
@@ -513,6 +513,12 @@ export default {
 
 
 <style scoped>
+
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
 ul {
   margin: 20px;
 }

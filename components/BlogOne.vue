@@ -8,7 +8,7 @@
             data-aos="fade-up"
             data-aos-delay="100"
           >
-            <h3 class="title">Poslednje objave na našem blogu.</h3>
+            <h3 class="title">Najnovije sa Ad Kraft bloga</h3>
             <span class="hr-primary mt-4"></span>
           </div>
           <div

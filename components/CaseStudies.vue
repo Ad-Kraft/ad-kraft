@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-12" data-aos="fade-up" data-aos-delay="100">
           <div class="section-title primary text-center pb-100">
-            <h3 class="title">Studije slučaja</h3>
+            <h3 class="title">Izdvojeni uspješni projekati</h3>
             <span class="hr-secondary"></span>
           </div>
         </div>

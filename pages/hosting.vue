@@ -18,39 +18,51 @@
             </p>
           </div>
           <div class="service-details">
-            <h4 class="text-dark">Zašto Ad Kraft web hosting?</h4>
-            <ul>
-              <li>
-                Ad Kraft web hosting platforme su stabilne, predstavljaju
-                najbolji odnos cijena–kvalitet, ispunjavaju najviše standarde i
-                omogućavaju korisnicima da putem web panela, u bilo kom trenutku
-                pristupe, mijenjaju ili čuvaju sadržaj svoje web aplikacije;
-              </li>
-              <li>
-                Ad Kraft Vam omogućava Linux hosting platformu, kao i stručan i
-                profesinalan tim koji će Vam u svakom trenutku pomoći u slučaju
-                bilo kakvih nedoumica ili problema vezano za naše servise;
-              </li>
-              <li>
-                Ad Kraft Vam omogućava besplatnu osnovu tehničku podršku na
-                našem jeziku, putem email-a od koje ćete dobiti odgovarajući
-                savjet, prijedlog ili rješenje vašeg problema;
-              </li>
-              <li>
-                Ad Kraft Vam garantuje da ćete za svoj novac dobiti odgovarajuću
-                profesionalnu i kvalitetnu web hosting uslugu;
-              </li>
-              <li>Ad Kraft serveri ispunjavaju vodeće sigurnosne standarde;</li>
-              <li>
-                Ad Kraft će besplatno izvršiti migraciju web i email sadržaja sa
-                posojećih servera na našu platformu;
-              </li>
-              <li>Ad Kraft Vam garantuje bezbjednost podataka;</li>
-              <li>
-                Ad Kraft tehnička podrška je dostupna 14/5, za sva pitanja na
-                srpskom i engleskom jeziku, putem emaila info@ad-kraft.com.
-              </li>
-            </ul>
+            <div class="row">
+              <div class="col-lg-8">
+                <h4 class="text-dark">Zašto Ad Kraft web hosting?</h4>
+                <ul>
+                  <li>
+                    Ad Kraft web hosting platforme su stabilne, predstavljaju
+                    najbolji odnos cijena–kvalitet, ispunjavaju najviše
+                    standarde i omogućavaju korisnicima da putem web panela, u
+                    bilo kom trenutku pristupe, mijenjaju ili čuvaju sadržaj
+                    svoje web aplikacije;
+                  </li>
+                  <li>
+                    Ad Kraft Vam omogućava Linux hosting platformu, kao i
+                    stručan i profesinalan tim koji će Vam u svakom trenutku
+                    pomoći u slučaju bilo kakvih nedoumica ili problema vezano
+                    za naše servise;
+                  </li>
+                  <li>
+                    Ad Kraft Vam omogućava besplatnu osnovu tehničku podršku na
+                    našem jeziku, putem email-a od koje ćete dobiti odgovarajući
+                    savjet, prijedlog ili rješenje vašeg problema;
+                  </li>
+                  <li>
+                    Ad Kraft Vam garantuje da ćete za svoj novac dobiti
+                    odgovarajuću profesionalnu i kvalitetnu web hosting uslugu;
+                  </li>
+                  <li>
+                    Ad Kraft serveri ispunjavaju vodeće sigurnosne standarde;
+                  </li>
+                  <li>
+                    Ad Kraft će besplatno izvršiti migraciju web i email
+                    sadržaja sa posojećih servera na našu platformu;
+                  </li>
+                  <li>Ad Kraft Vam garantuje bezbjednost podataka;</li>
+                  <li>
+                    Ad Kraft tehnička podrška je dostupna 14/5, za sva pitanja
+                    na srpskom i engleskom jeziku, putem emaila
+                    info@ad-kraft.com.
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-4">
+                <img src="/images/hosting/ad-kraft-hosting.png" alt="" />
+              </div>
+            </div>
           </div>
         </div>
 
@@ -329,78 +341,100 @@
         <div class="row mtn-35">
           <div class="col-12 mt-35">
             <div class="service-details">
-              <h4 class="text-dark">Napomena:</h4>
-              <ul>
-                <li>
-                  SSL/TLS Certificates vam automatski omogućava bolji search
-                  ranking na Google-u (pretraživaču);
-                </li>
-                <li>
-                  Ad Kraft nije odgovaran za sadržaj i funkcionalnost samog
-                  sadržaja web sajta na platformi, za navedene stavke nadležan
-                  je webmaster (onaj ko je programirao/kodirao samu web
-                  prezentaciju)
-                </li>
-                <li>Obračunavanje se vrši prije izvršene usluge</li>
-                <li>
-                  Zakup domena i održavanje naziva domena se naplaćuje 40,00 KM
-                  bez PDV-a na godišnjem nivou.
-                </li>
-                <li>
-                  Popust 10% za zakup Ad Kraft Hosting paketa na 2 (dvije)
-                  godine.
-                </li>
-                <p class="mt-3">
-                  Ad Kraft Web Hosting usluga obezbjeđuje Osnovni nivo podrške,
-                  a koji je uključen u godišnji zakup Ad Kraft Web Hostinga. Za
-                  dodatne usluge podrške koje se definišu po želji klijenta, Ad
-                  Kraft obezbjeđuje Premium nivo podrške koji se dodatno
-                  fakturiše (85,00KM / inženjer satu).
-                </p>
-              </ul>
+              <div class="row mt-5 mb-5">
+                <div class="col-lg-6">
+                  <img src="/images/hosting/ad-kraft-hosting-3.png" alt="" />
+                </div>
+                <div class="col-lg-6">
+                  <h4 class="text-dark">Napomena:</h4>
+                  <ul>
+                    <li>
+                      SSL/TLS Certificates vam automatski omogućava bolji search
+                      ranking na Google-u (pretraživaču);
+                    </li>
+                    <li>
+                      Ad Kraft nije odgovaran za sadržaj i funkcionalnost samog
+                      sadržaja web sajta na platformi, za navedene stavke
+                      nadležan je webmaster (onaj ko je programirao/kodirao samu
+                      web prezentaciju)
+                    </li>
+                    <li>Obračunavanje se vrši prije izvršene usluge</li>
+                    <li>
+                      Zakup domena i održavanje naziva domena se naplaćuje 40,00
+                      KM bez PDV-a na godišnjem nivou.
+                    </li>
+                    <li>
+                      Popust 10% za zakup Ad Kraft Hosting paketa na 2 (dvije)
+                      godine.
+                    </li>
+                    <p class="mt-3">
+                      Ad Kraft Web Hosting usluga obezbjeđuje Osnovni nivo
+                      podrške, a koji je uključen u godišnji zakup Ad Kraft Web
+                      Hostinga. Za dodatne usluge podrške koje se definišu po
+                      želji klijenta, Ad Kraft obezbjeđuje Premium nivo podrške
+                      koji se dodatno fakturiše (85,00KM / inženjer satu).
+                    </p>
+                  </ul>
+                </div>
+              </div>
             </div>
             <div class="service-details">
-              <h4 class="text-dark">I Osnovni nivo podrške:</h4>
-              <ul>
-                <li>Otvaranje hosting naloga na serveru,</li>
-                <li>Kreiranje subskripcije za domen,</li>
-                <li>Postavljanje web sadržaja na hosting,</li>
-                <li>
-                  Kreiranje korisničkih naloga i proslijeđivanje korisniku
-                  pristupnih parametara,
-                </li>
-                <li>
-                  DNS konfiguracija, inicijalna konfiguracija i promjene DNS
-                  zapisa pri prelasku na Ad Kraft hosting,
-                </li>
-                <li>Otvaranje mail naloga,</li>
-                <li>Migracija do 10 mail naloga,</li>
-                <li>
-                  Inicijalna migracija web prezentacije sa postojećeg hostinga,
-                </li>
-                <li>
-                  Sedmični backup sadržaja se radi na sedmičnom nivou uz 3
-                  zadnja raspoloživa backup-a,
-                </li>
-              </ul>
+              <div class="row mt-5 mb-5">
+                <div class="col-lg-6">
+                  <h4 class="text-dark">I Osnovni nivo podrške:</h4>
+                  <ul>
+                    <li>Otvaranje hosting naloga na serveru,</li>
+                    <li>Kreiranje subskripcije za domen,</li>
+                    <li>Postavljanje web sadržaja na hosting,</li>
+                    <li>
+                      Kreiranje korisničkih naloga i proslijeđivanje korisniku
+                      pristupnih parametara,
+                    </li>
+                    <li>
+                      DNS konfiguracija, inicijalna konfiguracija i promjene DNS
+                      zapisa pri prelasku na Ad Kraft hosting,
+                    </li>
+                    <li>Otvaranje mail naloga,</li>
+                    <li>Migracija do 10 mail naloga,</li>
+                    <li>
+                      Inicijalna migracija web prezentacije sa postojećeg
+                      hostinga,
+                    </li>
+                    <li>
+                      Sedmični backup sadržaja se radi na sedmičnom nivou uz 3
+                      zadnja raspoloživa backup-a,
+                    </li>
+                  </ul>
+                </div>
+                <div class="col-lg-6">
+                  <img src="/images/hosting/ad-kraft-hosting-1.png" alt="" />
+                </div>
+              </div>
             </div>
             <div class="service-details">
-              <h4 class="text-dark">II Premium nivo podrške:</h4>
-              <ul>
-                <li>Migracija više od 10 mail naloga,</li>
-                <li>
-                  Dnevni back-up podataka uz raspoloživost 3 posljednja dana
-                  (inženjer sat),
-                </li>
-                <li>
-                  Otklanjanje problema sa web prezentacijama (ažuriranje CMS,
-                  plugin-ova, uklanjanje virusa, …).
-                </li>
-                <p class="mt-3">
-                  Ovaj nivo podrške se fakturiše jednokratno prema utrošenom
-                  vremenu – ponuda prema zahtjevu.
-                </p>
-              </ul>
+              <div class="row mt-5 mb-5">
+                <div class="col-lg-6">
+                  <img src="/images/hosting/ad-kraft-hosting-2.png" alt="">
+                </div>
+                <div class="col-lg-6 mt-60">
+                  <h4 class="text-dark">II Premium nivo podrške:</h4>
+                  <ul>
+                    <li>Migracija više od 10 mail naloga,</li>
+                    <li>
+                      Dnevni back-up podataka uz raspoloživost 3 posljednja dana
+                      (inženjer sat),
+                    </li>
+                    <li>
+                      Otklanjanje problema sa web prezentacijama (ažuriranje
+                      CMS, plugin-ova, uklanjanje virusa, …).
+                    </li>
+                    <p class="mt-3">
+                      Ovaj nivo podrške se fakturiše jednokratno prema utrošenom
+                      vremenu – ponuda prema zahtjevu.
+                    </p>
+                  </ul>
+                </div>
+              </div>
             </div>
           </div>
         </div>

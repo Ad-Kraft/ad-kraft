@@ -6,9 +6,9 @@
           <div class="section-title primary text-center pb-100">
             <h3 class="title">Osvojite digitalni prostor na pravi način</h3>
             <h6>
-              Stvorite više klijenata, napravite više prodaje na web stranici i
-              zadržite korisnike na svojoj stranici koristeći naše provjerene
-              tehnike u izradi web stranice.
+              Stvorite veći broj klijenata, napravite više prodaje i
+              zadržite korisnike na svojoj web stranici koristeći naše provjerene
+              metode u izradi web stranica, digitalnog marketinga i SEO-a.
             </h6>
             <span class="hr-secondary"></span>
           </div>

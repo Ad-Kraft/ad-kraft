@@ -3,8 +3,7 @@
     <div class="container">
       <div class="brand-card bg-cover">
         <p class="text-center">
-          Trusted by <span class="text-gradient">8,980+</span> of The World's
-          Best Organization.
+          Vjeruje nam <span class="text-gradient">80+</span> klijenata širom svijeta.
         </p>
         <swiper :options="brandCarousel">
           <div
@@ -82,8 +81,20 @@ export default {
           alt: "brand name",
         },
         {
-          imgSrc: "/images/brand-logo/2.png",
-          hoverImgSrc: "/images/brand-logo/2.1.png",
+          imgSrc: "/images/brand-logo/5.png",
+          hoverImgSrc: "/images/brand-logo/5.1.png",
+          url: "#",
+          alt: "brand name",
+        },
+        {
+          imgSrc: "/images/brand-logo/6.png",
+          hoverImgSrc: "/images/brand-logo/6.1.png",
+          url: "#",
+          alt: "brand name",
+        },
+                {
+          imgSrc: "/images/brand-logo/7.png",
+          hoverImgSrc: "/images/brand-logo/7.1.png",
           url: "#",
           alt: "brand name",
         },

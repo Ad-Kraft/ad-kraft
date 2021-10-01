@@ -10,7 +10,7 @@
         <div class="col-md-6 col-xl-5 mt-30">
           <div class="about-cards">
             <div class="about-card-list">
-              <h4 class="title">Dobro došli u Ad Kraft</h4>
+              <h4 class="title">Digitalni stručnjaci blizu Vas</h4>
               <p>
                 Ad Kraft je digitalna agencija sa kompletnom uslugom. Od web
                 dizajna, preko SEO optimizacije i PPC oglašavanja, pa do vođenja

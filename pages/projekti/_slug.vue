@@ -143,8 +143,8 @@ export default {
       challengeUrl: "",
       solutionUrl: "",
       resultUrl: "",
-      ctaTitle: 'Trebate pomoć u definisanju marketing strategije na društvenim mrežama?',
-      ctaDesc: 'Naš tim pomoći će vam da odredite tko je vaša ciljana publika i da kreirate informativan, zabavan i primamljiv sadržaj koji će privući korisnike i pretvoriti vaš profil na društvenim mrežama u generator online vidljivosti vašeg brenda.'
+      ctaTitle: 'Saznajte kako se ovi rezultati mogu ostvariti i kod vas',
+      ctaDesc: 'Sve počinje od određivanja cilja i preciznog planiranja svih aktivnosti koje su potrebne da bi se ostvarili najbilji mogući rezultati.'
     };
   },
 

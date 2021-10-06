@@ -15,7 +15,7 @@
             :key="index"
           >
             <div class="case-card">
-              <div class="thumb">
+              <div class="custom-thumb">
                 <n-link :to="`/projekti/${caseStudy.slug}`">
                   <img
                     class="case-shap case-shape1"
@@ -69,5 +69,15 @@ export default {
 .case-content {
   opacity: 1;
   visibility: visible;
+}
+.custom-thumb {
+  box-shadow: 0px 10px 10px #d6dee49e;
+  margin-bottom: 20px;
+  transition: .5s;
+}
+.custom-thumb:hover {
+  box-shadow: 0px 30px 30px #d6dee49e;
+  margin-bottom: 20px;
+  transition: .5s;
 }
 </style>

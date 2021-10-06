@@ -10,9 +10,9 @@
     />
 
     <section class="service-details-section">
-      <div class="container">
+      <div class="container-fluid pl-4 pr-4">
         <div class="row mb-5">
-          <div class="col-lg-7">
+          <div class="col-lg-8">
             <div class="service-details">
               <div class="service-details-list">
                 <h2 class="title">Digitalni marketing skrojen za Vas</h2>
@@ -36,7 +36,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-5">
+          <div class="col-lg-4">
             <img
               src="/images/service-details/digitalni-marketing/digitalni-marketing-Ad-Kraft-Agencija-za-digitalni-marketing-i-izradu-web-stranica.png"
               alt="images-not_found"
@@ -202,7 +202,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h4 class="text-dark mb-3">
+                    <h4 class="text-light mb-3">
                       Pruža jednake mogućnosti svima
                     </h4>
                     <p>
@@ -225,7 +225,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h4 class="text-dark mb-3">Pruža mjerljive rezultate</h4>
+                    <h4 class="text-light mb-3">Pruža mjerljive rezultate</h4>
                     <p>
                       Za razliku od tradicionalnih metoda i kanala oglašavanja,
                       gdje ne možemo sa sigurnošću reći ni znati koliko je ljudi
@@ -246,7 +246,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h4 class="text-dark mb-3">Povećava vidljivost</h4>
+                    <h4 class="text-light mb-3">Povećava vidljivost</h4>
                     <p>
                       Digitalni marketing značajno povećava vašu vidljivost na
                       internetu, a time i vašu izloženost ciljanoj publici,
@@ -271,7 +271,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h4 class="text-dark mb-3">Povećava prihode</h4>
+                    <h4 class="text-light mb-3">Povećava prihode</h4>
                     <p>
                       Uspješna strategija digitalnog marketinga rezultira
                       povećanim brojem klijenata, a kao rezultat toga, dolazi i
@@ -294,7 +294,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h4 class="text-dark mb-3">
+                    <h4 class="text-light mb-3">
                       Odličan omjer uloženog i dobivenog
                     </h4>
                     <p>
@@ -315,7 +315,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h4 class="text-dark mb-3">
+                    <h4 class="text-light mb-3">
                       Omogućuje ciljanje prave publike
                     </h4>
                     <p>

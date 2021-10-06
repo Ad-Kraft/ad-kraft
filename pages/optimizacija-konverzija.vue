@@ -10,7 +10,7 @@
     />
 
     <section class="service-details-section">
-      <div class="container">
+      <div class="container-fluid pl-4 pr-4">
         <div class="row mtn-35">
           <div class="col-12 mt-35">
             <div class="service-details">
@@ -129,7 +129,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">Bounce Rate</h4>
+                    <h4 class="text-light">Bounce Rate</h4>
                     <p>
                       CRO optimizacijom smanjuje se Bounce Rate. Doslovno bi ga
                       preveli kao odskočna stopa, a zapravo znači postotak
@@ -158,7 +158,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">Heat Map</h4>
+                    <h4 class="text-light">Heat Map</h4>
                     <p>
                       Uvijek vas je interesovalo na kojem su se djelu stranice
                       korisnici najviše zadržavali? Ili na koje im je elemente
@@ -188,7 +188,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">A/B testiranje</h4>
+                    <h4 class="text-light">A/B testiranje</h4>
                     <p>
                       Jeste li se ikada pitali šta će bolje proći? Naslov
                       napisan u sveprisutnom Arial fontu ili bi radije kockali
@@ -221,7 +221,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">Landing stranice (Odredišne stranice)</h4>
+                    <h4 class="text-light">Landing stranice (Odredišne stranice)</h4>
                     <p>
                        To može biti stranica “o nama”, vaš blog, kategorija
                       proizvoda ili pak početna stranica. Na primjer, napisali

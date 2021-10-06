@@ -10,13 +10,13 @@
     />
 
     <section class="service-details-section">
-      <div class="container">
+      <div class="container-fluid pl-4 pr-4">
         <div class="row mtn-35">
           <div class="col-12 mt-35">
             <div class="service-details">
               <div class="service-details-list">
                 <div class="row">
-                  <div class="col-lg-6">
+                  <div class="col-lg-8">
                     <h2 class="title">Search Engine optimizacija | SEO</h2>
                     <p>
                       SEO poboljšava vidljivosti i prisutnost web stranice na
@@ -39,7 +39,7 @@
                       SEO stručnjaka Vendi Piersall:
                     </p>
                   </div>
-                  <div class="col-lg-6">
+                  <div class="col-lg-4">
                     <img src="/images/seo/seo-ad-kraft.png" alt="" />
                   </div>
                 </div>
@@ -97,7 +97,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">SEO na stranici</h4>
+                    <h4 class="text-light">SEO na stranici</h4>
                     <p>
                       Se odnosi na sadržaj na vašim veb stranicama, uključujući
                       tekst, ključne riječi i slike. Moraćete da se usredsredite
@@ -124,7 +124,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">Tehnički SEO</h4>
+                    <h4 class="text-light">Tehnički SEO</h4>
                     <p>
                       Se ne odnosi na sadržaj koji korisnik vidi na vašoj veb
                       stranici. Umjesto toga, fokusira se na tehničke aspekte te
@@ -156,7 +156,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">SEO van stranice</h4>
+                    <h4 class="text-light">SEO van stranice</h4>
                     <p>
                       Se odnosi na sadržaj koji se ne nalazi na vašoj veb
                       lokaciji. Uključuje sadržaj na drugim veb lokacijama koji
@@ -187,7 +187,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">Lokalni SEO</h4>
+                    <h4 class="text-light">Lokalni SEO</h4>
                     <p>
                       Se fokusira na to da se vaša veb lokacija rangira prema
                       terminima specifičnim za lokaciju. Lokalni SEO može
@@ -268,7 +268,7 @@
         <div class="service-details">
           <div class="service-details-list">
             <div class="row mtn-35">
-              <div class="col-lg-12 mt-35">
+              <div class="col-lg-12 mt-60">
                 <p>
                   Kvalitetno upravljanje internet reputacijom povećava Vaš ugled
                   i rangiranje na internet pretraživačima, povećava internet

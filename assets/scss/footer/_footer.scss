@@ -161,11 +161,6 @@
         z-index: 1;
     }
 }
-.footer-card {
-    background: rgb(32 32 32 / 80%);
-    border-radius: 15px;
-    box-shadow: 0 0 20px 7px #1c1c1c;
-}
 
 .footer-widget {
     .footer-logo {
@@ -203,7 +198,7 @@
         &::before {
             width: 30px;
             left: 0px;
-            background-color: #F08AF8;
+            background-color: #ff75b8;
         }
 
         &::after {
@@ -223,7 +218,7 @@
         font-size: 16px;
         padding: 10px 0px;
         .icon {
-            background-color: #F08AF8;
+            background-color: #ff75b8;
             background-clip: text;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -234,7 +229,7 @@
         a {
             color: inherit;
             &:hover {
-                color: $warning;
+                color: #ff75b8;
             }
         }
     }
@@ -242,10 +237,10 @@
 
 .footer-link {
     font-family: $font-family-base;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 2.533;
     color: #c6c9d8;
-    font-size: 15px;
+    font-size: 18px;
     i {
         margin-right: 20px;
     }
@@ -273,7 +268,7 @@
     color: $white;
     font-size: 15px;
     &:hover {
-        background: linear-gradient(to right, #F08AF8 0%, #63B6F3 100%);
+        background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
         background-clip: text;
         -webkit-text-fill-color: transparent;
     }
@@ -289,7 +284,7 @@
             color: $warning;
         }
         i {
-            background: linear-gradient(to right, #F08AF8 0%, #63B6F3 100%);
+            background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
             background-clip: text;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -331,11 +326,11 @@
     fill: #f0f4fc;
 }
 .cls-7 {
-    fill: #F08AF8;
+    fill: #ff75b8;
 }
 
 .cls-8 {
-    stroke: #F08AF8;
+    stroke: #ff75b8;
     fill: none;
     stroke-width: 2;
     stroke-dasharray: 800;
@@ -352,6 +347,6 @@
     }
     100% {
         stroke-dashoffset: 0;
-        fill: #F08AF8;
+        fill: #ff75b8;
     }
 }

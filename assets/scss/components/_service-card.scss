@@ -104,7 +104,7 @@
 .service-content {
     flex: 1;
     .title {
-        color: $primary;
+        color: #fff;
         font-weight: 400;
         line-height: 0.8;
         margin-bottom: 25px;
@@ -115,17 +115,18 @@
     }
     p {
         margin-bottom: 30px;
+        color: #fff;
     }
 }
 
 .btn-outline-danger {
     border: solid 2px transparent;
     background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),
-        linear-gradient(to right, #F08AF8, #63B6F3);
+        linear-gradient(to right, #ff75b8, #736ae4);
     background-origin: border-box;
     background-clip: content-box, border-box;
-    box-shadow: 2px 1000px 1px #f7faff inset;
-    color: $primary;
+    box-shadow: 2px 1000px 1px #ff75b8 inset;
+    color: #fff;
     &:hover {
         box-shadow: none;
         color: $white;
@@ -135,12 +136,11 @@
 
 .btn-outline-warning {
     border: solid 2px transparent;
-    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),
-        linear-gradient(to right, #F08AF8, #63B6F3);
+    background-color: #ff75b8;
     background-origin: border-box;
     background-clip: content-box, border-box;
-    box-shadow: 2px 1000px 1px #f7faff inset;
-    color: $primary;
+    box-shadow: 2px 1000px 1px #ff75b8 inset;
+    color: #fff;
     &:hover {
         box-shadow: none;
         color: $white;
@@ -151,7 +151,7 @@
 .btn-outline-primary {
     border: solid 2px transparent;
     background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),
-        linear-gradient(to right, #F08AF8, #63B6F3);
+        linear-gradient(to right, #ff75b8, #736ae4);
     background-origin: border-box;
     background-clip: content-box, border-box;
     box-shadow: 2px 1000px 1px #f7faff inset;
@@ -165,7 +165,7 @@
 .btn-outline-secondary {
     border: solid 2px transparent;
     background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),
-        linear-gradient(to right, #F08AF8, #63B6F3);
+        linear-gradient(to right, #ff75b8, #736ae4);
     background-origin: border-box;
     background-clip: content-box, border-box;
     box-shadow: 2px 1000px 1px #f7faff inset;

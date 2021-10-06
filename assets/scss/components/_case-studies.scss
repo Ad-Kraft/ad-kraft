@@ -1,5 +1,6 @@
 .case-studies-section {
-    padding-bottom: 60px;
+    padding-bottom: 150px;
+    padding-top: 150px;
     .container {
         @include min-screen(1800) {
             max-width: 1620px;
@@ -73,7 +74,7 @@
         }
     }
     p {
-        color: #F08AF8;
+        color: #ff75b8;
     }
 }
 

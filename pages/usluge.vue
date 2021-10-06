@@ -7,7 +7,7 @@
     <Breadcrumb title="Usluge" active-title="Usluge" />
 
     <section class="service-section section-ptb-150">
-      <div class="container">
+      <div class="container-fluid">
         <div class="row mtn-30">
           <!-- service-card start -->
           <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">

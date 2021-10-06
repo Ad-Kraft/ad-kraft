@@ -1,6 +1,6 @@
 <template>
   <section class="service-section section-ptb-150">
-    <div class="container">
+    <div class="container-fluid">
       <div class="row">
         <div class="col-12" data-aos="fade-up" data-aos-delay="200">
           <div class="section-title primary text-center pb-100">
@@ -32,7 +32,7 @@
                 Garantujemo postizanje postavljenih ciljeva, poput povećane
                 prodaje ili većeg nivoa informisanosti.
               </p>
-              <n-link to="/digitalni-marketing" class="btn btn-outline-danger"
+              <n-link to="/digitalni-marketing" class="btn btn-warning"
                 >Saznajte više</n-link
               >
             </div>
@@ -56,7 +56,7 @@
                 dizajna, mi brinemo da Vaša web stranica ispuni i osnovni cilj –
                 konverziju.
               </p>
-              <n-link to="/izrada-web-stranica" class="btn btn-outline-warning"
+              <n-link to="/izrada-web-stranica" class="btn btn-warning"
                 >Saznajte više</n-link
               >
             </div>
@@ -80,7 +80,7 @@
                 medija brinuće za Vaše postojeće korisnike, istovremeno
                 privlačeći nove.
               </p>
-              <n-link to="/marketing-na-drustvenim-mrezama" class="btn btn-outline-primary"
+              <n-link to="/marketing-na-drustvenim-mrezama" class="btn btn-warning"
                 >Saznajte više</n-link
               >
             </div>
@@ -105,7 +105,7 @@
               </p>
               <n-link
                 to="/search-engine-optimizacija"
-                class="btn btn-outline-secondary"
+                class="btn btn-warning"
                 >Saznajte više</n-link
               >
             </div>
@@ -124,3 +124,8 @@
   </section>
 </template>
 
+<style lang="scss">
+.service-card {
+  background: #202020;
+}
+</style>

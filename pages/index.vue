@@ -10,63 +10,60 @@
 
     <ServiceOne />
 
-    <WorkingProcess />
-
     <section class="about-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6">
-            <div
-              class="about-img-content"
-              data-aos="zoom-in"
-              data-aos-delay="100"
-            >
-              <img
-                src="/images/ad-kraft-google-partner.jpg"
-                alt="images-not_found"
-              />
-            </div>
+      <div class="row">
+        <div class="col-lg-6">
+          <div
+            class="about-img-content"
+            data-aos="zoom-in"
+            data-aos-delay="100"
+          >
+            <img
+              src="/images/ad-kraft-google-partner.jpg"
+              alt="images-not_found"
+            />
           </div>
-          <div class="col-lg-6">
-            <div class="offset-about">
-              <div class="about-content section-title primary">
-                <h5 class="sub-title">
-                  // Digitalna agencija koja će vas ojačati
-                </h5>
-                <h3 class="title">Google partner</h3>
-                <p>
-                  Već 3 godine smo sertifikovani i priznati kao Google Partner,
-                  gdje smo pokazali našu stručnost i kvalitet. Svake godine
-                  obnavljamo našu sertifikaciju i redovno polažemo sve Google
-                  testove.
-                </p>
+        </div>
+        <div class="col-lg-6">
+          <div class="offset-about">
+            <div class="about-content section-title primary">
+              <h5 class="sub-title">
+                // Digitalna agencija koja će vas ojačati
+              </h5>
+              <h3 class="title">Google partner</h3>
+              <p>
+                Već 3 godine smo sertifikovani i priznati kao Google Partner,
+                gdje smo pokazali našu stručnost i kvalitet. Svake godine
+                obnavljamo našu sertifikaciju i redovno polažemo sve Google
+                testove.
+              </p>
 
-                <div class="row">
-                  <div class="col-lg-6">
-                    <div class="call-to-action text-center-sm mb-5">
-                      <n-link to="/o-nama" class="btn btn-warning"
-                        >Više o nama <i class="icofont-rounded-double-right"></i
-                      ></n-link>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6 text-center-sm">
+              <div class="row">
+                <div class="col-lg-6">
+                  <div class="call-to-action text-center-sm mb-5">
+                    <n-link to="/o-nama" class="btn btn-warning"
+                      >Više o nama <i class="icofont-rounded-double-right"></i
+                    ></n-link>
                     <a
-                      href="https://www.google.com/partners/agency?id=7643035355"
-                      target="_blank"
-                      ><img
-                        src="/images/ad-kraft-google-partner-badge.png"
-                        alt="Google Partner bedž."
-                        width="160px"
-                    /></a>
+                    href="https://www.google.com/partners/agency?id=7643035355"
+                    target="_blank"
+                    ><img
+                      src="/images/ad-kraft-google-partner-badge.png"
+                      alt="Google Partner bedž."
+                      width="160px"
+                      class="d-block mt-3"
+                  /></a>
                   </div>
                 </div>
+
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
+
+    <WorkingProcess />
 
     <CaseStudies />
 

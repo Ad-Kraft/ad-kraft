@@ -37,7 +37,7 @@ $gray-800: #f8f8f8;
 // Other Colors
 $black: #202020;
 $red: #dc3545;
-$blue: #63B6F3;
+$blue: #736ae4;
 $green: #32b618;
 $cyan: #0dcaf0;
 $lime-100: #e0fae7;
@@ -54,8 +54,8 @@ $warning: $blue;
 $danger: $red;
 $light: $gray-800;
 
-$btn-warning: linear-gradient(to right, #F08AF8, #63B6F3);
-$btn-warning-hover: linear-gradient(to left, #F08AF8, #63B6F3);
+$btn-warning: #ff75b8;
+$btn-warning-hover: #ff9bcb;
 
 
 // scss-docs-start theme-colors-map

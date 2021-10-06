@@ -34,7 +34,7 @@
             height: 170px;
             margin: 0 auto 5px;
             position: relative;
-            border: 5px solid #65b5f3;
+            border: 5px solid #ff75b8;
             border-radius: 50%;
             background-color: $primary;
             width: 170px;
@@ -96,7 +96,7 @@
 
         &:hover {
             .title {
-                background: linear-gradient(to right, #F08AF8 0%, #63B6F3 100%);
+                background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
                 background-clip: text;
                 -webkit-text-fill-color: transparent;
             }

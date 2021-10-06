@@ -19,7 +19,7 @@
         background-color: #f7faff;
         border-radius: 15px;
         .accordion-button {
-            color: #F08AF8;
+            color: #ff75b8;
             display: flex;
             font-size: 18px;
             font-weight: 400;
@@ -57,7 +57,7 @@
                 &::after {
                   content: "-";
                   transform: rotate(0deg);
-                  color: #F08AF8;
+                  color: #ff75b8;
                 }
             }
 
@@ -86,8 +86,8 @@
         padding: 0 40px 20px;
         .card-text {
             color: #767988;
-            font-size: 15px;
-            line-height: 1.8;
+            font-size: 18px;
+            line-height: 1.9;
         }
     }
 }

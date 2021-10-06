@@ -512,7 +512,7 @@ export default {
 </script>
 
 
-<style scoped>
+<style lang="scss" scoped>
 
 .row {
   margin-left: 0px;
@@ -574,7 +574,7 @@ ul li {
   position: absolute;
   top: -20px;
   right: -20px;
-  background-color: #6ab3f3;
+  background-color: $main-theme-color;
   text-align: center;
   border-radius: 50%;
 }
@@ -590,7 +590,7 @@ ul li {
 }
 
 .pricing-title {
-  color: #6ab3f3;
+  color: $main-theme-color;
   font-size: 20px;
   font-weight: 600;
   text-transform: uppercase;
@@ -610,7 +610,7 @@ ul li {
 .pricing-dura {
   display: inline-block;
   padding-left: 14px;
-  color: #6ab3f3;
+  color: $main-theme-color;
   font-size: 15px;
   line-height: 1em;
   font-weight: 400;

@@ -49,13 +49,13 @@
             line-height: 2.5;
             margin-bottom: 15px;
             span {
-                background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
+                background: $main-theme-color;
                 background-clip: text;
                 -webkit-text-fill-color: transparent;
             }
         }
         .title {
-            color: $primary;
+            color: $main-theme-color;
             font-weight: 400;
             line-height: 1.59;
             font-size: 22px;
@@ -78,7 +78,7 @@
                 color: $white;
             }
             .title {
-                background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
+                background: $main-theme-color;
                 background-clip: text;
                 -webkit-text-fill-color: transparent;
 
@@ -114,13 +114,13 @@
                 color: $white;
             }
             .title {
-                background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
+                background: $main-theme-color;
                 background-clip: text;
                 -webkit-text-fill-color: transparent;
                 a {
                     color: inherit;
                     &:hover {
-                        background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
+                        background: l$main-theme-color;
                         background-clip: text;
                         -webkit-text-fill-color: transparent;
                     }
@@ -148,7 +148,7 @@
             margin-bottom: 15px;
             font-size: 16px;
             span {
-                background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
+                background: $main-theme-color;
                 background-clip: text;
                 -webkit-text-fill-color: transparent;
             }

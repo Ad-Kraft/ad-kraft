@@ -217,3 +217,9 @@
     <!-- coppy right end -->
   </footer>
 </template>
+
+<style>
+.row {
+  margin-right: 0;
+}
+</style>

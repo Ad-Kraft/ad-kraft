@@ -586,6 +586,7 @@ ul li {
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   color: white;
+  font-size: 15px;
 }
 
 .pricing-title {

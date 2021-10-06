@@ -576,7 +576,7 @@ ul li {
 		transition: all 0.45s ease;
 	}
 	&:after {
-		background-color: #69B5F4;
+		background-color: $main-theme-color;
 		bottom: 0;
 		content: "";
 		height: 0%;

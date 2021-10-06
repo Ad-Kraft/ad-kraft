@@ -125,7 +125,7 @@
 
     &:hover {
         a {
-            background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
+            background: $main-theme-color;
             background-clip: text;
             -webkit-text-fill-color: transparent;
         }
@@ -155,7 +155,7 @@
     margin-bottom: 10px;
     background-color: $white;
     &:hover {
-        background-image: linear-gradient(to right, #ff75b8, #736ae4);
+        background-color: $main-theme-color;
         color: $white;
     }
     border-radius: 5px;

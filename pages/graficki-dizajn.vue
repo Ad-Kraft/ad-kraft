@@ -7,9 +7,9 @@
     <Breadcrumb title="Grafički dizajn" active-title="Grafički dizajn" />
 
     <section class="service-details-section">
-      <div class="container">
+      <div class="container-fluid pl-4 pr-4">
         <div class="row mtn-35 mb-100">
-          <div class="col-lg-6 mt-35">
+          <div class="col-lg-8 mt-35">
             <div class="service-details">
               <div class="service-details-list">
                 <h2 class="title">Šta sve obuhvata grafički dizajn?</h2>
@@ -29,7 +29,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-4">
             <img
               src="/images/service-details/graficki-dizajn/grafički-dizajn-agencija-za-digitalni-marketing-i-izradu-web-stranica.webp"
               alt="images-not_found"
@@ -233,7 +233,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">Boje</h4>
+                    <h4 class="text-light">Boje</h4>
                     <p>
                       Istraživanja pokazuju da ljudi podsvjesno ocjenjuju brend
                       ili proizvod za manje od 90 sekundi, a kod većine njih
@@ -260,7 +260,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">Slanje poruke</h4>
+                    <h4 class="text-light">Slanje poruke</h4>
                     <p>
                       Dobro osmišljen logotip Vašim će klijentima pružiti
                       predstavu o tome šta Vaša kompanija radi, zastupa ili šta
@@ -289,7 +289,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">Prepoznatljivost</h4>
+                    <h4 class="text-light">Prepoznatljivost</h4>
                     <p>
                       Dobar logo istaknuće se prvi put kada ga neko vidi.
                       Kombinacija sjajnog dizajna i efektivnog marketinga
@@ -319,7 +319,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">Jedinstvenost</h4>
+                    <h4 class="text-light">Jedinstvenost</h4>
                     <p>
                       Bilo da započinjete novi posao ili ste se odlučili za
                       rebrendiranje, bitno je da budete unikatni i istaknete se

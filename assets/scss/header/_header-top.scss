@@ -28,7 +28,7 @@
             padding: 22px 20px;
             line-height: 1;
             &:hover {
-                background-color: #F08AF8;
+                background-color: #ff75b8;
                 background-clip: text;
                 -webkit-text-fill-color: transparent;
             }
@@ -36,7 +36,7 @@
     }
 }
 .hr-border {
-    background: linear-gradient(to right, #F08AF8 0%, #63B6F3 100%);
+    background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
     display: inline-block;
     width: 90px;
     height: 1px;
@@ -52,7 +52,7 @@
 
         a {
             &:hover {
-                background: linear-gradient(to right, #F08AF8 0%, #63B6F3 100%);
+                background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
                 background-clip: text;
                 -webkit-text-fill-color: transparent;
             }
@@ -73,7 +73,7 @@
             position: absolute;
         }
         &:hover {
-            background: linear-gradient(to right, #F08AF8 0%, #63B6F3 100%);
+            background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
             background-clip: text;
             -webkit-text-fill-color: transparent;
         }

@@ -7,8 +7,8 @@
     <Breadcrumb title="Hosting" active-title="Hosting" />
 
     <section class="service-details-section">
-      <div class="container">
-        <div class="row">
+      <div class="container-fluid pl-4 pr-4">
+        <div class="row pl-4 pr-4">
           <div class="service-details">
             <h2 class="title">Web Hosting</h2>
             <p>

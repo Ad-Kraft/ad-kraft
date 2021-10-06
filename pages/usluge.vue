@@ -7,7 +7,7 @@
     <Breadcrumb title="Usluge" active-title="Usluge" />
 
     <section class="service-section section-ptb-150">
-      <div class="container">
+      <div class="container-fluid">
         <div class="row mtn-30">
           <!-- service-card start -->
           <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
@@ -26,7 +26,7 @@
                   klijenta. Garantujemo postizanje postavljenih ciljeva, poput
                   povećane prodaje ili većeg nivoa informisanosti.
                 </p>
-                <n-link to="/digitalni-marketing" class="btn btn-outline-danger"
+                <n-link to="/digitalni-marketing" class="btn btn-warning"
                   >Saznajte više</n-link
                 >
               </div>
@@ -52,7 +52,7 @@
                 </p>
                 <n-link
                   to="/izrada-web-stranica"
-                  class="btn btn-outline-warning"
+                  class="btn btn-warning"
                   >Saznajte više</n-link
                 >
               </div>
@@ -76,7 +76,7 @@
                   društvenih medija brinuće za Vaše postojeće korisnike,
                   istovremeno privlačeći nove.
                 </p>
-                <n-link to="/marketing-na-drustvenim-mrezama" class="btn btn-outline-primary"
+                <n-link to="/marketing-na-drustvenim-mrezama" class="btn btn-warning"
                   >Saznajte više</n-link
                 >
               </div>
@@ -101,7 +101,7 @@
                 </p>
                 <n-link
                   to="/search-engine-optimizacija"
-                  class="btn btn-outline-secondary"
+                  class="btn btn-warning"
                   >Saznajte više</n-link
                 >
               </div>
@@ -128,7 +128,11 @@
                   klijentima. Zato su dobro pripremljena grafička rješenja bitan
                   dio efikasne marketinške strategije.
                 </p>
-                <n-link to="/graficki-dizajn" class="btn btn-outline-secondary"
+
+                
+
+                <n-link to="/graficki-dizajn" class="btn btn-warning"
+
                   >Saznajte više</n-link
                 >
               </div>
@@ -153,7 +157,11 @@
                 </p>
                 <n-link
                   to="/optimizacija-konverzija"
-                  class="btn btn-outline-secondary"
+
+                
+
+                  class="btn btn-warning"
+
                   >Saznajte više</n-link
                 >
               </div>
@@ -175,7 +183,11 @@
                   Našim partnerima nudimo kvalitetan hosting po pristupačnim
                   cijena.
                 </p>
-                <n-link to="/hosting" class="btn btn-outline-secondary"
+
+                
+
+                <n-link to="/hosting" class="btn btn-warning"
+
                   >Saznajte više</n-link
                 >
               </div>

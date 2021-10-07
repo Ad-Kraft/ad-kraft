@@ -10,14 +10,14 @@
     />
 
     <section class="service-details-section">
-      <div class="container">
+      <div class="container-fluid pl-4 pr-4">
         <div class="row mtn-35">
           <div class="col-12 mb-100">
             <div class="service-details">
               <div class="service-details-list">
                 <h2 class="title">Marketing na društvenim mrežama</h2>
                 <div class="row">
-                  <div class="col-lg-7">
+                  <div class="col-lg-8">
                     <p>
                       Efektivan marketing na društvenim mrežama pomoći će Vam u
                       razvijanju poslovanja, održavanju prisutnosti na
@@ -42,7 +42,7 @@
                       marketing na veći nivo i otvarate novo tržište.
                     </p>
                   </div>
-                  <div class="col-lg-5">
+                  <div class="col-lg-4">
                     <img
                       src="/images/marketing-na-drustvenim-mrezama/Marketing-na-drustvenim-mrezama-AdKraft.png"
                       alt="images-not_found"
@@ -53,7 +53,7 @@
             </div>
           </div>
         </div>
-        <div class="container  mb-100">
+        <div class="container-fluid mb-100">
           <div class="row">
             <h4 class="text-dark">
               Nudimo Vam marketing na društvenim mrežama u koji ubrajamo:
@@ -282,7 +282,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h5 class="text-dark">Praćenje i optimizovanje</h5>
+                    <h5 class="text-light">Praćenje i optimizovanje</h5>
                     <p>
                       Svakodnevno praćenje i optimizovanje kampanja, upravljanje
                       društvenim medijima, digitalne odnose s javnošću,
@@ -302,7 +302,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h5 class="text-dark">Sedmični izvještaji</h5>
+                    <h5 class="text-light">Sedmični izvještaji</h5>
                     <p>
                       Stvaranje sedmičnih izvještaja o rezultatima Vaših
                       kampanja, koji sadrže sve parametre i tokove kampanja na
@@ -320,7 +320,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h5 class="text-dark">Svakodnevni kontakt</h5>
+                    <h5 class="text-light">Svakodnevni kontakt</h5>
                     <p>
                       Održavanje bliske saradnje našeg tima sa klijentom kako
                       bismo osigurali da kampanje postignu svoje ciljeve.
@@ -337,7 +337,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h5 class="text-dark">Objavljivanje sadržaja</h5>
+                    <h5 class="text-light">Objavljivanje sadržaja</h5>
                     <p>
                       Stvaranje i objavljivanje sadržaja na društvenim mrežama.
                     </p>
@@ -353,7 +353,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h5 class="text-dark">Obrada fotografija i videa</h5>
+                    <h5 class="text-light">Obrada fotografija i videa</h5>
                     <p>
                       Kreiranje viralnih fotografija, slika i video materijala.
                     </p>
@@ -369,7 +369,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h5 class="text-dark">Marketinške poruke</h5>
+                    <h5 class="text-light">Marketinške poruke</h5>
                     <p>
                       Širenje ciljane marketinške poruke korisnicima svih
                       društvenih mreža.
@@ -386,7 +386,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h5 class="text-dark">Savjetovanje</h5>
+                    <h5 class="text-light">Savjetovanje</h5>
                     <p>
                       Davanje preporuka, ideja i savjeta za poboljšavanje
                       rezultata Vaših kampanja.
@@ -403,7 +403,7 @@
               >
                 <div class="service-card">
                   <div class="service-content">
-                    <h5 class="text-dark">Vođenje blogova</h5>
+                    <h5 class="text-light">Vođenje blogova</h5>
                     <p>
                       Vođenje blogova i širenje postojeće mreže pratilaca,
                       blogera i influensera.

@@ -3,7 +3,7 @@
     <div class="container">
       <div class="brand-card bg-cover">
         <p class="text-center">
-          Vjeruje nam <span class="text-gradient">80+</span> klijenata širom svijeta.
+          Vjeruje nam <span class="main-theme-color">80+</span> klijenata širom svijeta.
         </p>
         <swiper :options="brandCarousel">
           <div

@@ -10,16 +10,16 @@
     />
 
     <section class="service-details-section">
-      <div class="container">
+      <div class="container-fluid pl-4 pr-4">
         <div class="row">
           <div class="col-12">
             <div class="service-details">
               <div class="service-details-list">
-                <div class="row mb-100">
-                  <h2 class="title">
+                <h2 class="title">
                     Izrada web stranica po najnovijim standardima
                   </h2>
-                  <div class="col-md-6">
+                <div class="row mb-100">
+                  <div class="col-lg-6">
                     <p>
                       Web stranica ne bi trebala samo privući pažnju. Uloga web
                       stranice je privlačenje i angažovanje korisnika, kao i
@@ -48,7 +48,7 @@
                       dokumentacije) kao i potrebne upute oko dizajna.
                     </p>
                   </div>
-                  <div class="col-md-6">
+                  <div class="col-lg-6">
                     <img
                       src="/images/izrada-web-stranica/ad-kraft-izrada-stranica.png"
                       alt=""
@@ -56,13 +56,13 @@
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-md-6 order-2 order-md-1">
+                  <div class="col-lg-6 order-2 order-lg-1">
                     <img
                       src="/images/izrada-web-stranica/ad-kraft-izrada-stranica-2.png"
                       alt=""
                     />
                   </div>
-                  <div class="col-md-6 order-1 order-md-2">
+                  <div class="col-lg-6 order-1 order-lg-2">
                     <p>
                       S našom agencijom Vaš posao će biti primijećen u
                       digitalnom svijetu jer korištenjem genijalnih dizajnerskih
@@ -104,7 +104,7 @@
           <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
             <div class="service-card">
               <div class="service-content">
-                <h5 class="text-dark">Neki od naših zadataka</h5>
+                <h5 class="text-light">Neki od naših zadataka</h5>
                 <ul class="mt-3">
                   <li class="mb-2">
                     registracija domena (, *.com, *.net, *.org, *.biz, itd.) i
@@ -130,7 +130,7 @@
           <div class="col-md-6 mt-30" data-aos="fade-up" data-aos-delay="500">
             <div class="service-card">
               <div class="service-content">
-                <h5 class="text-dark">Izrada web stranica ostale usluge</h5>
+                <h5 class="text-light">Izrada web stranica ostale usluge</h5>
                 <ul class="mt-3">
                   <li class="mb-2">
                     održavanje web stranica – promjene, dopune, sitne ispravke u
@@ -216,7 +216,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">Custom CMS</h4>
+                    <h4 class="text-light">Custom CMS</h4>
                     <p>
                       Izrada web stranica u CMS (Sistemu za upravljanje
                       saržajem) omogućava Vam da uređujete svoj web sajt bez
@@ -246,7 +246,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">WordPress</h4>
+                    <h4 class="text-light">WordPress</h4>
                     <p>
                       Izrada web stranica u WordPress-u je danas dosta
                       popularna. Ono što WordPress čini popularnim su mogućnosti
@@ -277,7 +277,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">Web shop</h4>
+                    <h4 class="text-light">Web shop</h4>
                     <p>
                       Naša digitalna agencija nudi softver rješenja za
                       e-commerce i internet prodavnice.
@@ -306,7 +306,7 @@
                     </a>
                   </div>
                   <div class="service-content">
-                    <h4 class="text-dark">Custom rješenje</h4>
+                    <h4 class="text-light">Custom rješenje</h4>
                     <p>
                       Naš tim je visoko kvalifikovan za HTML, CSS, JavaScript,
                       jQuery, Vue, Nuxt, Ajax, PHP, MySQL, Git, Apache and
@@ -357,7 +357,7 @@
         <div class="service-details mt-4">
           <div class="images-warp">
             <div class="images-six">
-              <div class="container">
+              <div class="container-fluid">
                 <h4 class="text-dark mt-60 mb-5">Neki od naših klijenata</h4>
                 <div class="row">
                   <div class="col-md-4 col-sm-12 mb-3">
@@ -576,7 +576,7 @@ ul li {
 		transition: all 0.45s ease;
 	}
 	&:after {
-		background-color: #69B5F4;
+		background-color: $main-theme-color;
 		bottom: 0;
 		content: "";
 		height: 0%;

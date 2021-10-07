@@ -144,7 +144,7 @@ export default {
       solutionUrl: "",
       resultUrl: "",
       ctaTitle: 'Saznajte kako se ovi rezultati mogu ostvariti i kod vas',
-      ctaDesc: 'Sve počinje od određivanja cilja i preciznog planiranja svih aktivnosti koje su potrebne da bi se ostvarili najbilji mogući rezultati.'
+      ctaDesc: 'Sve počinje od određivanja cilja i preciznog planiranja svih aktivnosti koje su potrebne da bi se ostvarili najbolji mogući rezultati.'
     };
   },
 

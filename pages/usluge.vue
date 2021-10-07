@@ -26,7 +26,7 @@
                   klijenta. Garantujemo postizanje postavljenih ciljeva, poput
                   povećane prodaje ili većeg nivoa informisanosti.
                 </p>
-                <n-link to="/digitalni-marketing" class="btn btn-outline-danger"
+                <n-link to="/digitalni-marketing" class="btn btn-warning"
                   >Saznajte više</n-link
                 >
               </div>
@@ -52,7 +52,7 @@
                 </p>
                 <n-link
                   to="/izrada-web-stranica"
-                  class="btn btn-outline-warning"
+                  class="btn btn-warning"
                   >Saznajte više</n-link
                 >
               </div>
@@ -76,7 +76,7 @@
                   društvenih medija brinuće za Vaše postojeće korisnike,
                   istovremeno privlačeći nove.
                 </p>
-                <n-link to="/marketing-na-drustvenim-mrezama" class="btn btn-outline-primary"
+                <n-link to="/marketing-na-drustvenim-mrezama" class="btn btn-warning"
                   >Saznajte više</n-link
                 >
               </div>
@@ -101,7 +101,7 @@
                 </p>
                 <n-link
                   to="/search-engine-optimizacija"
-                  class="btn btn-outline-secondary"
+                  class="btn btn-warning"
                   >Saznajte više</n-link
                 >
               </div>
@@ -128,8 +128,12 @@
                   klijentima. Zato su dobro pripremljena grafička rješenja bitan
                   dio efikasne marketinške strategije.
                 </p>
-                <n-link to="/graficki-dizajn" class="btn btn-outline-secondary"
-                  >Detaljnije +</n-link
+
+                
+
+                <n-link to="/graficki-dizajn" class="btn btn-warning"
+
+                  >Saznajte više</n-link
                 >
               </div>
             </div>
@@ -153,8 +157,12 @@
                 </p>
                 <n-link
                   to="/optimizacija-konverzija"
-                  class="btn btn-outline-secondary"
-                  >Detaljnije +</n-link
+
+                
+
+                  class="btn btn-warning"
+
+                  >Saznajte više</n-link
                 >
               </div>
             </div>
@@ -175,8 +183,12 @@
                   Našim partnerima nudimo kvalitetan hosting po pristupačnim
                   cijena.
                 </p>
-                <n-link to="/hosting" class="btn btn-outline-secondary"
-                  >Detaljnije +</n-link
+
+                
+
+                <n-link to="/hosting" class="btn btn-warning"
+
+                  >Saznajte više</n-link
                 >
               </div>
             </div>

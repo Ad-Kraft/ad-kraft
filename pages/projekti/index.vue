@@ -25,11 +25,11 @@
                 </n-link>
               </div>
               <div class="case-content">
-                <h3 class="title">
+                <h4 class="case-title">
                   <n-link :to="`/projekti/${caseStudy.slug}`">{{
                     caseStudy.title
                   }}</n-link>
-                </h3>
+                </h4>
                 <p
                   v-for="(cat, index) in caseStudy.case_studies_categories"
                   :key="index"

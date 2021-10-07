@@ -20,7 +20,7 @@
                   <span>{{ article.published }}</span>
                 </li>
               </ul>
-              <div class="social-share-wrap">
+              <!--<div class="social-share-wrap">
                 <span class="share mb-2">Share:</span>
                 <ul
                   class="
@@ -46,7 +46,7 @@
                     ></a>
                   </li>
                 </ul>
-              </div>
+              </div>-->
             </div>
             <!-- social-share-card end -->
 

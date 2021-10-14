@@ -587,6 +587,7 @@ ul li {
   transform: translate(-50%, -50%);
   color: white;
   font-size: 15px;
+  line-height: 1.2em;
 }
 
 .pricing-title {

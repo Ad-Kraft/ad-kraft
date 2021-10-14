@@ -50,7 +50,6 @@
             margin-bottom: 15px;
             span {
                 background: $main-theme-color;
-                background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
                 background-clip: text;
                 -webkit-text-fill-color: transparent;
             }
@@ -65,9 +64,9 @@
             }
 
             a {
-                color: inherit;
+                color: #ff75b8;
                 &:hover {
-                    color: $warning;
+                    color: $warning
                 }
             }
         }
@@ -86,7 +85,7 @@
 
                 a {
                     &:hover {
-                        color: inherit;
+                        color: #ff75b8;
                     }
                 }
             }
@@ -117,14 +116,12 @@
             }
             .title {
                 background: $main-theme-color;
-                background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
                 background-clip: text;
                 -webkit-text-fill-color: transparent;
                 a {
                     color: inherit;
                     &:hover {
                         background: l$main-theme-color;
-                        background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
                         background-clip: text;
                         -webkit-text-fill-color: transparent;
                     }
@@ -153,7 +150,6 @@
             font-size: 16px;
             span {
                 background: $main-theme-color;
-                background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
                 background-clip: text;
                 -webkit-text-fill-color: transparent;
             }

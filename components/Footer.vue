@@ -194,7 +194,7 @@
                       class="mt-4"
                       width="160px"
                       src="/images/footer/MSA-Partner-Badge-2021.jpg"
-                      alt=""
+                      alt="MSA partner Badge"
                     />
                   </a>
                 </div>

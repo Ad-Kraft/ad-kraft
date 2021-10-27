@@ -3,12 +3,12 @@
     <img
       class="shape shape1"
       src="/images/bread/ad-kraft-digitalna-marketing-agencija-subheader-img.png"
-      alt="images_not_found"
+      alt="agencija za digitalni marketing Ad-Kraft subheader image"
     />
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <h2 class="title text-center">{{ title }}</h2>
+          <h1 class="title text-center">{{ title }}</h1>
           <nav aria-label="breadcrumb">
             <ul class="breadcrumb justify-content-center">
               <li class="breadcrumb-item">

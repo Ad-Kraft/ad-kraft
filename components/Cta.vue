@@ -34,7 +34,7 @@ export default {
   border-radius: 15px;
   padding: 2em;
   position: relative;
-  background-image: url('/images/footer/ad-kraft-logo-footer.png');
+  background-image: url('/images/footer/ad-kraft-logo-footer.webp');
   background-repeat: no-repeat;
   background-position: bottom left;
   background-size: 250px;

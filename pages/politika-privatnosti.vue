@@ -317,13 +317,13 @@ export default {
   head() {
     return {
       title:
-        "Digitalni marketing - Ad Kraft | Internet Marketing i Web Dizajn Agencija",
+        "Politika privatnosti - Ad Kraft | Agencija za Digitalni Marketing i Web Dizajn",
       meta: [
         {
           hid: "description",
           name: "description",
           content:
-            "Digitalni marketing za Vas. Ad-Kraft Agencija za digitalni marketing Vam nudi usluge digitalnog marketinga kojima povećavate Vaše online prisustvo.",
+            "Ad Kraft - Politika privatnosti | Na koji način se Vaši podaci prikupljaju, koriste i kako se čuvaju.",
         },
       ],
     };

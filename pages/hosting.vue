@@ -60,7 +60,7 @@
                 </ul>
               </div>
               <div class="col-lg-4">
-                <img src="/images/hosting/ad-kraft-hosting.png" alt="" />
+                <img src="/images/hosting/ad-kraft-hosting.png" alt="Hosting slika" />
               </div>
             </div>
           </div>
@@ -343,7 +343,7 @@
             <div class="service-details">
               <div class="row mt-5 mb-5">
                 <div class="col-lg-6 order-2 order-lg-1">
-                  <img src="/images/hosting/ad-kraft-hosting-3.png" alt="" />
+                  <img src="/images/hosting/ad-kraft-hosting-3.png" alt="Slika hosting 2" />
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2">
                   <h4 class="text-dark">Napomena:</h4>
@@ -407,14 +407,14 @@
                   </ul>
                 </div>
                 <div class="col-lg-6">
-                  <img src="/images/hosting/ad-kraft-hosting-1.png" alt="" />
+                  <img src="/images/hosting/ad-kraft-hosting-1.png" alt="Slika hosting serveri" />
                 </div>
               </div>
             </div>
             <div class="service-details">
               <div class="row mt-5 mb-5">
                 <div class="col-lg-6 order-2 order-lg-1">
-                  <img src="/images/hosting/ad-kraft-hosting-2.png" alt="">
+                  <img src="/images/hosting/ad-kraft-hosting-2.png" alt="Hosting slika 3">
                 </div>
                 <div class="col-lg-6 mt-60 order-1 order-lg-2">
                   <h4 class="text-dark">II Premium nivo podrške:</h4>
@@ -505,7 +505,15 @@ export default {
 
   head() {
     return {
-      title: "Hosting - Ad Kraft | Internet Marketing i Web Dizajn Agencija",
+      title: "Hosting - Ad Kraft | Agencija za Digitalni Marketing i Web Dizajn",
+            meta: [
+        {
+          hid: "description",
+          name: "description",
+          content:
+            "Digitalni Marketing Agencija | Banja Luka. Nudimo Vam usluge hostinga i registracije domena. Izaberite paket po Vašoj mjeri.",
+        },
+      ],
     };
   },
 };

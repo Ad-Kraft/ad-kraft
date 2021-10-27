@@ -1,7 +1,7 @@
 <template>
   <div class="about-banner">
     <n-link to="/" class="logo">
-      <img src="/images/about/logo.png" alt="logo_not_found" />
+      <img src="/images/about/logo.png" alt="logo" />
     </n-link>
     <h4 class="title">Ostvarimo saradnju</h4>
     <p><a href="tel:+38765393205">+387 (0) 65 393 205</a></p>

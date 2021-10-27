@@ -4,7 +4,7 @@
       <div class="row mtn-30">
         <div class="col-md-6 col-xl-4 mt-30">
           <div class="about-thumb">
-            <img src="/images/about/2.png" alt="images_not_found" />
+            <img src="/images/about/2.png" alt="Digitalni strucnjaci blizu vas-Ad Kraft" />
           </div>
         </div>
         <div class="col-md-6 col-xl-5 mt-30">

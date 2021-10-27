@@ -112,7 +112,7 @@ export default {
 
   head() {
     return {
-      title: "Kontakt - Ad Kraft | Internet Marketing i Web Dizajn Agencija",
+      title: "Kontakt - Ad Kraft | Agencija za Digitalni Marketing i Web Dizajn",
       meta: [
         {
           hid: "description",

@@ -265,10 +265,10 @@
           </div>
         </div>
 
-        <div class="service-details">
+        <div class="service-details mt-60">
           <div class="service-details-list">
             <div class="row mtn-35">
-              <div class="col-lg-12 mt-60">
+              <div class="col-lg-6">
                 <p>
                   Kvalitetno upravljanje internet reputacijom povećava Vaš ugled
                   i rangiranje na internet pretraživačima, povećava internet
@@ -280,6 +280,8 @@
                   širenje negativnog sadržaja koji se pojavljuje u
                   pretraživačima kod pretraživanja brenda i ključnih riječi.
                 </p>
+              </div>
+              <div class="col-lg-6">
                 <p>
                   Nudimo Vam kompletno upravljanje Vašom internet reputacijom i
                   pružamo širok spektar usluga kao što su internet PR,
@@ -290,6 +292,19 @@
                   da na osnovu tih podataka koristimo svaku priliku da kreiramo
                   sadržaj za ciljnu publiku.
                 </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="service-details mt-60">
+          <div class="service-details-list">
+            <div class="row mtn-35">
+              <div class="col-lg-6">
+                <img src="/images/seo/SEO-Search-Engine-Opttimizacija-Google-Result-Ad-Kraft.png" alt="">
+              </div>
+              <div class="col-lg-6">
+               <img src="/images/seo/SEO-Bing-result-Ad-Kraft.png" alt="">
               </div>
             </div>
           </div>

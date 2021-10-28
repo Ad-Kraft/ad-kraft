@@ -200,13 +200,13 @@ export default {
   head() {
     return {
       title:
-        "Digitalni marketing - Ad Kraft | Internet Marketing i Web Dizajn Agencija",
+        "Uslovi i odredbe - Ad Kraft | Agencija za Digitalni Marketing i Web Dizajn",
       meta: [
         {
           hid: "description",
           name: "description",
           content:
-            "Digitalni marketing za Vas. Ad-Kraft Agencija za digitalni marketing Vam nudi usluge digitalnog marketinga kojima povećavate Vaše online prisustvo.",
+            "Pogledajte opšte uslove (GTC) koji se primjenjuju na sve ugovore između Klijenta i Ad Krafta",
         },
       ],
     };

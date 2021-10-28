@@ -91,7 +91,7 @@
                     <img
                       class="testimonial-profile"
                       src="/images/testimonial/lg-2.png"
-                      alt="images-not_found"
+                      alt="Goran Gojic-Bravo Systems-testimonial"
                     />
                   </div>
                   <p>
@@ -138,7 +138,7 @@
                     <img
                       class="testimonial-profile"
                       src="/images/testimonial/lg-4.png"
-                      alt="images-not_found"
+                      alt="Dr. Boris Ćulum – Elite Dent-testimonial"
                     />
                   </div>
                   <p>
@@ -162,7 +162,7 @@
                     <img
                       class="testimonial-profile"
                       src="/images/testimonial/lg-5.png"
-                      alt="images-not_found"
+                      alt="Dean Žuna – Ad Lab-testimonial"
                     />
                   </div>
                   <p>

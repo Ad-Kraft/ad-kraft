@@ -40,7 +40,7 @@
                     <img
                       src="/images/optimizacija-konverzije/cro.png
                   "
-                      alt=""
+                      alt="Optimizacija konverzija-CRO"
                     />
                   </div>
                   <div class="col-lg-6">
@@ -125,7 +125,7 @@
                       <span></span>
                     </div>
                     <a href="#" class="marketing-social-icons">
-                      <img src="/images/optimizacija-konverzije/bounc-rate.png" alt="" />
+                      <img src="/images/optimizacija-konverzije/bounc-rate.png" alt="Optimizacija konverzija-Bounce Rate icon" />
                     </a>
                   </div>
                   <div class="service-content">
@@ -154,7 +154,7 @@
                       <span></span>
                     </div>
                     <a href="#" class="marketing-social-icons">
-                      <img src="/images/optimizacija-konverzije/heat-map.png" alt="" />
+                      <img src="/images/optimizacija-konverzije/heat-map.png" alt="Optimizacija konverzija-Heat Map icon" />
                     </a>
                   </div>
                   <div class="service-content">
@@ -184,7 +184,7 @@
                       <span></span>
                     </div>
                     <a href="#" class="marketing-social-icons">
-                      <img src="/images/optimizacija-konverzije/testiranje.png" alt="" />
+                      <img src="/images/optimizacija-konverzije/testiranje.png" alt="Optimizacija konverzija-A/B testianje icon" />
                     </a>
                   </div>
                   <div class="service-content">
@@ -217,7 +217,7 @@
                       <span></span>
                     </div>
                     <a href="#" class="marketing-social-icons">
-                      <img src="/images/optimizacija-konverzije/landing-page.png" alt="" />
+                      <img src="/images/optimizacija-konverzije/landing-page.png" alt="Optimizacija konverzija Landing stranice-icon" />
                     </a>
                   </div>
                   <div class="service-content">
@@ -267,7 +267,7 @@
               <div class="col-lg-5 col-md-5">
                 <img
                   src="/images/optimizacija-konverzije/optimizacija-stope-konverzija.jpg"
-                  alt=""
+                  alt="Optimizacija konverzija-sta dobijate uslugom"
                 />
               </div>
             </div>
@@ -339,7 +339,7 @@ export default {
   head() {
     return {
       title:
-        "Optimizacija konverzija - Ad Kraft | Internet Marketing i Web Dizajn Agencija",
+        "Optimizacija konverzija - Ad Kraft |  Agencija za Digitalni Marketing i Web Dizajn",
       meta: [
         {
           hid: "description",

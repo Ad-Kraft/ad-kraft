@@ -37,7 +37,7 @@
                     </p>
                     <img
                       src="/images/about/ad-kraft-prvi-rodjendan-1.jpg"
-                      alt=""
+                      alt="Proslava prvog rodjendana od Ad-Kraft-a"
                     />
                   </div>
                 </div>
@@ -52,7 +52,7 @@
                     </p>
                     <img
                       src="/images/about/ad-kraft-drugi-rodjendan-1.jpg"
-                      alt=""
+                      alt="Proslava drugog rodjendana Ad-Krafta"
                     />
                   </div>
                 </div>

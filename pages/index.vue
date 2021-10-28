@@ -20,7 +20,7 @@
           >
             <img
               src="/images/ad-kraft-google-partner.jpg"
-              alt="images-not_found"
+              alt="google partner badge"
             />
           </div>
         </div>
@@ -98,7 +98,7 @@ export default {
 
   head() {
     return {
-      title: "Ad Kraft | Internet Marketing i Web Dizajn Agencija",
+      title: "Ad Kraft | Agencija za Digitalni Marketing i Web Dizajn",
       meta: [
         {
           hid: "description",

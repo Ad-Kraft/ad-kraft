@@ -39,7 +39,7 @@
           <div class="col-lg-4">
             <img
               src="/images/service-details/digitalni-marketing/digitalni-marketing-Ad-Kraft-Agencija-za-digitalni-marketing-i-izradu-web-stranica.png"
-              alt="images-not_found"
+              alt="Digitalni marketing skrojen za vas"
             />
           </div>
         </div>
@@ -50,7 +50,7 @@
               <div class="col-lg-6">
                 <img
                   src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-ppc.png"
-                  alt=""
+                  alt="Digitalni marketing-Plaćene search kampanje PPC ilustracija"
                 />
                 <h4 class="text-dark">Plaćene search kampanje PPC</h4>
                 <p>
@@ -68,7 +68,7 @@
               <div class="col-lg-6">
                 <img
                   src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-drustvene-mreze.png"
-                  alt=""
+                  alt="Digitalni marketing-Drustvene mreze ilustracija"
                 />
                 <h4 class="text-dark">Društvene mreže</h4>
                 <p>
@@ -90,7 +90,7 @@
               <div class="col-lg-6 mt-35">
                 <img
                   src="/images/service-details/digitalni-marketing/Email-marketing-Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft.png"
-                  alt=""
+                  alt="Digitalni marketing-Email marketing ilustracija"
                 />
                 <h4 class="text-dark">Email marketing</h4>
                 <p>
@@ -105,7 +105,7 @@
               <div class="col-lg-6 mt-35">
                 <img
                   src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-seo.png"
-                  alt=""
+                  alt="Digitalni marketing-SEO ilustracija"
                 />
                 <h4 class="text-dark">SEO</h4>
                 <p>
@@ -125,7 +125,7 @@
               <div class="col-lg-6 mt-35 order-2 order-md-1">
                 <img
                   src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-youtube.png"
-                  alt=""
+                  alt="Digitalni marketing-YouTube marketing ilustracija"
                 />
                 <h4 class="text-dark">YouTube marketing</h4>
                 <p>
@@ -140,7 +140,7 @@
               <div class="col-lg-6 mt-35 order-1 order-md-2">
                 <img
                   src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-sem.png"
-                  alt=""
+                  alt="Digitalni marketing-SEM ilustracija"
                 />
                 <h4 class="text-dark">SEM</h4>
                 <p>
@@ -158,7 +158,7 @@
               <div class="col-lg-6 mt-35">
                 <img
                   src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-display-marketing.png"
-                  alt=""
+                  alt="Digitalni marketing-Display marketing ilustracija"
                 />
                 <h4 class="text-dark">Display marketing</h4>
                 <p>
@@ -176,7 +176,7 @@
               <div class="col-lg-6 mt-35">
                 <img
                   src="/images/service-details/digitalni-marketing/Agencija-za-digitalni-marketing-i-izradu-web-stranica-Ad-Kraft-kontent.png"
-                  alt=""
+                  alt="Digitalni marketing-Content marketing ilustracija"
                 />
                 <h4 class="text-dark">Content marketing</h4>
                 <p>
@@ -397,7 +397,7 @@ export default {
   head() {
     return {
       title:
-        "Digitalni marketing - Ad Kraft | Internet Marketing i Web Dizajn Agencija",
+        "Digitalni marketing - Ad Kraft | Agencija za Digitalni Marketing i Web Dizajn",
       meta: [
         {
           hid: "description",

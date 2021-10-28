@@ -1,7 +1,7 @@
 .blog-section {
     padding: 145px 0px;
     background: #f7faff;
-    background-image: url("/images/blog/bg.png");
+    background-image: url("/images/blog/background-image-blog-ad-kraft.webp");
     //res
     @include max-screen(1199) {
         padding: 92px 0px 100px;
@@ -16,11 +16,9 @@
     @include max-screen(991) {
         margin-top: 0px;
     }
-
     &:hover {
         background-color: $black;
     }
-
     .thumb {
         background-color: #f7faff;
         overflow: hidden;
@@ -33,7 +31,6 @@
             }
         }
     }
-
     &:hover {
         .thumb {
             img {
@@ -62,7 +59,6 @@
             @include max-screen(1199) {
                 font-size: 18px;
             }
-
             a {
                 color: #ff75b8;
                 &:hover {
@@ -71,7 +67,6 @@
             }
         }
     }
-
     &:hover {
         .content {
             p {
@@ -82,7 +77,6 @@
                 background: linear-gradient(to right, #ff75b8 0%, #736ae4 100%);
                 background-clip: text;
                 -webkit-text-fill-color: transparent;
-
                 a {
                     &:hover {
                         color: #ff75b8;
@@ -109,7 +103,6 @@
     }
     &:hover {
         background-color: #202020;
-
         .content {
             p {
                 color: $white;
@@ -129,7 +122,6 @@
             }
         }
     }
-
     .thumb {
         margin-right: 30px;
         border-radius: 15px;
@@ -159,7 +151,6 @@
             color: $primary;
             line-height: 1.6;
             font-size: 21px;
-
             @include max-screen(1199) {
                 font-size: 18px;
             }
@@ -178,7 +169,6 @@
     background-color: #f7faff;
     overflow: hidden;
     border-radius: 15px;
-
     &:hover {
         img {
             transform: scale(1.05);
@@ -223,15 +213,14 @@
         &:hover {
             color: $warning;
         }
-        @include max-screen(992, 1199) {
+        @include max-screen(992,
+        1199) {
             font-size: 18px;
         }
-
         a {
             color: inherit;
         }
     }
-    
     .comments,
     .link-share {
         color: #596190;
@@ -239,7 +228,6 @@
         border: none;
         background-color: transparent;
         padding: 0;
-
         &:hover {
             color: $warning;
         }
@@ -250,7 +238,6 @@
     .date {
         color: #596190;
         font-weight: 400;
-
         i {
             margin-right: 5px;
         }

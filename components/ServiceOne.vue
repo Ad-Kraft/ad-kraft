@@ -22,7 +22,7 @@
               <div class="roted-around danger">
                 <span></span>
               </div>
-              <img src="/images/icon/internet-marketing.png" alt="" />
+              <img src="/images/icon/internet-marketing.png" alt="Digitalni marketing icon" />
             </div>
             <div class="service-content">
               <h4 class="title">Digitalni marketing</h4>
@@ -46,7 +46,7 @@
               <div class="roted-around warning">
                 <span></span>
               </div>
-              <img src="/images/icon/izrada-web-stranica.png" alt="" />
+              <img src="/images/icon/izrada-web-stranica.png" alt="Izrada web stranica icon" />
             </div>
             <div class="service-content">
               <h4 class="title">Izrada web stranica</h4>
@@ -70,7 +70,7 @@
               <div class="roted-around primary">
                 <span></span>
               </div>
-              <img src="/images/icon/drustvene-mreze.png" alt="" />
+              <img src="/images/icon/drustvene-mreze.png" alt="Drustvene mreze icon" />
             </div>
             <div class="service-content">
               <h4 class="title">Marketing na društvenim mrežama</h4>
@@ -94,7 +94,7 @@
               <div class="roted-around secondary">
                 <span></span>
               </div>
-              <img src="/images/icon/seo-optimizacija.png" alt="" />
+              <img src="/images/icon/seo-optimizacija.png" alt="SEO icon" />
             </div>
             <div class="service-content">
               <h4 class="title">SEO optimizacija</h4>

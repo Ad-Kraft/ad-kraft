@@ -87,13 +87,13 @@ export default {
 
   head() {
     return {
-      title: "Blog - Ad Kraft | Internet Marketing i Web Dizajn Agencija",
+      title: "Blog - Ad Kraft | Agencija za Digitalni Marketing i Web Dizajn ",
       meta: [
         {
           hid: "description",
           name: "description",
           content:
-            "Blog Pratite zanimljivosti iz digitalnog marketinga koje pišemo na našem blogu. Saznajte vise o intenrnet marketingu, izradi web stranica i mnogo vise.",
+            "Blog Pratite zanimljivosti iz digitalnog marketinga koje pišemo na našem blogu. Saznajte vise o digitalnom marketingu, izradi web stranica i mnogo vise.",
         },
       ],
     };

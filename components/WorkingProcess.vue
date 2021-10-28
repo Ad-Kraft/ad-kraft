@@ -18,10 +18,10 @@
         <img
           class="arrow-shape"
           src="/images/working/arrow-shape1.png"
-          alt="images_not_found"
+          alt="arrow shape"
         />
         <div class="icon">
-          <img src="/images/working/3.png" alt="images_not_found" />
+          <img src="/images/working/istrazivanje-icon.webp" alt="Istrazivanje icon" />
         </div>
         <h4 class="title">Istraživanje</h4>
         <p>
@@ -40,10 +40,10 @@
         <img
           class="arrow-shape"
           src="/images/working/arrow-shape2.png"
-          alt="images_not_found"
+          alt="arrow shape"
         />
         <div class="icon">
-          <img src="/images/working/2.png" alt="images_not_found" />
+          <img src="/images/working/planiranje-icon.webp" alt="Planiranje icon" />
         </div>
         <h4 class="title">Planiranje</h4>
         <p>
@@ -63,10 +63,10 @@
         <img
           class="arrow-shape"
           src="/images/working/arrow-shape1.png"
-          alt="images_not_found"
+          alt="arrow shape"
         />
         <div class="icon">
-          <img src="/images/working/1.png" alt="images_not_found" />
+          <img src="/images/working/izvrsenje-icon.webp" alt="Izvrsenje icon" />
         </div>
         <h4 class="title">Izvršenje</h4>
         <p>
@@ -83,7 +83,7 @@
         data-aos-delay="700"
       >
         <div class="icon">
-          <img src="/images/working/4.png" alt="images_not_found" />
+          <img src="/images/working/isporuka-icon.webp" alt="Isporuka icon" />
         </div>
         <h4 class="title">Isporuka</h4>
         <p>

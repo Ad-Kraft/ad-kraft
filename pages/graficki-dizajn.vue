@@ -32,7 +32,7 @@
           <div class="col-md-4">
             <img
               src="/images/service-details/graficki-dizajn/grafički-dizajn-agencija-za-digitalni-marketing-i-izradu-web-stranica.webp"
-              alt="images-not_found"
+              alt="Graficki dizajn-sta obuhvata"
             />
           </div>
         </div>
@@ -97,7 +97,7 @@
                         <div class="card-icon card-icon-large">
                           <img
                             src="images/footer/ad-kraft-logo-footer.png"
-                            alt=""
+                            alt="Logo Ad-kraft-kartica"
                           />
                         </div>
                         <div class="row mb-2 text-end">
@@ -116,7 +116,7 @@
                         <div class="card-icon card-icon-large">
                           <img
                             src="images/footer/ad-kraft-logo-footer.png"
-                            alt=""
+                            alt="Logo Ad-kraft-kartica"
                           />
                         </div>
                         <div class="row mb-2 text-end">
@@ -133,7 +133,7 @@
                         <div class="card-icon card-icon-large">
                           <img
                             src="images/footer/ad-kraft-logo-footer.png"
-                            alt=""
+                            alt="Logo Ad-kraft-kartica"
                           />
                         </div>
                         <div class="row mb-2 text-end">
@@ -150,7 +150,7 @@
                         <div class="card-icon card-icon-large">
                           <img
                             src="images/footer/ad-kraft-logo-footer.png"
-                            alt=""
+                            alt="Logo Ad-kraft-kartica"
                           />
                         </div>
                         <div class="row mb-2 text-end">
@@ -167,7 +167,7 @@
                         <div class="card-icon card-icon-large">
                           <img
                             src="images/footer/ad-kraft-logo-footer.png"
-                            alt=""
+                            alt="Logo Ad-kraft-kartica"
                           />
                         </div>
                         <div class="row mb-2 text-end">
@@ -184,7 +184,7 @@
                         <div class="card-icon card-icon-large">
                           <img
                             src="images/footer/ad-kraft-logo-footer.png"
-                            alt=""
+                            alt="Logo Ad-kraft-kartica"
                           />
                         </div>
                         <div class="row mb-2 text-end">
@@ -229,7 +229,7 @@
                       <span></span>
                     </div>
                     <a href="#" class="marketing-social-icons">
-                      <img src="/images/graficki-dizajn/colors.png" alt="" />
+                      <img src="/images/graficki-dizajn/colors.png" alt="Graficki dizajn boje icon" />
                     </a>
                   </div>
                   <div class="service-content">
@@ -256,7 +256,7 @@
                       <span></span>
                     </div>
                     <a href="#" class="marketing-social-icons">
-                      <img src="/images/graficki-dizajn/logotip.png" alt="" />
+                      <img src="/images/graficki-dizajn/logotip.png" alt="Graficki dizajn slanje poruka icon" />
                     </a>
                   </div>
                   <div class="service-content">
@@ -284,7 +284,7 @@
                     <a href="#" class="marketing-social-icons">
                       <img
                         src="/images/graficki-dizajn/prepoznatljivost.png"
-                        alt=""
+                        alt="Graficki dizajn prepoznatljivost icon"
                       />
                     </a>
                   </div>
@@ -314,7 +314,7 @@
                     <a href="#" class="marketing-social-icons">
                       <img
                         src="/images/graficki-dizajn/jedinstvenost.png"
-                        alt=""
+                        alt="Graficki dizajn jednostavnost icon"
                       />
                     </a>
                   </div>
@@ -395,7 +395,7 @@ export default {
   head() {
     return {
       title:
-        "Grafički dizajn - Ad Kraft | Internet Marketing i Web Dizajn Agencija",
+        "Grafički dizajn - Ad Kraft | Agencija za Digitalni Marketing i Web Dizajn ",
       meta: [
         {
           hid: "description",

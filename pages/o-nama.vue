@@ -7,7 +7,7 @@
     <Breadcrumb title="O nama" active-title="O nama" />
 
     <section class="about-section">
-      <img src="/images/about/bg.png" alt="images-not_found" class="about-bg" />
+      <img src="/images/about/bg.png" alt="Ad kraft Agencija za digitalni marketing-slika o nama" class="about-bg" />
       <div class="container">
         <div class="row">
           <div class="col-lg-6">
@@ -16,7 +16,8 @@
               data-aos="zoom-in"
               data-aos-delay="100"
             >
-              <img src="/images/about/ad-kraft-digitalna-marketing-agencija-o-nama.png" alt="images-not_found" />
+              <img src="/images/about/ad-kraft-digitalna-marketing-agencija-o-nama.png" alt="Ad kraft Agencija za digitalni marketing- digitalni stručnjaci blizu Vas
+" />
             </div>
           </div>
           <div class="col-lg-6">
@@ -91,7 +92,7 @@ export default {
 
   head() {
     return {
-      title: "O nama - Ad Kraft | Internet Marketing i Web Dizajn Agencija",
+      title: "O nama - Ad Kraft |  Agencija za Digitalni Marketing i Web Dizajn",
       meta: [
         {
           hid: "description",

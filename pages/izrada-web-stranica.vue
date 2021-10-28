@@ -51,7 +51,7 @@
                   <div class="col-lg-6">
                     <img
                       src="/images/izrada-web-stranica/ad-kraft-izrada-stranica.png"
-                      alt=""
+                      alt="Izrada web stranica po najnovijim standardima"
                     />
                   </div>
                 </div>
@@ -59,7 +59,7 @@
                   <div class="col-lg-6 order-2 order-lg-1">
                     <img
                       src="/images/izrada-web-stranica/ad-kraft-izrada-stranica-2.png"
-                      alt=""
+                      alt="Izrada web stranica proces"
                     />
                   </div>
                   <div class="col-lg-6 order-1 order-lg-2">
@@ -186,7 +186,7 @@
               <div class="col-lg-6 mt-35">
                 <img
                   src="/images/izrada-web-stranica/ad-kraft-3.png"
-                  alt="images-not_found"
+                  alt="Irada web stranica-web programiranje"
                 />
               </div>
             </div>
@@ -211,7 +211,7 @@
                       ><img
                         class="custom-icon"
                         src="/images/izrada-web-stranica/coding.png"
-                        alt=""
+                        alt="custom CMS icon"
                       />
                     </a>
                   </div>
@@ -241,7 +241,7 @@
                       ><img
                         class="custom-icon"
                         src="/images/izrada-web-stranica/php.png"
-                        alt=""
+                        alt="wordpress icon"
                       />
                     </a>
                   </div>
@@ -272,7 +272,7 @@
                       ><img
                         class="custom-icon"
                         src="/images/izrada-web-stranica/web-shop.png"
-                        alt=""
+                        alt="web shop icon"
                       />
                     </a>
                   </div>
@@ -301,7 +301,7 @@
                       ><img
                         class="custom-icon"
                         src="/images/izrada-web-stranica/javascript.png"
-                        alt=""
+                        alt="custom rješenja icon"
                       />
                     </a>
                   </div>
@@ -362,7 +362,7 @@
                 <div class="row">
                   <div class="col-md-4 col-sm-12 mb-3">
                     <div class="bpack-images-six">
-                      <img src="/images/izrada-web-stranica/portfolio/elit-dent.png" alt="bpack" />
+                      <img src="/images/izrada-web-stranica/portfolio/elit-dent.png" alt="Web stranica klijenta-Elite Dent" />
                       <figcaption>
                         <h3>Elite Dent</h3>
                       </figcaption>
@@ -371,7 +371,7 @@
                   </div>
                   <div class="col-md-4 col-sm-12 mb-3">
                     <div class="bpack-images-six">
-                      <img src="/images/izrada-web-stranica/portfolio/dr-kostic.png" alt="bpack" />
+                      <img src="/images/izrada-web-stranica/portfolio/dr-kostic.png" alt="Web stranica klijenta-Dr Kostic" />
                       <figcaption>
                         <h3>HB Dr Kostić</h3>
                       </figcaption>
@@ -380,7 +380,7 @@
                   </div>
                   <div class="col-md-4 col-sm-12 mb-3">
                     <div class="bpack-images-six">
-                      <img src="/images/izrada-web-stranica/portfolio/corestatehq.png" alt="bpack" />
+                      <img src="/images/izrada-web-stranica/portfolio/corestatehq.png" alt="Web stranica klijenta-CoreState" />
                       <figcaption>
                         <h3>Core State</h3>
                       </figcaption>
@@ -389,7 +389,7 @@
                   </div>
                   <div class="col-md-4 col-sm-12 mb-3">
                     <div class="bpack-images-six">
-                      <img src="/images/izrada-web-stranica/portfolio/bigportal.png" alt="bpack" />
+                      <img src="/images/izrada-web-stranica/portfolio/bigportal.png" alt="Web stranica klijenta-Big Portal" />
                       <figcaption>
                         <h3>Big Portal</h3>
                       </figcaption>
@@ -398,7 +398,7 @@
                   </div>
                   <div class="col-md-4 col-sm-12 mb-3">
                     <div class="bpack-images-six">
-                      <img src="/images/izrada-web-stranica/portfolio/jungleland.png" alt="bpack" />
+                      <img src="/images/izrada-web-stranica/portfolio/jungleland.png" alt="Web stranica klijenta-JungleLand" />
                       <figcaption>
                         <h3>Jungleland</h3>
                       </figcaption>
@@ -407,7 +407,7 @@
                   </div>
                   <div class="col-md-4 col-sm-12 mb-3">
                     <div class="bpack-images-six">
-                      <img src="/images/izrada-web-stranica/portfolio/pecenjara-carstvo.png" alt="bpack" />
+                      <img src="/images/izrada-web-stranica/portfolio/pecenjara-carstvo.png" alt="Web stranica klijenta-Pecenjara Carstvo" />
                       <figcaption>
                         <h3>Pečenjara Carstvo</h3>
                       </figcaption>
@@ -416,7 +416,7 @@
                   </div>
                   <div class="col-md-4 col-sm-12 mb-3">
                     <div class="bpack-images-six">
-                      <img src="/images/izrada-web-stranica/portfolio/colider-studio.png" alt="bpack" />
+                      <img src="/images/izrada-web-stranica/portfolio/colider-studio.png" alt="Web stranica klijenta-Colider Studio" />
                       <figcaption>
                         <h3>Collider Studio</h3>
                       </figcaption>
@@ -425,7 +425,7 @@
                   </div>
                   <div class="col-md-4 col-sm-12 mb-3">
                     <div class="bpack-images-six">
-                      <img src="/images/izrada-web-stranica/portfolio/manikas-group.png" alt="bpack" />
+                      <img src="/images/izrada-web-stranica/portfolio/manikas-group.png" alt="Web stranica klijenta-Manikas Group" />
                       <figcaption>
                         <h3>Manikas Group</h3>
                       </figcaption>
@@ -434,7 +434,7 @@
                   </div>
                   <div class="col-md-4 col-sm-12 mb-3">
                     <div class="bpack-images-six">
-                      <img src="/images/izrada-web-stranica/portfolio/pop-trade.png" alt="bpack" />
+                      <img src="/images/izrada-web-stranica/portfolio/pop-trade.png" alt="Web stranica klijenta-Pop Trade" />
                       <figcaption>
                         <h3>Pop Trade</h3>
                       </figcaption>
@@ -443,7 +443,7 @@
                   </div>
                   <div class="col-md-4 col-sm-12 mb-3">
                     <div class="bpack-images-six">
-                      <img src="/images/izrada-web-stranica/portfolio/pramac-agregati.png" alt="bpack" />
+                      <img src="/images/izrada-web-stranica/portfolio/pramac-agregati.png" alt="Web stranica klijenta-Pramac Agregati" />
                       <figcaption>
                         <h3>Pramac Agregati</h3>
                       </figcaption>
@@ -452,7 +452,7 @@
                   </div>
                   <div class="col-md-4 col-sm-12 mb-3">
                     <div class="bpack-images-six">
-                      <img src="/images/izrada-web-stranica/portfolio/sajic.png" alt="bpack" />
+                      <img src="/images/izrada-web-stranica/portfolio/sajic.png" alt="Web stranica klijenta-Advokatska firma Sajic" />
                       <figcaption>
                         <h3>AF Sajić</h3>
                       </figcaption>
@@ -461,7 +461,7 @@
                   </div>
                   <div class="col-md-4 col-sm-12 mb-3">
                     <div class="bpack-images-six">
-                      <img src="/images/izrada-web-stranica/portfolio/v-sistem-namjestaj.png" alt="bpack" />
+                      <img src="/images/izrada-web-stranica/portfolio/v-sistem-namjestaj.png" alt="Web stranica klijenta-V sistemi namjestaj" />
                       <figcaption>
                         <h3>V Sistem namještaj</h3>
                       </figcaption>
@@ -539,7 +539,7 @@ export default {
   head() {
     return {
       title:
-        "Izrada web stranica - Ad Kraft | Internet Marketing i Web Dizajn Agencija",
+        "Izrada web stranica - Ad Kraft | Agencija za Digitalni Marketing i Web Dizajn ",
       meta: [
         {
           hid: "description",

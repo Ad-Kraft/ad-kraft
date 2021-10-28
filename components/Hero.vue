@@ -24,8 +24,9 @@
           <div class="hero-img">
             <img
               class="animate-one"
-              src="/images/hero/ad-kraft-digitalna-marketing-agencija.png"
-              alt="404"
+              src="/images/hero/ad-kraft-digitalna-marketing-agencija.webp"
+              alt="
+              Ad Kraft agencija za digitalni marketing-hero image"
               data-aos="zoom-in"
               data-aos-delay="100"
             />
@@ -48,7 +49,7 @@
             </div> -->
           </div>
           <div class="hero-img-mobile">
-            <img src="/images/hero/ad-kraft-digitalna-marketing-agencija-mobile.png" alt="images-not_found" />
+            <img src="/images/hero/ad-kraft-digitalna-marketing-agencija-mobile.webp" alt="Ad Kraft agencija za digitalni marketing-hero image-za telefon" />
           </div>
         </div>
       </div>

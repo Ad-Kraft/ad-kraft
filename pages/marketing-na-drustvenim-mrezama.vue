@@ -45,7 +45,7 @@
                   <div class="col-lg-4">
                     <img
                       src="/images/marketing-na-drustvenim-mrezama/Marketing-na-drustvenim-mrezama-AdKraft.png"
-                      alt="images-not_found"
+                      alt="Marketin na društvenim mrežama-Oglašavanje"
                     />
                   </div>
                 </div>
@@ -244,7 +244,7 @@
             <div class="col-lg-6">
               <img
                 src="/images/marketing-na-drustvenim-mrezama/Marketing-na-drustvenim-mrezama-Ad-Kraft-Agencija.jpg"
-                alt="images-not_found"
+                alt="Prednosti oglašavanja na društvenim mrežama"
               />
             </div>
             <div class="col-lg-6">
@@ -481,13 +481,13 @@ export default {
   head() {
     return {
       title:
-        "Društvene mreže - Ad Kraft | Internet Marketing i Web Dizajn Agencija",
+        "Marketing na društvenim mrežama - Ad Kraft | Agencija za Digitalni Marketing i Web Dizajn",
       meta: [
         {
           hid: "description",
           name: "description",
           content:
-            "Naš tim pomoći će Vam da uspostavite prisustvo na društvenim mrežama uz grafička rješenja koja će ostaviti trajan utisak na sve koji posjećuju Vašu stranicu i profil. Uvođenjem društvenih mreža u Vaše poslovanje podižete Vaš marketing na veći nivo i otvarate novo tržište.",
+            "Marketin na društvenim mrežama | Uvođenjem društvenih mreža u Vaše poslovanje podižete Vaš marketing na veći nivo i otvarate novo tržište.",
         },
       ],
     };

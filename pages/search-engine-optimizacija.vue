@@ -231,7 +231,7 @@
               <div class="col-lg-6 mt-35">
                 <img
                   src="/images/seo/seo-ad-kraft-2.png"
-                  alt="images-not_found"
+                  alt="SEO optimizacija-slika "
                 />
               </div>
             </div>
@@ -242,12 +242,12 @@
           <div class="service-details-list">
             <div class="row mtn-35">
               <div class="col-lg-6 order-2 order-lg-1">
-                <img src="/images/seo/seo-ad-kraft-3.png" alt="" />
+                <img src="/images/seo/seo-ad-kraft-3.png" alt="SEO optimizacija-slika 3" />
               </div>
               <div class="col-lg-6 mt-35 order-1 order-lg-2">
                 <p>
                   Dakle, za oglase plaćate da budete na vrhu, naprijed i u
-                  centru, a sa organskim rezultatima pretrage vi ste na vrhu,
+                  centru, a sa organskim rezultatima pretrage Vi ste na vrhu,
                   naprijed i u sredini po zaslugama, i to je besplatno. Velika
                   prednost SEO prometa je u tome što je, ako je odabrana
                   strategija optimizacije za pretraživače efikasna, to je stalni

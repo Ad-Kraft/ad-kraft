@@ -16,7 +16,7 @@
                 <div class="roted-around danger">
                   <span></span>
                 </div>
-                <img src="/images/icon/internet-marketing.png" alt="" />
+                <img src="/images/icon/internet-marketing.png" alt="Digitalni marketing-icon" />
               </div>
               <div class="service-content">
                 <h4 class="title">Digitalni marketing</h4>
@@ -40,7 +40,7 @@
                 <div class="roted-around warning">
                   <span></span>
                 </div>
-                <img src="/images/icon/izrada-web-stranica.png" alt="" />
+                <img src="/images/icon/izrada-web-stranica.png" alt="Izrada web stranica-icon" />
               </div>
               <div class="service-content">
                 <h4 class="title">Izrada web stranica</h4>
@@ -66,7 +66,7 @@
                 <div class="roted-around primary">
                   <span></span>
                 </div>
-                <img src="/images/icon/drustvene-mreze.png" alt="" />
+                <img src="/images/icon/drustvene-mreze.png" alt="Marketing na društvenim mrežama-icon" />
               </div>
               <div class="service-content">
                 <h4 class="title">Marketing na društvenim mrežama</h4>
@@ -90,7 +90,7 @@
                 <div class="roted-around secondary">
                   <span></span>
                 </div>
-                <img src="/images/icon/seo-optimizacija.png" alt="" />
+                <img src="/images/icon/seo-optimizacija.png" alt="SEO optimizacija-icon" />
               </div>
               <div class="service-content">
                 <h4 class="title">SEO optimizacija</h4>
@@ -118,7 +118,7 @@
                 <div class="roted-around secondary">
                   <span></span>
                 </div>
-                <img src="/images/icon/graficki-dizajn.png" alt="" />
+                <img src="/images/icon/graficki-dizajn.png" alt="Grafički dizajn-icon" />
               </div>
               <div class="service-content">
                 <h4 class="title">Grafički dizajn</h4>
@@ -146,7 +146,7 @@
                 <div class="roted-around secondary">
                   <span></span>
                 </div>
-                <img src="/images/icon/optimizacija-konverzija.png" alt="" />
+                <img src="/images/icon/optimizacija-konverzija.png" alt="Optimizacija konverzija-icon" />
               </div>
               <div class="service-content">
                 <h4 class="title">Optimizacija konverzija</h4>
@@ -175,7 +175,7 @@
                 <div class="roted-around secondary">
                   <span></span>
                 </div>
-                <img src="/images/icon/hosting.png" alt="" />
+                <img src="/images/icon/hosting.png" alt="Hosting-icon" />
               </div>
               <div class="service-content">
                 <h4 class="title">Hosting</h4>
@@ -219,8 +219,16 @@ export default {
 
   head() {
     return {
-      title: "Usluge - Ad Kraft | Internet Marketing i Web Dizajn Agencija",
-    };
+      title: "Usluge - Ad Kraft | Agencija za Digitalni Marketing i Web Dizajn ",
+          meta: [
+        {
+          hid: "description",
+          name: "description",
+          content:
+            "Digitalni Marketing Agencija | Banja Luka. Nudimo Vam usluge internet marketinga, web dizajna, SEO, grafičkog dizajna, hostinga i registracije domena.",
+        },
+      ],
+    };  
   },
 };
 </script>
